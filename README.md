@@ -110,9 +110,10 @@ The primary focus of development is the addition of new posts. To contribute, fo
    - Upon a new commit to the main branch, the site will be automatically deployed via GitHub Actions to [Progressive Pulse](https://glennlum.github.io/progressive-pulse/), ensuring that the latest content is always available.
 
 ## Best Practices for Contributors
-- Ensure your post is relevant and adheres to the blog's theme.
-- Double-check for spelling and grammatical errors.
-- Make sure all links are working and relevant to the content.
+- **Relevance:** Ensure your post aligns with the blog's theme, contributing meaningful insights and perspectives to the discourse on socialism.
+- **Accuracy:** Diligently proofread your post for spelling and grammatical accuracy to maintain the blog's quality and professionalism.
+- **Formatting:** Adhere to Markdown formatting standards. Use the [Markdown Formatter](https://marketplace.visualstudio.com/items?itemName=mervin.markdown-formatter) for consistent and clean formatting of your `.md` files.
+- **Link Verification:** Regularly check that all hyperlinks in your post are functional and directly relevant to the content, providing readers with reliable and valuable resources.
 
 By following these guidelines, you can contribute effectively to the 'Progressive Pulse' blog and help maintain a high standard of content.
 
