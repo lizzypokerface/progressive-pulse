@@ -1,6 +1,6 @@
-# progressive-pulse
-Progressive Pulse: News for the People  
-A Weekly Digest of Socialist News and Insights
+# Progressive Pulse
+### News for the People
+#### A Weekly Digest of Socialist News and Insights
 
 # Pre-requisites
 Before you start, make sure you have the following installed on your system:
@@ -83,18 +83,12 @@ The primary focus of development is the addition of new posts. To contribute, fo
      ```markdown
      ---
      layout: post
-     title:  "✊ Progressive News | 01 Jan 2023"
+     title:  "✊ Progressive News | 01 Jan 2024"
      date:   2024-01-01 03:58:56 +0800
      categories: weekly news
      ---
 
      ### International
-     - [Article](https://website.com/)
-
-     ### China
-     - [Article](https://website.com/)
-
-     ### East Asia
      - [Article](https://website.com/)
 
      ...additional categories...
@@ -115,15 +109,13 @@ The primary focus of development is the addition of new posts. To contribute, fo
    - Each pull request will be thoroughly reviewed. If it is approved, it will be merged into the main branch.
    - Upon a new commit to the main branch, the site will be automatically deployed via GitHub Actions to [Progressive Pulse](https://glennlum.github.io/progressive-pulse/), ensuring that the latest content is always available.
 
-This revision provides a clear explanation of the review process and the automated deployment mechanism, highlighting that new commits trigger updates to the live site.
-
 ## Best Practices for Contributors
-- Ensure your post is relevant and adheres to the blog's theme.
-- Double-check for spelling and grammatical errors.
-- Make sure all links are working and relevant to the content.
+- **Relevance:** Ensure your post aligns with the blog's theme, contributing meaningful insights and perspectives to the discourse on socialism.
+- **Accuracy:** Diligently proofread your post for spelling and grammatical accuracy to maintain the blog's quality and professionalism.
+- **Formatting:** Adhere to Markdown formatting standards. Use the [Markdown Formatter](https://marketplace.visualstudio.com/items?itemName=mervin.markdown-formatter) for consistent and clean formatting of your `.md` files.
+- **Link Verification:** Regularly check that all hyperlinks in your post are functional and directly relevant to the content, providing readers with reliable and valuable resources.
 
 By following these guidelines, you can contribute effectively to the 'Progressive Pulse' blog and help maintain a high standard of content.
 
-
 # Troubleshooting
-1. [Resolving Ruby Installation Error '__rvm_make -j12' on ARM64 Macs)](https://github.com/rvm/rvm/issues/5379)
+1. [Resolving Ruby Installation Error '__rvm_make -j12' on ARM64 Macs](https://github.com/rvm/rvm/issues/5379)
