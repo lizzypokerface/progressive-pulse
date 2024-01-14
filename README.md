@@ -111,8 +111,11 @@ The primary focus of development is the addition of new posts. To contribute, fo
    - Push your branch to GitHub and create a pull request for your proposed changes.
    - Example: `git push origin feat/my-awesome-post`.
 
-8. **Pull Request Review:**
-   - Your pull request will be reviewed and, if approved, merged into the main branch.
+8. **Pull Request Review and Deployment:**
+   - Each pull request will be thoroughly reviewed. If it is approved, it will be merged into the main branch.
+   - Upon a new commit to the main branch, the site will be automatically deployed via GitHub Actions to [Progressive Pulse](https://glennlum.github.io/progressive-pulse/), ensuring that the latest content is always available.
+
+This revision provides a clear explanation of the review process and the automated deployment mechanism, highlighting that new commits trigger updates to the live site.
 
 ## Best Practices for Contributors
 - Ensure your post is relevant and adheres to the blog's theme.
