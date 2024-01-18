@@ -4,6 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Welcome to Progressive Pulse, your weekly digest of socialist news and insights. Each issue is a result of meticulous personal research, presenting a collection of informative links for those eager to stay informed and engaged in the world of social justice and equality. While we strive for comprehensive coverage, our focus is on delivering thought-provoking and relevant content.
+Welcome to Progressive Pulse, your weekly digest of socialist news and insights. Each meticulously researched issue presents informative links, keeping you engaged in the world of social justice. While we aim for comprehensive coverage, our focus is on delivering thought-provoking and relevant content.
 
-As you explore our pages, we invite you to experience the timeless anthem '[L'Internationale](https://youtu.be/WNPKRjNEZ5E?si=wsr1jNKQFHwBndRc).' This song of solidarity and hope has transcended generations, continuing to inspire the pursuit of equality and social justice worldwide. Its enduring relevance is a testament to the unyielding spirit of those who strive for a fairer and more equitable world.
+Explore our pages and immerse yourself in the timeless anthem '[L'Internationale](https://youtu.be/WNPKRjNEZ5E?si=wsr1jNKQFHwBndRc).' This song of solidarity has inspired generations in the pursuit of global equality. Its enduring relevance speaks to the unyielding spirit of those working for a fairer world.
+
+### New to socialism?
+
+Start here with curated YouTube videos, exploring ideas of equality and solidarity.
+* [Why You Should Be A Socialist In 2024](https://youtu.be/07E4iQ5z9iY?si=L-LYpZNEP7mU6LTX)
+* [Why You Should Be A Socialist In 2023](https://youtu.be/thJ2ocejPko?si=TONP4ZXN7qfiElmt)
+* [Socialism for Absolute Beginners](https://youtu.be/fpKsygbNLT4?si=H28-bgkVHXQ3QqJF)
