@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "✊ Progressive News | 30 Dec 2023"
-date:   2023-12-30 11:58:03 +0800
+date:   2023-12-30 11:00:00 +0800
 categories: weekly news
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "⚡️ Collective Focus | Taiwan"
-date:   2024-01-20 12:58:03 +0800
+date:   2024-01-20 12:00:00 +0800
 categories: collective focus
 ---
 

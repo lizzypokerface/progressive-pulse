@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "✊ Progressive News | 13 Jan 2024"
-date:   2024-01-13 11:58:03 +0800
+date:   2024-01-13 11:00:00 +0800
 categories: weekly news
 ---
 
