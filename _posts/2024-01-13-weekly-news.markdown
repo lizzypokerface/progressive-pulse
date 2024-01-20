@@ -16,9 +16,9 @@ categories: weekly news
 
 * [Why I Believe What I Believe About the Chinese Revolution: The Second Newsletter (2024)](https://thetricontinental.org/newsletterissue/2-2024-china-socialism/)
 
-### East Asia
+### Southeast Asia
 
-* [K Shanmugam Q&A: influential Singapore minister on US-China tensions, financial hub rivalries and the wealth gap (archived)](https://www.scmp.com/week-asia/economics/article/3216356/k-shanmugam-qa-influential-singapore-minister-us-china-tensions-financial-hub-rivalries-and-wealth)
+* [K Shanmugam Q&A: influential Singapore minister on US-China tensions, financial hub rivalries and the wealth gap (archive)](https://www.scmp.com/week-asia/economics/article/3216356/k-shanmugam-qa-influential-singapore-minister-us-china-tensions-financial-hub-rivalries-and-wealth)
 
 ### West Asia (Middle East)
 
