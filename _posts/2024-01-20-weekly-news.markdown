@@ -11,6 +11,7 @@ categories: weekly news
 * [Hundreds of Thousands March to White House for Gaza](https://youtu.be/Oe7kCxMUTLk?si=99fttjbC_NHSjaky)
 * [Susan Sarandon at March for Gaza: ‘We Need a New System’](https://youtu.be/zcxGNajPDlk?si=8HNOekNa15Lf85bw)
 * [I Had to Resign: Former State Dept. Official Speaks Out Against Genocide](https://youtu.be/iM8YAQPejLc?si=k783Zmiu9NQkofum)
+* [Al-Jazeera Gaza Correspondent Wael Dahdouh's Message for Palestine Supporters in the US](https://youtu.be/zTf9PJBtkag?si=vbCqBLCR50g9CDs5)
 
 ### International
 
@@ -31,7 +32,6 @@ categories: weekly news
 * [Is a huge war coming? US bombs Yemen, Iraq & Syria. Israel bombs Gaza & Lebanon. Both threaten Iran.](https://youtu.be/G0uXnxBWG-Q?si=FG_pl11UvBG-g55o)
 * [UN Official: Gaza Genocide is ‘Monstrosity That Will Mark Our Century’](https://youtu.be/25SZ6L_oQPQ?si=-rDjjPWaOYUGVsWb)
 * [Accumulation of Death: How Israel’s Genocide in Gaza Serves U. S. Imperialism, w/ Prof. Ali Kadri’](https://youtu.be/ApSRuZem8IY?si=SD3EhfNBRozUKNqi)
-* [Al-Jazeera Gaza Correspondent Wael Dahdouh's Message for Palestine Supporters in the US](https://youtu.be/zTf9PJBtkag?si=vbCqBLCR50g9CDs5)
 * [Why The U. S. Government Backs Israel War Crimes (archive)](https://www.patreon.com/posts/91681567?utm_campaign=postshare_fan)
 
 ### North America
