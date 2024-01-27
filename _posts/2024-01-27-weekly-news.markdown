@@ -28,8 +28,6 @@ categories: weekly news
 * [Kim Jong-un says Korean reunification no longer possible](https://youtu.be/li4cSfApSXk?si=7iUszof1SpAkd4fK)
 * [DPRK: Reunification Realities (excerpt)](https://www.youtube.com/live/3IPSQx56Y6k?si=1Fv2m03hyrHTwmgX&t=2970)
 
-https://www.youtube.com/live/3IPSQx56Y6k?si=q7dqdnFqchmhZBWC&t=2952
-
 ### South Asia
 
 * [PI Briefing No. 4 India lurches toward full-fledged fascism](https://progressive.international/wire/2024-01-26-pi-briefing-no-4-india-lurches-toward-full-fledged-fascism/en?link_id=0&can_id=273c15e51845076b800adb4815b05d15&source=email-pi-briefing-no-4-india-lurches-toward-full-fledged-fascism&email_referrer=email_2183833&email_subject=pi-briefing-no-4-india-lurches-toward-full-fledged-fascism)
