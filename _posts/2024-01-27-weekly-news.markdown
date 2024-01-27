@@ -14,6 +14,7 @@ categories: weekly news
 ### International
 
 * [We Know a Different World Will Be Born Out of This Mess: The Fourth Newsletter (2024)](https://thetricontinental.org/newsletterissue/hyper-imperialism/)
+* [Partners in Genocide: Will Biden’s Gaza Complicity Cost Him the Election?](https://www.youtube.com/live/DCafLCfSGSM?si=l2-pU2DzJb1aYZ9G)
 * [PI Briefing No. 2 Humanity on trial - South Africa brings Israel to The Hague.](https://progressive.international/wire/2024-01-12-pi-briefing-no-2-humanity-on-trial/en?link_id=0&can_id=273c15e51845076b800adb4815b05d15&source=email-pi-briefing-no-2-humanity-on-trial&email_referrer=email_2169414&email_subject=pi-briefing-no-2-humanity-on-trial)
 * [Israel rapidly losing support worldwide, poll shows, facing genocide charges at Hague](https://youtu.be/nMRBYzNtUcU?si=m2gfH9LH6B6wyg-w)
 * [Hindu Nationalism On The Rise, Ron DeSantis Drops Out, Good News For Malaria Prevention](https://youtu.be/4Kisp9CfnFI?si=yuh6MvZ6cDzaDRMd)
@@ -25,6 +26,9 @@ categories: weekly news
 ### East Asia
 
 * [Kim Jong-un says Korean reunification no longer possible](https://youtu.be/li4cSfApSXk?si=7iUszof1SpAkd4fK)
+* [DPRK: Reunification Realities (excerpt)](https://www.youtube.com/live/3IPSQx56Y6k?si=1Fv2m03hyrHTwmgX&t=2970)
+
+https://www.youtube.com/live/3IPSQx56Y6k?si=q7dqdnFqchmhZBWC&t=2952
 
 ### South Asia
 
