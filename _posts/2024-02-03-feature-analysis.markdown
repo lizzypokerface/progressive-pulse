@@ -20,6 +20,8 @@ To gain a comprehensive understanding of Xinjiang and Tibet, it is essential to 
 ### Daniel Dumbrill
 
 * [Xinjiang, Hong Kong, Media Lies and the War On China, w/ Daniel Dumbrill (archive)](https://youtu.be/BENky0V_qDM?si=thkWTSWJKNTWInc1)
+* [Manufacturing Narratives: Lessons from the Hong Kong Protests with Nury Vittachi (archive)](https://youtu.be/mBLdR-7BSFI?si=TRQW-1iL0tYzaqhY)
+* [Racist Hong Kong Protesters - A look inside (archive)](https://youtu.be/SW54UL-izDw?si=EFpz-BhRer6lZDNT)
 
 ### K J Noh
 
