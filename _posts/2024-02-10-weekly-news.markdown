@@ -13,11 +13,13 @@ categories: weekly news
 
 * [Dawn Is Breaking Out All Over, and the World Is Waking Up: The Sixth Newsletter (2024)](https://thetricontinental.org/newsletterissue/25-year-anniversary-bolivarian-revolution-venezuela/)
 * [PI Briefing No. 6 - 1.5 to stay alive?](https://progressive.international/wire/2024-02-09-pi-briefing-no-6-1-5-to-stay-alive/en?link_id=0&can_id=273c15e51845076b800adb4815b05d15&source=email-pi-briefing-no-5-saying-the-quiet-part-out-loud-2&email_referrer=email_2200280&email_subject=pi-briefing-no-6-15-to-stay-alive)
+* [How Capitalism Is Causing A Sixth Mass Extinction](https://youtu.be/oeWyARGkFDc?si=cwQZu42skgKqTZEY)
 * [Freedom Side: Global Resistance Rising - Haiti and Palestine's Fight for Freedom](https://www.youtube.com/live/ov6yCLXINs0?si=XQ3vTHz7yNCjZ0xy)
 * [Economic solutions: How to go from financialized neoliberalism to a productive, sustainable economy](https://youtu.be/o2HTc8yA4mI?si=zNYUR7JvkiuLmsxF)
 * [What's Next for BRICS? Unveiled 2024 Plans!](https://youtu.be/UAgYw_gJpV4?si=CDJiaR8G5S5JCfs2)
 
 ### China
+
 * [China expresses opposition to terrorism, wishes for safe Pakistan elections](https://youtu.be/46gaIM4b3NU?si=eDPKwzamdkdQMySY)
 * [China's record-breaking Spring Festival travel rush and holiday consumption](https://youtu.be/mIB9FePPmfs?si=NPUsgoAv39MFY3L_)
 
@@ -44,7 +46,6 @@ categories: weekly news
 * [CIA director threatens China & Russia, says Ukraine war benefits US economy](https://youtu.be/uDv4KsLXua8?si=PKroXGDM3mkrTbKF)
 * [Economic Update: The US Economy As An Apartheid System](https://youtu.be/4dQ58Mt-xfQ?si=DrrsKtYJ7NZwQxGa)
 * [Capitalism Hits Home: Positive Changes: Connections & Community Development](https://youtu.be/GAeUMRpx1ts?si=nUQhsOQcxy4vxxvv)
-* [How Capitalism Is Causing A Sixth Mass Extinction](https://youtu.be/oeWyARGkFDc?si=cwQZu42skgKqTZEY)
 * [Texas Border Standoff: Seeds of Civil War or All Theater?](https://youtu.be/-0zBwjkeJks?si=J77Gin89BU5VimuH)
 * [California Flood Victims Abandoned By Capitalist Insurance Companies](https://soundcloud.com/thesocialistprogram/california-flood-victims-abandoned-by-capitalist-insurance-companies)
 
