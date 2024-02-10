@@ -20,6 +20,7 @@ categories: weekly news
 
 ### China
 
+* [Dongsheng News on China - January 2024](https://dongshengnews.org/en/news-on-china-no-179-en/)
 * [China expresses opposition to terrorism, wishes for safe Pakistan elections](https://youtu.be/46gaIM4b3NU?si=eDPKwzamdkdQMySY)
 * [China's record-breaking Spring Festival travel rush and holiday consumption](https://youtu.be/mIB9FePPmfs?si=NPUsgoAv39MFY3L_)
 
