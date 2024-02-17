@@ -37,4 +37,3 @@ On September 26, 2022, Swedish seismologists detected multiple explosions, separ
 
 * [How Russia’s War In Ukraine Is Playing Out Inside Russia, w/ Prof. Boris Kagarlitsky](https://youtu.be/CCNriiim3z4?si=jbx7HOgRmdMn5vbX)
 * [Russia’s Communist Party on Ukraine: ‘If We Lose This Conflict, We Will Be Destroyed’](https://youtu.be/uRuDwuv36z4?si=ZB00Ahxm8tps3iEg)
-)
