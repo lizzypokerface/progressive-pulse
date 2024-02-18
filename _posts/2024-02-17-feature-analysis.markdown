@@ -7,16 +7,18 @@ categories: collective focus
 
 ![Map with the dispute between Ukraine and Russia, the Crimea and Donbas regions and the NATO allies (archive)](https://as1.ftcdn.net/v2/jpg/04/85/89/14/1000_F_485891477_x1IHGTG2NzXCUks2XAo5HzAFBfCWaech.jpg)
 
-### Illegal NATO Expansion
+### NATO's Eastward Expansion
 
-On February 24, 2022, Russian President Vladimir Putin authorized a 'special military operation' against Ukraine. The following analyses elaborate on the rationale behind his decision.
+On February 24, 2022, Russian President Vladimir Putin authorized a 'special military operation' against Ukraine. The following analyses elaborate on the rationale behind his decision:
 
 * [What The Media Isn't Telling You About Ukraine (archive)](https://youtu.be/d6HdxeAJtL0?si=6FmdLBnYF9lI8lvx)
 * [Ukraine War: Russia, the United States, and the Nature of Imperialism (archive)](https://youtu.be/fhajzlhcgSk?si=-uhE0n8bWVfJOLS2)
+* [Ukraine as a Pawn w/ Vijay Prashad (archive)](https://youtu.be/LgJvNHxEAR4?si=rvsemmWFW22W-1KG)
 
-### Neo-Nazism on the Rise
+### The Revival of the Far Right in Ukraine
 
 * [Give War a Chance: NATO and Neo-Nazis Want Ukraine Conflict to Go on Forever (archive)](https://youtu.be/0C1O2WWqyPQ?si=17QpXXqY-lQjZsMC)
+* [The Origins of Ukraine’s Fascists & Why It Matters, w/ Historian Tarik Cyril Amar (archive)](https://youtu.be/5C7DE2KFJHs?si=bAzQqYPTj9vLcCyG)
 
 ### Severing Europe from the Nord Stream Pipeline
 
@@ -35,5 +37,4 @@ On September 26, 2022, Swedish seismologists detected multiple explosions, separ
 
 ### The Russian Perspective
 
-* [How Russia’s War In Ukraine Is Playing Out Inside Russia, w/ Prof. Boris Kagarlitsky (archive)](https://youtu.be/CCNriiim3z4?si=jbx7HOgRmdMn5vbX)
 * [Russia’s Communist Party on Ukraine: ‘If We Lose This Conflict, We Will Be Destroyed’ (archive)](https://youtu.be/uRuDwuv36z4?si=ZB00Ahxm8tps3iEg)
