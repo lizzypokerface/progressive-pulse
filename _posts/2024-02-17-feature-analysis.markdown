@@ -38,3 +38,8 @@ On September 26, 2022, Swedish seismologists detected multiple explosions, separ
 ### The Russian Perspective
 
 * [Russia’s Communist Party on Ukraine: ‘If We Lose This Conflict, We Will Be Destroyed’ (archive)](https://youtu.be/uRuDwuv36z4?si=ZB00Ahxm8tps3iEg)
+
+### Two Years On
+
+* [West's new cold war on Russia & China crushes EU's economic heart: German industry](https://youtu.be/1ViFHv6aq9U?si=cPM_KG6pDu1lpLWr)
+* [Why U. S. is Pushing “Long War” Strategy in Ukraine War](https://youtu.be/jL48QbnbCJw?si=M2rTH6HbSydRWWuo)
