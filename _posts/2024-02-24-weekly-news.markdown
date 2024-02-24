@@ -21,9 +21,9 @@ categories: weekly news
 * [China’s UN envoy lashes out at U. S. for vetoing Gaza ceasefire resolution](https://youtu.be/TO0g9wscGFk?si=ZoHBF7CTJqXB5eQM)
 * [Philippine official: South China Sea disputes should be resolved bilaterally](https://youtu.be/v65O_wVb2xs?si=bG2N7eTZLJKOBB7O)
 
-* Recognising the terrible dangers posed by the New Cold War (and its potential degeneration into a hot war), a number of peace activists from the US have recently taken part in delegations to China, in order to build understanding and solidarity, and to see China's reality with their own eyes.
+* Peace delegates report back from China: Recognising the terrible dangers posed by the New Cold War (and its potential degeneration into a hot war), a number of peace activists from the US have recently taken part in delegations to China, in order to build understanding and solidarity, and to see China's reality with their own eyes.
 
-* [Peace delegates report back from China: Building solidarity and opposing the New Cold War](https://www.youtube.com/live/3lxMHs-3BCg?si=kdjVtLclkiryhJ4w)
+    - [Peace delegates report back from China: Building solidarity and opposing the New Cold War](https://www.youtube.com/live/3lxMHs-3BCg?si=kdjVtLclkiryhJ4w)
 
 ### Russia
 
