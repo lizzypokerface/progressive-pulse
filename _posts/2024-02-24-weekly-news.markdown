@@ -21,9 +21,18 @@ categories: weekly news
 * [China’s UN envoy lashes out at U. S. for vetoing Gaza ceasefire resolution](https://youtu.be/TO0g9wscGFk?si=ZoHBF7CTJqXB5eQM)
 * [Philippine official: South China Sea disputes should be resolved bilaterally](https://youtu.be/v65O_wVb2xs?si=bG2N7eTZLJKOBB7O)
 
-* Peace delegates report back from China: Recognising the terrible dangers posed by the New Cold War (and its potential degeneration into a hot war), a number of peace activists from the US have recently taken part in delegations to China, in order to build understanding and solidarity, and to see China's reality with their own eyes.
+ **Friends of Socialist China** 
+Peace delegates report back from China: Recognising the terrible dangers posed by the New Cold War (and its potential degeneration into a hot war), a number of peace activists from the US have recently taken part in delegations to China, in order to build understanding and solidarity, and to see China's reality with their own eyes.
 
-    - [Peace delegates report back from China: Building solidarity and opposing the New Cold War](https://www.youtube.com/live/3lxMHs-3BCg?si=kdjVtLclkiryhJ4w)
+Full Webinar:
+* [Peace delegates report back from China: Building solidarity and opposing the New Cold War](https://www.youtube.com/live/3lxMHs-3BCg?si=NvyEtQNcGK0Kdg4b)
+
+Speakers:
+* [Sara Flounders: Organize collectively to demand hands off China and show solidarity with Palestine](https://youtu.be/YAFbVkM45Bw?si=9Pnp2or7qe_ETmG4)
+* [Danny Haiphong: telling the truth about China and being an ambassador for peace](https://youtu.be/Mia1Jd7LWC0?si=yH9XVsVIBd_Xduy1)
+* [Dee Knight: If we want to make peace, more of us should visit China](https://youtu.be/pMF3NOl1y-g?si=G4o-7yaZZGAOfg_D)
+* [Bahman Azad: debunk lies about China in order to advance the cause of peace](https://youtu.be/-cAuJ8hfAAI?si=1dMJmK5RKsSDVOdl)
+* [CPUSA: By developing people-to-people relations, we can all build a bedrock for peace](https://youtu.be/1epRfSkVV5A?si=mxCKFEQedVVsFVSi)
 
 ### Russia
 
