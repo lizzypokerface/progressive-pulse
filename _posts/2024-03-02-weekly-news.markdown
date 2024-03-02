@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "✊ Progressive News | 24 Feb 2024"
+title:  "✊ Progressive News | 2 Mar 2024"
 date:   2024-03-02 11:00:00 +0800
 categories: weekly news
 ---
