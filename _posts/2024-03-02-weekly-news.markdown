@@ -53,6 +53,7 @@ categories: weekly news
 * [The US Company Behind Israel's Iron Dome](https://youtu.be/XXbgKsADgYk?si=_xU8bA_vv_efyTHD)
 * [He Was The Most Decorated Marine In US History. Then He Turned on The Empire.](https://youtu.be/Om4yGNFZjYY?si=RsByOPo_TfEg_UBp)
 * [Economic Update: Breaking Up With Capitalism](https://youtu.be/7eRBl7quf1g?si=uB3GtkUqoh70e-hy)
+* [Capitalism Hits Home: World Transformations Have Hit Our Homes Hard](https://youtu.be/zH7bUs-60yk?si=0a_9OQMez8iavF2Q)
 * [Internal rot will end the Great America era: Texan activist](https://youtu.be/_w9xSKHY5hQ?si=3cGySneIHvBaS7GK)
 * [Trump's 'Solution' to Inflation Is No Solution](https://soundcloud.com/thesocialistprogram/trumps-solution-to-inflation-is-no-solution)
 
