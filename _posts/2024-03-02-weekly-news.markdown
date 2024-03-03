@@ -13,6 +13,8 @@ categories: weekly news
 
 ### International
 
+* [‘Western dominance has ended’, EU foreign-policy chief admits, warning of ‘West against the Rest’](https://youtu.be/PVSQRypJXzY?si=FsgiBMkYYs46vTSf)
+* [Western Media: We lied, we cheated, you end up buying that](https://youtu.be/-8U7WOdwOn8?si=a8Ty6ch5vpqD22ze)
 * [Empire on Fire: Global Fury as Israel's Rafah Invasion Looms](https://www.youtube.com/live/ArJlYsb392o?si=hATa0RTymQOUbkMn)
 * [The Nobodies Are Worth More Than the Bullet That Kills Them: The Ninth Newsletter (2024)](https://thetricontinental.org/newsletterissue/palestine-un-security-council/)
 * [PI Briefing No. 8 Journalism on trial](https://progressive.international/wire/2024-02-23-pi-briefing-no-8-journalism-on-trial/en?link_id=0&can_id=273c15e51845076b800adb4815b05d15&source=email-pi-briefing-no-6-15-to-stay-alive&email_referrer=email_2217346&email_subject=pi-briefing-no-8-journalism-on-trial)
@@ -36,6 +38,12 @@ categories: weekly news
 ### East Asia
 
 * [US wants to instigate a proxy war between China and Philippines. It will not carry the day.](https://youtu.be/r2wJG9V8nXw?si=Gd_UwP7U-xslwI27)
+
+### Southeast Asia
+
+* [Banning Chinese attendees at Singapore Airshow reflects West’s distorted view of China](https://youtu.be/Et8YsR3Z83E?si=mcqMC_n5VzY9NKab)
+* [Former Singapore Foreign Minister Yeo Wing-wen: Without US support, is there any hope for Hong Kong? Does Singapore no longer take Hong Kong into consideration? How did Xi Jinping save China?](https://youtu.be/efd0OA2-cTo?si=FnmDtV551dcAnXoQ)
+* [Former Singapore Foreign Minister Yeo Wing-wen: Will the White House continue to support Israel after the hot war between Israel and Palestine? As Singapore moves between Washington and Beijing, how should it respond to the Taiwan Strait crisis?](https://youtu.be/TGkTTlFD3jM?si=UvD1PkVhtCjNJl8E)
 
 ### Russia
 
