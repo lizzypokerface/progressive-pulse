@@ -1,6 +1,6 @@
 # Progressive Pulse
 ### News for the People
-#### A Weekly Digest of Socialist News and Insights
+#### A weekly digest of socialist news and insights, curated by an individual in [socialist Singapore](https://www.scmp.com/week-asia/economics/article/3216356/k-shanmugam-qa-influential-singapore-minister-us-china-tensions-financial-hub-rivalries-and-wealth).
 
 # Pre-requisites
 Before you start, make sure you have the following installed on your system:
