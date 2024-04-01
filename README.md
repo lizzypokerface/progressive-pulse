@@ -107,7 +107,7 @@ The primary focus of development is the addition of new posts. To contribute, fo
 
 8. **Pull Request Review and Deployment:**
    - Each pull request will be thoroughly reviewed. If it is approved, it will be merged into the main branch.
-   - Upon a new commit to the main branch, the site will be automatically deployed via GitHub Actions to [Progressive Pulse](https://glennlum.github.io/progressive-pulse/), ensuring that the latest content is always available.
+   - Upon a new commit to the main branch, the site will be automatically deployed via GitHub Actions to [Progressive Pulse](https://lizzypokerface.github.io/progressive-pulse/), ensuring that the latest content is always available.
 
 ## Best Practices for Contributors
 - **Relevance:** Ensure your post aligns with the blog's theme, contributing meaningful insights and perspectives to the discourse on socialism.
