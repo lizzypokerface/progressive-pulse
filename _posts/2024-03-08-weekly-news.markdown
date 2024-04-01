@@ -5,7 +5,7 @@ date:   2024-03-08 11:00:00 +0800
 categories: weekly news
 ---
 
-## NYC for Palestine 🇵🇸
+### NYC for Palestine 🇵🇸
 
 * [LIVE From NYC: March 2nd Global Day of Action for Palestine](https://www.youtube.com/live/iL9f3GX3ax0?si=wsSJzizREen5WqVx)
 * [Live From NYC: IWWD Rally for Palestine](https://www.youtube.com/live/FHrd_bJoeGk?si=Ag0n4fFJ9_t9ZATD)
