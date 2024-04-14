@@ -15,6 +15,7 @@ categories: weekly news
 
 * [How the US is waging economic war on China](https://youtu.be/4l3EbRUOGsI?si=VRZO3vNJxIoE5jGK)
 * [Yellen’s accusation of China’s 'overcapacity' a disguise for US trade protectionism](https://youtu.be/a_4UqQyLVko?si=l6yvDdO-G2O6z-TM)
+* [Yellen's hope for China to reduce production capacity of EVs&solar panels shows a typical US mindset](https://youtu.be/WyUKWoJc5oA?si=mHmlUcb4_oVqbLxF)
 * [Who is fueling tensions in the South China Sea?](https://youtu.be/shTiXYpnjAw?si=mZChPEYf_uPSGo8U)
 * [China urges the Philippines to return to right track of dialogue on Ren'ai Jiao issue](https://news.cgtn.com/news/2024-04-11/China-urges-the-Philippines-to-return-to-dialogue-on-Ren-ai-Jiao-issue-1sIyYZuDLtS/p.html)
 * [Xi Jinping meets with Ma Ying-jeou in Beijing](https://news.cgtn.com/news/2024-04-10/Xi-Jinping-meets-Ma-Ying-jeou-in-Beijing-1sGFkK0JbTG/p.html)
