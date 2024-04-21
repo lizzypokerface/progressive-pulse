@@ -20,10 +20,8 @@ categories: weekly news
 * [For German companies, "decoupling" from China is the real risk](https://youtu.be/mu43J7B_ol0?si=5KpozM1JXHc5G8ur)
 * [Scholz's China Outreach: Deals and diplomacy unveiled!](https://youtu.be/qPiBMQaWEhg?si=xKvSip0owacUVDSl)
 * [Scholz's China trip a chance to shift 'moralization' of foreign policy](https://news.cgtn.com/news/2024-04-16/Scholz-s-China-trip-a-chance-to-shift-moralization-of-foreign-policy-1sQeKNv3l1S/p.html)
-
 * [China says 'disappointed' by U. S. veto of Palestine's pursuit of full UN membership](https://news.cgtn.com/news/2024-04-19/China-slams-U-S-veto-of-Palestine-s-pursuit-of-full-UN-membership-1sVaZCfpQY0/p.html)
 * [Impossible for China to accept US’ definition of freedom of navigation and overflight](https://youtu.be/qCD4BCac7ik?si=3gVMnsRH8n10x6T_)
-
 * [China has more than 4, 500 AI enterprises: MIIT](https://news.cgtn.com/news/2024-04-19/China-has-more-than-4-500-AI-enterprises-MIIT-1sVvs6V5DC8/p.html)
 * [Are American companies operating in China fleeing amid the uproar of "Peak China" theory?](https://youtu.be/WsowP1hG1U8?si=Ksjmro674XiDobNq)
 * [China has peaked and is declining? Stop spreading the old Western gibberish](https://youtu.be/VEK0fyMSXcc?si=uQQvY5sTmMQqw47X)
