@@ -27,6 +27,7 @@ categories: weekly news
 * [China has more than 4, 500 AI enterprises: MIIT](https://news.cgtn.com/news/2024-04-19/China-has-more-than-4-500-AI-enterprises-MIIT-1sVvs6V5DC8/p.html)
 * [Are American companies operating in China fleeing amid the uproar of "Peak China" theory?](https://youtu.be/WsowP1hG1U8?si=Ksjmro674XiDobNq)
 * [China has peaked and is declining? Stop spreading the old Western gibberish](https://youtu.be/VEK0fyMSXcc?si=uQQvY5sTmMQqw47X)
+* [Driving an NEV 'Babybus' in its hometown of Liuzhou City](https://youtu.be/6qv2YtTMe84?si=ae5K-nrGEnGeGuYs)
 * [A Chinese Maglev Revolution is Coming...](https://youtu.be/RlbNzjVFDHo?si=kjH974myMPi2Os6o)
 
 ### SouthEast Asia
