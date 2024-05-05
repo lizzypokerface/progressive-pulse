@@ -37,7 +37,7 @@ categories: weekly news
 
 * [Article](https://website.com/)
 
-### South America
+### Latin America and The Caribbean
 
 * [Article](https://website.com/)
 
