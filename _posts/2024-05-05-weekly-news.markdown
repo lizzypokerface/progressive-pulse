@@ -32,7 +32,7 @@ categories: weekly news
 * [China is modernized, while the positive heart of the Chinese people stayed: Gregoire de Gaulle](https://youtu.be/Mt5MrY2_caY?si=-fFY1QZCfFp9cNdK)
 * [Long March-5 rocket enters 'period of high-density launches'](https://youtu.be/T1B6SlvoYdQ?si=GeB2qE0p4aP3yqjZ)
 * [France prepares for President Xi’s state visit](https://youtu.be/ICZjoKZ1Fc0?si=-FmbegZjnrp77GGT)
-* [PM Lee Hsien Loong's final May Day Rally speech](https://youtu.be/wSWBC4qCfjo?si=4PocYknoMvSbiq7N)
+* [China, Serbia Mark New Chapter in Bilateral Ties: Experts](https://youtu.be/um9sqZH04og?si=G6xTSZKGZXskn_yU)
 
 ## Southeast Asia
 
