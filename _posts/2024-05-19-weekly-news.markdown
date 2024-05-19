@@ -9,9 +9,9 @@ categories: weekly news
 
 * [`BreakThrough News` Losing Game in Rafah: Biden and Israel March Towards Self-Destruction](https://www.youtube.com/live/AhmhairL1dE?si=-p9Zu1RznXAs_V7M)
 * [The U. S. accuses China of overcapacity. Here's what they really mean](https://youtu.be/aa4j-EZErhE?si=bntV8FJnHz1-xwmc)
-* [My Heart Makes My Head Swim: The Twentieth Newsletter (2024)](https://thetricontinental.org/newsletterissue/israel-occupation-genocide-apartheid/)
-* [PI Briefing - No. 19 - We are not yet winning, but they are losing](https://progressive.international/wire/2024-05-10-pi-briefing-no-19-we-are-not-yet-winning-but-they-are-losing/en?link_id=0&can_id=273c15e51845076b800adb4815b05d15&source=email-pi-briefing-no-18-southern-insurgency-2&email_referrer=email_2313083&email_subject=pi-briefing-no-19-we-are-not-yet-winning-but-they-are-losing)
-* [PI Briefing - No. 20 - Naked Hindu Supremacism](https://progressive.international/wire/2024-05-17-pi-briefing-no-20-naked-hindu-supremacism/en/?link_id=0&can_id=273c15e51845076b800adb4815b05d15&source=email-pi-briefing-no-19-we-are-not-yet-winning-but-they-are-losing&email_referrer=email_2321576&email_subject=pi-briefing-no-20-naked-hindu-supremacism)
+* [`Tricontinental` My Heart Makes My Head Swim: The Twentieth Newsletter (2024)](https://thetricontinental.org/newsletterissue/israel-occupation-genocide-apartheid/)
+* [`Progressive International` PI Briefing - No. 19 - We are not yet winning, but they are losing](https://progressive.international/wire/2024-05-10-pi-briefing-no-19-we-are-not-yet-winning-but-they-are-losing/en?link_id=0&can_id=273c15e51845076b800adb4815b05d15&source=email-pi-briefing-no-18-southern-insurgency-2&email_referrer=email_2313083&email_subject=pi-briefing-no-19-we-are-not-yet-winning-but-they-are-losing)
+* [`Progressive International` PI Briefing - No. 20 - Naked Hindu Supremacism](https://progressive.international/wire/2024-05-17-pi-briefing-no-20-naked-hindu-supremacism/en/?link_id=0&can_id=273c15e51845076b800adb4815b05d15&source=email-pi-briefing-no-19-we-are-not-yet-winning-but-they-are-losing&email_referrer=email_2321576&email_subject=pi-briefing-no-20-naked-hindu-supremacism)
 * [Jingjing Newsletter (Week 71)](https://lijingjing.substack.com/p/jingjing-newsletter-week-71?utm_source=substack&publication_id=1932337&post_id=144715933&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=true&r=3g6fnk&triedRedirect=true)
 
 ### China
@@ -28,7 +28,7 @@ categories: weekly news
 
 ### South Asia
 
-* [Is India's economy truly thriving? Or is it exaggerating its growth?](https://youtu.be/3zt1ZYzWP7k?si=9niDbMt-j05FNZwG)
+* [`Geopolitical Economy Report` Is India's economy truly thriving? Or is it exaggerating its growth?](https://youtu.be/3zt1ZYzWP7k?si=9niDbMt-j05FNZwG)
 * [Unrest in Pakistan-administered Kashmir: Protests against soaring costs turn violent](https://youtu.be/intB5rS6PF8?si=k5qJEimDfIN_mZir)
 
 ### Southeast Asia
@@ -70,8 +70,8 @@ categories: weekly news
 * [How the US privatized WAR](https://youtu.be/Aycfr8Jcqb4?si=AWDG7iHs7w54XDR-)
 * [‘Lesser of Two Evils’ Logic Destroyed w/ Eugene Puryear](https://youtu.be/fhCDwYgsuK0?si=dYA6TFsyVOTZhx2t)
 * [Economic Update: Prospects for a Political Turn Left](https://youtu.be/Ntv-dtMIqYU?si=qrtwDP42TAgvwBWG)
-* [US senator says Israel should drop nuclear bombs on Gaza](https://youtu.be/4jJpA11Z5N8?si=ozWrAgYAmLRLygUU)
-* [Biden's tariffs on China expose US hypocrisy on 'free trade' & tech subsidies](https://youtu.be/a7okuN2qJU8?si=6Qb779b3pbXuoKwH)
+* [`Geopolitical Economy Report` US senator says Israel should drop nuclear bombs on Gaza](https://youtu.be/4jJpA11Z5N8?si=ozWrAgYAmLRLygUU)
+* [`Geopolitical Economy Report` Biden's tariffs on China expose US hypocrisy on 'free trade' & tech subsidies](https://youtu.be/a7okuN2qJU8?si=6Qb779b3pbXuoKwH)
 * [Biden's plan to increase the tariffs on Chinese EV is a sign of panic and incompetence](https://youtu.be/hiJoOeueV-I?si=9xqlIU4fDOU58rxH)
 
 ### Latin America and The Caribbean
