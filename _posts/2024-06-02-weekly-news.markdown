@@ -7,10 +7,12 @@ categories: weekly news
 
 ### International
 
+* [`Tricontinental` Brazil’s Flood of Austerity and Climate Catastrophe: The Twenty-Second Newsletter (2024)](https://thetricontinental.org/newsletterissue/brazil-flood-mst/)
 * [`Geopolitical Economy Report` US & Israel destroy international law in Gaza, while preaching 'rules-based order'](https://youtu.be/Q2B6wkbO6vw?si=HSaUGrdu1rUU5-Ya)
 * [`BreakThrough News` All Eyes on Rafah: World Erupts in Outrage](https://www.youtube.com/live/gVFwqW-cIj8?si=a8D887gbYpUjr_Fi)
 * [BRICS and U. S. Tensions: What's Really Happening Behind the Scenes?](https://youtu.be/UUczGV1bsyk?si=bhVL1niLgpHPi1ZS)
 * [China's Unexpected Rise in the Middle East: What's Next?](https://youtu.be/OKl26x9p2oQ?si=qFqPk4fWC41NMxj_)
+* [Jingjing Newsletter (Week 73)](https://lijingjing.substack.com/p/jingjing-newsletter-week-73?utm_source=post-email-title&publication_id=1932337&post_id=145190146&utm_campaign=email-post-title&isFreemail=true&r=3g6fnk&triedRedirect=true&utm_medium=email)
 
 ### China
 
