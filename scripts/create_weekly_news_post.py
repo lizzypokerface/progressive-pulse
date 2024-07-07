@@ -1,3 +1,21 @@
+"""
+This script generates a markdown file for a weekly news post, using the current date or a date provided as a command line argument.
+
+It follows these steps:
+
+1. Configures logging to provide timestamped informational and error messages.
+2. Defines a function to parse the input date string and handle errors if the format is incorrect.
+3. Retrieves the date from the command line argument if provided, or uses the current date.
+4. Formats the date into strings suitable for use in the filename and post content.
+5. Uses a template string to create the content of the markdown file, with sections for different regions of the world.
+6. Writes the generated content to a markdown file named according to the formatted date.
+7. Logs the success or failure of the file creation process.
+
+Usage:
+- To use the current date: `python script_name.py`
+- To specify a date: `python script_name.py dd/mm/yyyy`
+"""
+
 import os
 import sys
 from datetime import datetime
