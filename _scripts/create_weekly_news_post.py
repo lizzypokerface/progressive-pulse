@@ -2,7 +2,6 @@
 This script generates a markdown file for a weekly news post, using the current date or a date provided as a command line argument.
 
 It follows these steps:
-
 1. Configures logging to provide timestamped informational and error messages.
 2. Defines a function to parse the input date string and handle errors if the format is incorrect.
 3. Retrieves the date from the command line argument if provided, or uses the current date.
