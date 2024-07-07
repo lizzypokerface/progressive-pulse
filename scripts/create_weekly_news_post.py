@@ -56,6 +56,10 @@ categories: weekly news
 
 * [Article](https://website.com/)
 
+### Central Asia
+
+* [Article](https://website.com/)
+
 ### West Asia (Middle East)
 
 * [Article](https://website.com/)
@@ -80,7 +84,7 @@ categories: weekly news
 
 * [Article](https://website.com/)
 
-### Other
+### Oceania
 
 * [Article](https://website.com/)
 """
