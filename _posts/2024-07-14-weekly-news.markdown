@@ -9,6 +9,7 @@ categories: weekly news
 
 * [Building a Planet of Peace Is the Only Realistic Thing to Do: The Twenty-Eighth Newsletter (2024)](https://thetricontinental.org/newsletterissue/colombia-climate-change/)
 * [How big corporations took over Western governments](https://youtu.be/tczNLhfdQ7A?si=G3EFzeGiVIQ5Bdh5)
+* [NATO vs Western voters and the Global Majority](https://youtu.be/pXIYInJUYp8?si=D8TTlb5EQt5wv6dW)
 * [Domestic turmoil across NATO members weighing on alliance's stability](https://youtu.be/Lph4njDJLz8?si=WN1Dch0nWLKxl51O)
 * [Can organisations such as NATO at 75 suffer from dementia?](https://open.substack.com/pub/thetransnational/p/can-organisations-such-as-nato-at?r=3g6fnk&utm_medium=ios)
 * [NATO vs Western voters and the Global Majority](https://youtu.be/pXIYInJUYp8?si=pEDRXsAHcl1g6p1W)
@@ -88,6 +89,7 @@ categories: weekly news
 
 * [National Rally’s setback shows far-right is still not popular overall in France](https://youtu.be/jKe0Z3EtTVg?si=8mNmg1O9iF3j_CKY)
 * [French election: Leftist alliance wins unexpectedly as voters reject right-wing victory](https://youtu.be/75QYjCRvkRc?si=mnUBResq4-rG3yUa)
+* [Britain is not a democracy: How UK elites installed PM Keir Starmer by destroying Jeremy Corbyn](https://youtu.be/hq7YDNrYsV8?si=149Xq10075jafBWl)
 * [The Video Keir Starmer Does Not Want You To See](https://youtu.be/wSRmyDjkNgc?si=m3csIU1wEVMxJlaY)
 * [Turning left or right? Elections in the UK and France](https://youtu.be/kMoiAhIlcEY?si=poOLyyGWm5WGKoap)
 * [Orbán has done the right thing - but of course Sweden wants him out](https://open.substack.com/pub/thetransnational/p/orban-has-done-the-right-thing-but?r=3g6fnk&utm_medium=ios)
