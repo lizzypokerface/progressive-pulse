@@ -147,7 +147,6 @@ categories: weekly news
 * [FTS 12:30 30-07: Venezuela: govt. denounces FAR-RIGHT violent acts](https://youtu.be/EzSu99H_5SE?si=EsRWC1MbJkOT126e)
 * [Great march in Venezuela in support of President Nicolas Maduro](https://youtu.be/c9bCT-Mjrys?si=rE_AOqFWf9TgxEna)
 
-
 ### Theory
 
 * [Dialectic At Work: Are You Guilty of Reading Capital?](https://youtu.be/JwO6LIXkd6Q?si=IGs07ahTvuOdBc5p)
