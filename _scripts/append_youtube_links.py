@@ -1,3 +1,11 @@
+"""
+This script reads a list of YouTube links from a file, validates the links, fetches the video titles
+using Selenium with the Firefox WebDriver, and writes the titles and links to a Markdown file in a
+formatted manner. It also ensures the titles are tidied by removing any characters that might break
+the Markdown formatting, such as '|', '[', and ']'. The script logs its progress and any errors
+encountered for better traceability.
+"""
+
 import logging
 from selenium import webdriver
 from selenium.webdriver.common.by import By
