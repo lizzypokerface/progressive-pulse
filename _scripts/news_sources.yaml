@@ -1,5 +1,4 @@
 verified_sources:
-
   - title: "Geopolitical Economy Report"
     url: "https://www.youtube.com/@GeopoliticalEconomyReport/videos"
 
@@ -11,6 +10,9 @@ verified_sources:
 
   - title: "Democracy at Work"
     url: "https://www.youtube.com/@democracyatwrk/videos"
+
+  - title: "People's Dispatch"
+    url: "https://www.youtube.com/@PeoplesDispatch/videos"
 
   - title: "First Thought"
     url: "https://www.youtube.com/@firstthoughtnews/videos"
@@ -30,6 +32,12 @@ verified_sources:
   - title: "Center for China and Globalisation"
     url: "https://www.youtube.com/@CenterforChinaandGlobalization/videos"
 
+  - title: "Taihe Institute"
+    url: "https://www.youtube.com/@Taiheinstitute/videos"
+
+  - title: "Diplomatify"
+    url: "https://www.youtube.com/@dr.ilangokaruppannan/videos"
+
   - title: "Wave Media"
     url: "https://www.youtube.com/@wavemedia4433/videos"
 
@@ -38,6 +46,9 @@ verified_sources:
 
   - title: "Electronic Intifada"
     url: "https://www.youtube.com/@TheElectronicIntifada/videos"
+
+  - title: "Africa is Watching"
+    url: "https://www.youtube.com/@2nacheki/videos"
 
   - title: "Shanghai Eye"
     url: "https://www.youtube.com/@ShanghaiEyeMagic/videos"
