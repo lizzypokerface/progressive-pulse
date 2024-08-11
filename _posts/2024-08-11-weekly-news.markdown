@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "✊ Progressive News | 12 August 2024"
-date:   2024-08-12 11:00:00 +0800
+title:  "✊ Progressive News | 11 August 2024"
+date:   2024-08-11 11:00:00 +0800
 categories: weekly news
 ---
 
