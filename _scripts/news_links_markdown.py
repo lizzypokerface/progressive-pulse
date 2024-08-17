@@ -2,6 +2,7 @@ import logging
 import re
 from typing import Optional
 
+from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.support import expected_conditions as EC
@@ -61,12 +62,15 @@ def get_youtube_video_title(driver: WebDriver, url: str) -> Optional[str]:
 
 
 def process_markdown_links(
-    driver: WebDriver, processed_links_filename: str, news_links_md_filename: str
+    processed_links_filename: str, news_links_md_filename: str
 ) -> None:
 
     processed_links = fetch_links(processed_links_filename)
     youtube_links = []
     other_links = []
+
+    options = webdriver.FirefoxOptions()
+    options.add_argument("--headless")
 
     for link in processed_links:
         if is_valid_youtube_link(link):
@@ -75,7 +79,12 @@ def process_markdown_links(
             other_links.append(link)
 
     with open(news_links_md_filename, "w") as f:
+
         for link in youtube_links:
+            # Initialize and quit the driver during each loop to prevent memory issues.
+            # Refer to: https://stackoverflow.com/questions/55072731/selenium-using-too-much-ram-with-firefox
+            driver = webdriver.Firefox(options=options)
+
             yt_link = remove_source(link)
             source = extract_source(link)
             title = get_youtube_video_title(driver, yt_link)
@@ -83,8 +92,10 @@ def process_markdown_links(
                 tidy_title_text = tidy_title(title)
                 logging.info(f"Successfully retrieved title: {tidy_title_text}")
                 f.write(NEWS_LINK_MD_FORMAT.format(source, tidy_title_text, yt_link))
+                driver.quit()
             else:
                 logging.error(f"Failed to retrieve title for {yt_link}")
+                driver.quit()
 
         logging.info("Please add other link titles manually.")
 

@@ -1,6 +1,6 @@
 import logging
 
-from selenium.webdriver.remote.webdriver import WebDriver
+from selenium import webdriver
 
 from constants import (
     PROCESSED_LINKS_FILENAME,
@@ -19,6 +19,7 @@ from utilities import (
     load_yaml_file,
 )
 
+
 def process_links(
     raw_links_file: str, processed_links_file: str, source_title: str
 ) -> None:
@@ -31,8 +32,8 @@ def process_links(
             processed_file.write(PROCESSED_LINK_FORMAT.format(url, source_title))
 
 
-def perform_news_research(driver: WebDriver, new_sources_filename: str):
-
+def perform_news_research(new_sources_filename: str):
+    driver = webdriver.Firefox()
     news_sources = load_yaml_file(new_sources_filename)
 
     for source in news_sources[VERIFIED_SOURCES_KEY]:
@@ -65,3 +66,4 @@ def perform_news_research(driver: WebDriver, new_sources_filename: str):
                 f"Invalid input: '{user_input}'. Please enter {USER_INPUT_YES} or {USER_INPUT_NO}."
             )
             continue
+    driver.quit()
