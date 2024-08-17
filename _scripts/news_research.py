@@ -1,19 +1,22 @@
 import logging
+
 from selenium.webdriver.remote.webdriver import WebDriver
-from utilities import (
-    load_yaml_file,
-    clear_file,
-    get_datetime_one_week_ago,
-)
+
 from constants import (
-    RAW_LINKS_FILENAME,
     PROCESSED_LINKS_FILENAME,
-    USER_INPUT_YES,
-    USER_INPUT_NO,
-    VERIFIED_SOURCES_KEY,
+    PROCESSED_LINK_FORMAT,
+    RAW_LINKS_FILENAME,
     SOURCE_TITLE_KEY,
     SOURCE_URL_KEY,
-    PROCESSED_LINK_FORMAT
+    USER_INPUT_NO,
+    USER_INPUT_YES,
+    VERIFIED_SOURCES_KEY,
+)
+
+from utilities import (
+    clear_file,
+    get_datetime_one_week_ago,
+    load_yaml_file,
 )
 
 def process_links(

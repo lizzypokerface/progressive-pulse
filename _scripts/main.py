@@ -23,8 +23,8 @@ def run():
     options.add_argument("--headless")
 
     # Ensure files are clear
-    clear_file(PROCESSED_LINKS_FILENAME)
     clear_file(RAW_LINKS_FILENAME)
+    clear_file(PROCESSED_LINKS_FILENAME)
     clear_file(NEWS_LINKS_MD_FILENAME)
 
     # STEP 1

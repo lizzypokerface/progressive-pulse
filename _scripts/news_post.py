@@ -1,7 +1,8 @@
 import logging
 from datetime import datetime
-from utilities import create_new_file
+
 from constants import NEWS_POST_FILENAME_FORMAT, NEWS_POST_TEMPLATE
+from utilities import create_new_file
 
 
 def create_weekly_news_post_template(current_date: datetime):

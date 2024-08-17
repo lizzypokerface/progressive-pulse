@@ -1,6 +1,7 @@
 import logging
-import yaml
 from datetime import datetime, timedelta
+
+import yaml
 
 
 def load_yaml_file(filename: str):

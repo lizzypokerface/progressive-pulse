@@ -1,10 +1,12 @@
 import logging
+import re
 from typing import Optional
+
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.support import expected_conditions as EC
-import re
+from selenium.webdriver.support.ui import WebDriverWait
+
 from constants import NEWS_LINK_MD_FORMAT
 
 
