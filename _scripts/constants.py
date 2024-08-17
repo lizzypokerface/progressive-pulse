@@ -6,3 +6,69 @@ USER_INPUT_NO = "n"
 VERIFIED_SOURCES_KEY = "verified_sources"
 SOURCE_TITLE_KEY = "title"
 SOURCE_URL_KEY = "url"
+PROCESSED_LINK_FORMAT = "{}[{}]\n"
+NEWS_POST_FILENAME_FORMAT = "{}-weekly-news.markdown"
+NEWS_POST_TEMPLATE = """
+    ---
+    layout: post
+    title:  "✊ Progressive News | {}"
+    date:   {} 11:00:00 +0800
+    categories: weekly news
+    ---
+
+    ### International
+
+    * [Article](https://website.com/)
+
+    ### China
+
+    * [Article](https://website.com/)
+
+    ### South Asia
+
+    * [Article](https://website.com/)
+
+    ### Southeast Asia
+
+    * [Article](https://website.com/)
+
+    ### East Asia
+
+    * [Article](https://website.com/)
+
+    ### Central Asia
+
+    * [Article](https://website.com/)
+
+    ### West Asia (Middle East)
+
+    * [Article](https://website.com/)
+
+    ### Russia
+
+    * [Article](https://website.com/)
+
+    ### Europe
+
+    * [Article](https://website.com/)
+
+    ### Africa
+
+    * [Article](https://website.com/)
+
+    ### North America
+
+    * [Article](https://website.com/)
+
+    ### Latin America and The Caribbean
+
+    * [Article](https://website.com/)
+
+    ### Oceania
+
+    * [Article](https://website.com/)
+
+    ### Miscellaneous
+
+    * [Article](https://website.com/)
+    """

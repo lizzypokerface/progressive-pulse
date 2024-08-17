@@ -1,8 +1,10 @@
-import yaml
 import logging
 from selenium.webdriver.remote.webdriver import WebDriver
-from selenium.webdriver.common.keys import Keys
-from datetime import datetime, timedelta
+from utilities import (
+    load_yaml_file,
+    clear_txt_file,
+    get_datetime_one_week_ago,
+)
 from constants import (
     RAW_LINKS_FILENAME,
     PROCESSED_LINKS_FILENAME,
@@ -11,29 +13,8 @@ from constants import (
     VERIFIED_SOURCES_KEY,
     SOURCE_TITLE_KEY,
     SOURCE_URL_KEY,
+    PROCESSED_LINK_FORMAT
 )
-
-
-def load_yaml_file(filename: str):
-    with open(filename) as file:
-        return yaml.safe_load(file)
-
-
-def clear_txt_file(filename: str) -> None:
-    open(filename, "w").close()
-
-
-def open_url_in_browser(driver: WebDriver, url: str) -> None:
-    driver.get(url)
-
-
-def get_datetime_one_week_ago() -> None:
-    return datetime.now() - timedelta(days=7)
-
-
-def get_processed_link(url: str, source_title: str) -> str:
-    return f"{url}[{source_title}]\n"
-
 
 def process_links(
     raw_links_file: str, processed_links_file: str, source_title: str
@@ -44,7 +25,7 @@ def process_links(
     ) as processed_file:
         for line in raw_file:
             url = line.strip()
-            processed_file.write(get_processed_link(url, source_title))
+            processed_file.write(PROCESSED_LINK_FORMAT.format(url, source_title))
 
 
 def perform_news_research(driver: WebDriver, new_sources_filename: str):

@@ -6,6 +6,6 @@ _site/
 .bundle/
 vendor/
 .config/
-links.md
+news_links.md
 raw_links.txt
 processed_links.txt
