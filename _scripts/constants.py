@@ -1,0 +1,8 @@
+NEWS_SOURCES_FILENAME = "news_sources.yaml"
+RAW_LINKS_FILENAME = "raw_links.txt"
+PROCESSED_LINKS_FILENAME = "processed_links.txt"
+USER_INPUT_YES = "y"
+USER_INPUT_NO = "n"
+VERIFIED_SOURCES_KEY = "verified_sources"
+SOURCE_TITLE_KEY = "title"
+SOURCE_URL_KEY = "url"

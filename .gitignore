@@ -7,5 +7,5 @@ _site/
 vendor/
 .config/
 links.md
-youtube_links.txt
-other_links.txt
+raw_links.txt
+processed_links.txt
