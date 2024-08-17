@@ -62,5 +62,3 @@ def perform_news_research(driver: WebDriver, new_sources_filename: str):
                 f"Invalid input: '{user_input}'. Please enter {USER_INPUT_YES} or {USER_INPUT_NO}."
             )
             continue
-
-    driver.quit()

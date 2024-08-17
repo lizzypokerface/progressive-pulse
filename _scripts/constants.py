@@ -1,6 +1,8 @@
 NEWS_SOURCES_FILENAME = "news_sources.yaml"
 RAW_LINKS_FILENAME = "raw_links.txt"
 PROCESSED_LINKS_FILENAME = "processed_links.txt"
+NEWS_LINKS_MD_FILENAME = "news_links.md"
+NEWS_LINK_MD_FORMAT = "* [`{}` {}]({})\n"
 USER_INPUT_YES = "y"
 USER_INPUT_NO = "n"
 VERIFIED_SOURCES_KEY = "verified_sources"
