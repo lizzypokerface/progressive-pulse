@@ -2,7 +2,7 @@ import logging
 from selenium.webdriver.remote.webdriver import WebDriver
 from utilities import (
     load_yaml_file,
-    clear_txt_file,
+    clear_file,
     get_datetime_one_week_ago,
 )
 from constants import (
@@ -53,7 +53,7 @@ def perform_news_research(driver: WebDriver, new_sources_filename: str):
             process_links(
                 RAW_LINKS_FILENAME, PROCESSED_LINKS_FILENAME, source[SOURCE_TITLE_KEY]
             )
-            clear_txt_file(RAW_LINKS_FILENAME)
+            clear_file(RAW_LINKS_FILENAME)
         elif user_input.lower() == USER_INPUT_NO:
             logging.info("Exited without saving.")
             break

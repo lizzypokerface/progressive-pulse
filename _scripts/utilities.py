@@ -8,7 +8,7 @@ def load_yaml_file(filename: str):
         return yaml.safe_load(file)
 
 
-def clear_txt_file(filename: str) -> None:
+def clear_file(filename: str) -> None:
     open(filename, "w").close()
 
 
