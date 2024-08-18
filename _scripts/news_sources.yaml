@@ -1,120 +1,180 @@
 verified_sources:
   - title: "Geopolitical Economy Report"
     url: "https://www.youtube.com/@GeopoliticalEconomyReport/videos"
+    notes: "Analysis on global economic and political trends."
 
   - title: "Breakthrough News"
     url: "https://www.youtube.com/@BreakThroughNews/videos"
+    notes: "Independent news covering global social justice issues."
 
   - title: "Democracy at Work"
     url: "https://www.youtube.com/@democracyatwrk/videos"
+    notes: "Focuses on economic democracy and worker cooperatives."
 
   - title: "People's Dispatch"
     url: "https://www.youtube.com/@PeoplesDispatch/videos"
+    notes: "Reports on global people's movements and struggles."
 
   - title: "First Thought"
     url: "https://www.youtube.com/@firstthoughtnews/videos"
+    notes: "Alternative media platform for critical global news."
 
   - title: "Second Thought"
     url: "https://www.youtube.com/@SecondThought/videos"
+    notes: "Explores leftist perspectives on global issues."
 
   - title: "Think BRICS"
     url: "https://www.youtube.com/@ThinkBRICS/videos"
+    notes: "Content focused on BRICS nations' cooperation."
 
   - title: "Thinkers Forum"
     url: "https://www.youtube.com/@thinkersforum4149/videos"
+    notes: "Discussions on global issues by various experts."
 
   - title: "New Economic Thinking"
     url: "https://www.youtube.com/@NewEconomicThinking/videos"
+    notes: "Challenges traditional economic theories and practices."
 
   - title: "Center for China and Globalisation"
     url: "https://www.youtube.com/@CenterforChinaandGlobalization/videos"
+    notes: "Chinese think tank discussing global affairs and China."
 
   - title: "Taihe Institute"
     url: "https://www.youtube.com/@Taiheinstitute/videos"
+    notes: "Chinese think tank offering strategic global insights."
 
   - title: "Diplomatify"
     url: "https://www.youtube.com/@dr.ilangokaruppannan/videos"
+    notes: "Diplomatic analysis and commentary on global relations."
 
   - title: "Wave Media"
     url: "https://www.youtube.com/@wavemedia4433/videos"
+    notes: "Independent media focusing on global and regional issues."
 
   - title: "Empire Watch"
     url: "https://www.youtube.com/@EmpireWatch/videos"
+    notes: "Monitors and critiques global imperialism."
 
   - title: "Double Down News"
     url: "https://www.youtube.com/@DoubleDownNews/videos"
+    notes: "Alternative news challenging MAINSTREAM narratives."
 
   - title: "Electronic Intifada"
     url: "https://www.youtube.com/@TheElectronicIntifada/videos"
-
-  - title: "Islam Channel"
-    url: "https://www.youtube.com/@islamchanneltv/videos"
+    notes: "Focuses on Palestinian issues and Middle East politics."
 
   - title: "Africa is Watching"
     url: "https://www.youtube.com/@2nacheki/videos"
+    notes: "Covers African news and cultural content."
 
   - title: "Shanghai Eye"
     url: "https://www.youtube.com/@ShanghaiEyeMagic/videos"
+    notes: "Chinese media focusing on Shanghai and global news."
 
   - title: "Telesur English"
     url: "https://www.youtube.com/@telesurenglish/videos"
-
-  - title: "Global Times"
-    url: "https://www.youtube.com/@globaltimes/videos"
-
-  - title: "CGTN"
-    url: "https://www.youtube.com/@cgtn/videos"
-
-  - title: "CGTN America"
-    url: "https://www.youtube.com/@cgtnamerica/videos"
-
-  - title: "CGTN Europe"
-    url: "https://www.youtube.com/@CGTNEurope/videos"
-
-  - title: "CCTV Video News Agency"
-    url: "https://www.youtube.com/@CCTVVideoNewsAgency/videos"
+    notes: "Latin American news with a leftist perspective."
 
   - title: "FridayEveryday"
     url: "https://www.youtube.com/@Fridayeverydaycom/videos"
+    notes: "Focuses on Hong Kong and Asian issues."
 
   - title: "T-House"
     url: "https://www.youtube.com/@T-HouseofCGTN/videos"
-
-  - title: "South China Morning Post"
-    url: "https://www.youtube.com/@SouthChinaMorningPost/videos"
-
-  - title: "Middle East Eye"
-    url: "https://www.youtube.com/@MiddleEastEye/videos"
-
-  - title: "Al Jazeera"
-    url: "https://www.youtube.com/@aljazeeraenglish/videos"
-
-  - title: "Channel News Asia"
-    url: "https://www.youtube.com/@channelnewsasia/videos"
-
-  - title: "Straits Times"
-    url: "https://www.youtube.com/@straitstimesonline/videos"
+    notes: "Chinese state-affiliated think tank content."
 
   - title: "The Socialist Program"
     url: "https://m.soundcloud.com/thesocialistprogram/tracks"
+    notes: "Podcast discussing socialist perspectives."
 
   - title: "Tricontinental Newsletters"
     url: "https://thetricontinental.org/newsletter/"
+    notes: "Newsletters on global anti-imperialist struggles."
 
   - title: "Progressive International"
     url: "https://progressive.international"
+    notes: "Global movement advocating progressive policies."
 
   - title: "Reactionary International"
     url: "https://reactionary.international"
+    notes: "Opposes progressive movements, promoting conservative values."
 
-  - title: "Tarik Cyril Amar on Substack"
+  - title: "Tarik Cyril Amar"
     url: "https://tarikcyrilamar.substack.com/archive"
+    notes: "Historian focusing on Eastern Europe and Russia."
 
-  - title: "China Up Close on Substack"
+  - title: "China Up Close"
     url: "https://lijingjing.substack.com/archive"
+    notes: "Insights on China from a local perspective."
 
-  - title: "Think BRICS on Substack"
+  - title: "Think BRICS"
     url: "https://thinkbrics.substack.com/archive"
+    notes: "News and analysis on BRICS nations' cooperation."
 
-  - title: "The China Academy on Substack"
+  - title: "The China Academy"
     url: "https://chinaacademy.substack.com/archive"
+    notes: "Insights into Chinese politics and culture."
+
+  - title: "Africa-China Centre for Policy & Advisory"
+    url: "https://www.youtube.com/@africa-china-centre/videos"
+    notes: "Focuses on Africa-China relations and policy analysis."
+
+  - title: "Al Mayadeen English"
+    url: "https://www.youtube.com/@almayadeenenglish/videos"
+    notes: "Middle Eastern news with anti-imperialist perspectives."
+
+  - title: "Reports on China"
+    url: "https://www.youtube.com/@ReportsOnChina"
+    notes: "Counter-narratives to Western media on China."
+
+  - title: "The China-Global South Project"
+    url: "https://www.youtube.com/@chinaglobalsouth/videos"
+    notes: "Focuses on China's relations with the Global South."
+
+  - title: "Global Times"
+    url: "https://www.youtube.com/@globaltimes/videos"
+    notes: "Chinese state-run media; MAINSTREAM global news."
+
+  - title: "CGTN"
+    url: "https://www.youtube.com/@cgtn/videos"
+    notes: "Chinese state-run media; MAINSTREAM global coverage."
+
+  - title: "CGTN America"
+    url: "https://www.youtube.com/@cgtnamerica/videos"
+    notes: "Chinese state media with focus on American audiences; MAINSTREAM."
+
+  - title: "CGTN Europe"
+    url: "https://www.youtube.com/@CGTNEurope/videos"
+    notes: "Chinese state media targeting European audiences; MAINSTREAM."
+
+  - title: "CCTV Video News Agency"
+    url: "https://www.youtube.com/@CCTVVideoNewsAgency/videos"
+    notes: "Chinese state-run media; MAINSTREAM news."
+
+  - title: "Islam Channel"
+    url: "https://www.youtube.com/@islamchanneltv/videos"
+    notes: "MAINSTREAM news with focus on Islamic world."
+
+  - title: "South China Morning Post"
+    url: "https://www.youtube.com/@SouthChinaMorningPost/videos"
+    notes: "MAINSTREAM Hong Kong-based global news outlet."
+
+  - title: "Middle East Eye"
+    url: "https://www.youtube.com/@MiddleEastEye/videos"
+    notes: "Middle East-focused independent news outlet."
+
+  - title: "Al Jazeera"
+    url: "https://www.youtube.com/@aljazeeraenglish/videos"
+    notes: "MAINSTREAM news with a focus on the Middle East."
+
+  - title: "Channel News Asia"
+    url: "https://www.youtube.com/@channelnewsasia/videos"
+    notes: "MAINSTREAM news from a Southeast Asian perspective."
+
+  - title: "Straits Times"
+    url: "https://www.youtube.com/@straitstimesonline/videos"
+    notes: "MAINSTREAM Singaporean news outlet."
+
+  - title: "DawnNews English"
+    url: "https://www.youtube.com/@DawnNewsEnglish/videos"
+    notes: "MAINSTREAM Pakistani news outlet in English."
