@@ -8,6 +8,7 @@ from constants import (
     RAW_LINKS_FILENAME,
     SOURCE_TITLE_KEY,
     SOURCE_URL_KEY,
+    SOURCE_NOTES_KEY,
     USER_INPUT_NO,
     USER_INPUT_YES,
     VERIFIED_SOURCES_KEY,
@@ -40,9 +41,9 @@ def perform_news_research(new_sources_filename: str):
         logging.info(
             f"Title: {source[SOURCE_TITLE_KEY]} \nURL: {source[SOURCE_URL_KEY]}"
         )
-
-        # Log the date from one week ago to inform
-        # the user when to start retrieving articles.
+        # The notes determine how the user should deal with the news source.
+        logging.info(f"Notes: {source[SOURCE_NOTES_KEY]}")
+        # Log the date from one week ago to inform the user when to start retrieving articles.
         logging.info(
             f"Date one week ago: {get_datetime_one_week_ago().strftime('%d %b %y')}"
         )
