@@ -31,6 +31,10 @@ verified_sources:
     url: "https://reactionary.international"
     notes: "Opposes progressive movements, promoting conservative values."
 
+  - title: "Transnational Foundation"
+    url: "https://thetransnational.substack.com/archive"
+    notes: "Foundation for peace and future research."
+
   - title: "People's Dispatch"
     url: "https://www.youtube.com/@PeoplesDispatch/videos"
     notes: "Reports on global people's movements and struggles."
@@ -134,6 +138,14 @@ verified_sources:
   - title: "Telesur English"
     url: "https://www.youtube.com/@telesurenglish/videos"
     notes: "Latin American news with a leftist perspective."
+
+  - title: "red."
+    url: "https://www.youtube.com/@redstreamnet/videos"
+    notes: "revolutionary educational documentaries."
+
+  - title: "WION"
+    url: "https://www.youtube.com/@WION/videos"
+    notes: The World is One News."
 
   - title: "Global Times (M)"
     url: "https://www.youtube.com/@globaltimes/videos"
