@@ -11,9 +11,25 @@ verified_sources:
     url: "https://www.youtube.com/@BreakThroughNews/streams"
     notes: "Independent news covering global social justice issues."
 
+  - title: "The Socialist Program"
+    url: "https://m.soundcloud.com/thesocialistprogram/tracks"
+    notes: "Podcast discussing socialist perspectives."
+
   - title: "Democracy at Work"
     url: "https://www.youtube.com/@democracyatwrk/videos"
     notes: "Focuses on economic democracy and worker cooperatives."
+
+  - title: "Tricontinental"
+    url: "https://thetricontinental.org/newsletter/"
+    notes: "Newsletters on global anti-imperialist struggles."
+
+  - title: "Progressive International"
+    url: "https://progressive.international"
+    notes: "Global movement advocating progressive policies."
+
+  - title: "Reactionary International"
+    url: "https://reactionary.international"
+    notes: "Opposes progressive movements, promoting conservative values."
 
   - title: "People's Dispatch"
     url: "https://www.youtube.com/@PeoplesDispatch/videos"
@@ -26,6 +42,10 @@ verified_sources:
   - title: "Second Thought"
     url: "https://www.youtube.com/@SecondThought/videos"
     notes: "Explores leftist perspectives on global issues."
+
+  - title: "Hakim"
+    url: "https://www.youtube.com/@YaBoiHakim/videos"
+    notes: "Some guy that makes videos from time to time."
 
   - title: "Think BRICS"
     url: "https://www.youtube.com/@ThinkBRICS/videos"
@@ -79,10 +99,6 @@ verified_sources:
     url: "https://www.youtube.com/@ShanghaiEyeMagic/videos"
     notes: "Chinese media focusing on Shanghai and global news."
 
-  - title: "Telesur English"
-    url: "https://www.youtube.com/@telesurenglish/videos"
-    notes: "Latin American news with a leftist perspective."
-
   - title: "FridayEveryday"
     url: "https://www.youtube.com/@Fridayeverydaycom/videos"
     notes: "Focuses on Hong Kong and Asian issues."
@@ -91,37 +107,17 @@ verified_sources:
     url: "https://www.youtube.com/@T-HouseofCGTN/videos"
     notes: "Chinese state-affiliated think tank content."
 
-  - title: "The Socialist Program"
-    url: "https://m.soundcloud.com/thesocialistprogram/tracks"
-    notes: "Podcast discussing socialist perspectives."
-
-  - title: "Tricontinental Newsletters"
-    url: "https://thetricontinental.org/newsletter/"
-    notes: "Newsletters on global anti-imperialist struggles."
-
-  - title: "Progressive International"
-    url: "https://progressive.international"
-    notes: "Global movement advocating progressive policies."
-
-  - title: "Reactionary International"
-    url: "https://reactionary.international"
-    notes: "Opposes progressive movements, promoting conservative values."
-
-  - title: "Tarik Cyril Amar"
-    url: "https://tarikcyrilamar.substack.com/archive"
-    notes: "Historian focusing on Eastern Europe and Russia."
-
   - title: "China Up Close"
     url: "https://lijingjing.substack.com/archive"
     notes: "Insights on China from a local perspective."
 
-  - title: "Think BRICS"
-    url: "https://thinkbrics.substack.com/archive"
-    notes: "News and analysis on BRICS nations' cooperation."
-
   - title: "The China Academy"
     url: "https://chinaacademy.substack.com/archive"
     notes: "Insights into Chinese politics and culture."
+
+  - title: "Reports on China"
+    url: "https://www.youtube.com/@ReportsOnChina/videos"
+    notes: "Counter-narratives to Western media on China."
 
   - title: "Al Mayadeen English"
     url: "https://www.youtube.com/@almayadeenenglish/videos"
@@ -135,9 +131,9 @@ verified_sources:
     url: "https://www.youtube.com/@ajplus/videos"
     notes: "AJ+ is a global news community for the connected generation."
 
-  - title: "Reports on China"
-    url: "https://www.youtube.com/@ReportsOnChina/videos"
-    notes: "Counter-narratives to Western media on China."
+  - title: "Telesur English"
+    url: "https://www.youtube.com/@telesurenglish/videos"
+    notes: "Latin American news with a leftist perspective."
 
   - title: "Global Times (M)"
     url: "https://www.youtube.com/@globaltimes/videos"
