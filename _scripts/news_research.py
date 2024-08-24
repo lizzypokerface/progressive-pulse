@@ -14,11 +14,7 @@ from constants import (
     VERIFIED_SOURCES_KEY,
 )
 
-from utilities import (
-    clear_file,
-    get_datetime_one_week_ago,
-    load_yaml_file,
-)
+from utilities import clear_file, get_datetime_one_week_ago, load_yaml_file, system_say
 
 
 def process_links(
@@ -49,9 +45,9 @@ def perform_news_research(new_sources_filename: str):
         )
 
         driver.get(source["url"])
+        system_say(f"{source[SOURCE_TITLE_KEY]}")
 
         logging.info("Please add links to raw_links.txt manually.")
-
         user_input = input("Save and continue? [y/n] ")
 
         if user_input.lower() == USER_INPUT_YES:

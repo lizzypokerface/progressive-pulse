@@ -9,6 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
 from constants import NEWS_LINK_MD_FORMAT
+from utilities import system_say
 
 
 def fetch_links(file_path: str) -> list[str]:
@@ -98,6 +99,7 @@ def process_markdown_links(
                 driver.quit()
 
         logging.info("Please add other link titles manually.")
+        system_say("Please add other link titles manually.")
 
         for link in other_links:
             try:

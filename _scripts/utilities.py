@@ -1,5 +1,6 @@
 import logging
 from datetime import datetime, timedelta
+import os
 
 import yaml
 
@@ -25,3 +26,7 @@ def create_new_file(filename: str, content: str) -> None:
     except Exception as e:
         logging.error(f"Failed to create file {filename}. Error: {e}")
         raise
+
+
+def system_say(text: str) -> None:
+    os.system(f"say '{text}'")
