@@ -7,6 +7,10 @@ verified_sources:
     url: "https://www.youtube.com/@BreakThroughNews/videos"
     notes: "Independent news covering global social justice issues."
 
+  - title: "Breakthrough News Live"
+    url: "https://www.youtube.com/@BreakThroughNews/streams"
+    notes: "Independent news covering global social justice issues."
+
   - title: "Democracy at Work"
     url: "https://www.youtube.com/@democracyatwrk/videos"
     notes: "Focuses on economic democracy and worker cooperatives."
@@ -67,6 +71,10 @@ verified_sources:
     url: "https://www.youtube.com/@2nacheki/videos"
     notes: "Covers African news and cultural content."
 
+  - title: "New China TV"
+    url: "https://www.youtube.com/@ChinaViewTV/videos"
+    notes: "We are public media for the public good."
+
   - title: "Shanghai Eye"
     url: "https://www.youtube.com/@ShanghaiEyeMagic/videos"
     notes: "Chinese media focusing on Shanghai and global news."
@@ -115,66 +123,58 @@ verified_sources:
     url: "https://chinaacademy.substack.com/archive"
     notes: "Insights into Chinese politics and culture."
 
-  - title: "Africa-China Centre for Policy & Advisory"
-    url: "https://www.youtube.com/@africa-china-centre/videos"
-    notes: "Focuses on Africa-China relations and policy analysis."
-
   - title: "Al Mayadeen English"
     url: "https://www.youtube.com/@almayadeenenglish/videos"
     notes: "Middle Eastern news with anti-imperialist perspectives."
-
-  - title: "Reports on China"
-    url: "https://www.youtube.com/@ReportsOnChina/videos"
-    notes: "Counter-narratives to Western media on China."
-
-  - title: "The China-Global South Project"
-    url: "https://www.youtube.com/@chinaglobalsouth/videos"
-    notes: "Focuses on China's relations with the Global South."
-
-  - title: "Global Times"
-    url: "https://www.youtube.com/@globaltimes/videos"
-    notes: "Chinese state-run media; MAINSTREAM global news."
-
-  - title: "CGTN"
-    url: "https://www.youtube.com/@cgtn/videos"
-    notes: "Chinese state-run media; MAINSTREAM global coverage."
-
-  - title: "CGTN America"
-    url: "https://www.youtube.com/@cgtnamerica/videos"
-    notes: "Chinese state media with focus on American audiences; MAINSTREAM."
-
-  - title: "CGTN Europe"
-    url: "https://www.youtube.com/@CGTNEurope/videos"
-    notes: "Chinese state media targeting European audiences; MAINSTREAM."
-
-  - title: "CCTV Video News Agency"
-    url: "https://www.youtube.com/@CCTVVideoNewsAgency/videos"
-    notes: "Chinese state-run media; MAINSTREAM news."
-
-  - title: "Islam Channel"
-    url: "https://www.youtube.com/@islamchanneltv/videos"
-    notes: "MAINSTREAM news with focus on Islamic world."
-
-  - title: "South China Morning Post"
-    url: "https://www.youtube.com/@SouthChinaMorningPost/videos"
-    notes: "MAINSTREAM Hong Kong-based global news outlet."
 
   - title: "Middle East Eye"
     url: "https://www.youtube.com/@MiddleEastEye/videos"
     notes: "Middle East-focused independent news outlet."
 
-  - title: "Al Jazeera"
+  - title: "AJ+"
+    url: "https://www.youtube.com/@ajplus/videos"
+    notes: "AJ+ is a global news community for the connected generation."
+
+  - title: "Reports on China"
+    url: "https://www.youtube.com/@ReportsOnChina/videos"
+    notes: "Counter-narratives to Western media on China."
+
+  - title: "Global Times (M)"
+    url: "https://www.youtube.com/@globaltimes/videos"
+    notes: "Chinese state-run media; MAINSTREAM global news."
+
+  - title: "CGTN (M)"
+    url: "https://www.youtube.com/@cgtn/videos"
+    notes: "Chinese state-run media; MAINSTREAM global coverage."
+
+  - title: "CGTN America (M)"
+    url: "https://www.youtube.com/@cgtnamerica/videos"
+    notes: "Chinese state media with focus on American audiences; MAINSTREAM."
+
+  - title: "CGTN Europe (M)"
+    url: "https://www.youtube.com/@CGTNEurope/videos"
+    notes: "Chinese state media targeting European audiences; MAINSTREAM."
+
+  - title: "CCTV Video News Agency (M)"
+    url: "https://www.youtube.com/@CCTVVideoNewsAgency/videos"
+    notes: "Chinese state-run media; MAINSTREAM news."
+
+  - title: "Islam Channel (M)"
+    url: "https://www.youtube.com/@islamchanneltv/videos"
+    notes: "MAINSTREAM news with focus on Islamic world."
+
+  - title: "South China Morning Post (M)"
+    url: "https://www.youtube.com/@SouthChinaMorningPost/videos"
+    notes: "MAINSTREAM Hong Kong-based global news outlet."
+
+  - title: "Al Jazeera (M)"
     url: "https://www.youtube.com/@aljazeeraenglish/videos"
     notes: "MAINSTREAM news with a focus on the Middle East."
 
-  - title: "Channel News Asia"
+  - title: "Channel News Asia (M)"
     url: "https://www.youtube.com/@channelnewsasia/videos"
     notes: "MAINSTREAM news from a Southeast Asian perspective."
 
-  - title: "Straits Times"
+  - title: "Straits Times (M)"
     url: "https://www.youtube.com/@straitstimesonline/videos"
     notes: "MAINSTREAM Singaporean news outlet."
-
-  - title: "DawnNews English"
-    url: "https://www.youtube.com/@DawnNewsEnglish/videos"
-    notes: "MAINSTREAM Pakistani news outlet in English."
