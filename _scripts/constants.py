@@ -12,66 +12,68 @@ SOURCE_NOTES_KEY = "notes"
 PROCESSED_LINK_FORMAT = "{}[{}]\n"
 NEWS_POST_FILENAME_FORMAT = "{}-weekly-news.markdown"
 NEWS_POST_TEMPLATE = """
-    ---
-    layout: post
-    title:  "✊ Progressive News | {}"
-    date:   {} 11:00:00 +0800
-    categories: weekly news
-    ---
+---
+layout: post
+title:  "✊ Progressive News | {}"
+date:   {} 11:00:00 +0800
+categories: weekly news
+---
+Legend:<br>
+M - Mainstream news
 
-    ### International
+### International
 
-    * [Article](https://website.com/)
+* [Article](https://website.com/)
 
-    ### China
+### China
 
-    * [Article](https://website.com/)
+* [Article](https://website.com/)
 
-    ### South Asia
+### South Asia
 
-    * [Article](https://website.com/)
+* [Article](https://website.com/)
 
-    ### Southeast Asia
+### Southeast Asia
 
-    * [Article](https://website.com/)
+* [Article](https://website.com/)
 
-    ### East Asia
+### East Asia
 
-    * [Article](https://website.com/)
+* [Article](https://website.com/)
 
-    ### Central Asia
+### Central Asia
 
-    * [Article](https://website.com/)
+* [Article](https://website.com/)
 
-    ### West Asia (Middle East)
+### West Asia (Middle East)
 
-    * [Article](https://website.com/)
+* [Article](https://website.com/)
 
-    ### Russia
+### Russia
 
-    * [Article](https://website.com/)
+* [Article](https://website.com/)
 
-    ### Europe
+### Europe
 
-    * [Article](https://website.com/)
+* [Article](https://website.com/)
 
-    ### Africa
+### Africa
 
-    * [Article](https://website.com/)
+* [Article](https://website.com/)
 
-    ### North America
+### North America
 
-    * [Article](https://website.com/)
+* [Article](https://website.com/)
 
-    ### Latin America and The Caribbean
+### Latin America and The Caribbean
 
-    * [Article](https://website.com/)
+* [Article](https://website.com/)
 
-    ### Oceania
+### Oceania
 
-    * [Article](https://website.com/)
+* [Article](https://website.com/)
 
-    ### Miscellaneous
+### Miscellaneous
 
-    * [Article](https://website.com/)
-    """
+* [Article](https://website.com/)
+"""
