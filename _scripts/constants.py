@@ -11,6 +11,7 @@ SOURCE_URL_KEY = "url"
 SOURCE_NOTES_KEY = "notes"
 PROCESSED_LINK_FORMAT = "{}[{}]\n"
 NEWS_POST_FILENAME_FORMAT = "{}-weekly-news.markdown"
+NEWS_POST_COMMIT_MSG = "feat: weekly news post added {}"
 NEWS_POST_TEMPLATE = """
 ---
 layout: post
