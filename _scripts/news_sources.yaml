@@ -31,9 +31,21 @@ verified_sources:
     url: "https://reactionary.international"
     notes: "Opposes progressive movements, promoting conservative values."
 
+  - title: "First Thought"
+    url: "https://www.youtube.com/@firstthoughtnews/videos"
+    notes: "Alternative media platform for critical global news."
+
+  - title: "Second Thought"
+    url: "https://www.youtube.com/@SecondThought/videos"
+    notes: "Explores leftist perspectives on global issues."
+
   - title: "Tarik Cyril Amar"
     url: "https://tarikcyrilamar.substack.com/archive"
     notes: "Tarik Cyril Amar's Substack."
+
+  - title: "Jeffrey Sachs"
+    url: "https://www.youtube.com/@JeffreySachsOfficial2023/videos"
+    notes: "Jeffrey Sachs Official"
 
   - title: "Transnational Foundation"
     url: "https://thetransnational.substack.com/archive"
@@ -42,14 +54,6 @@ verified_sources:
   - title: "People's Dispatch"
     url: "https://www.youtube.com/@PeoplesDispatch/videos"
     notes: "Reports on global people's movements and struggles."
-
-  - title: "First Thought"
-    url: "https://www.youtube.com/@firstthoughtnews/videos"
-    notes: "Alternative media platform for critical global news."
-
-  - title: "Second Thought"
-    url: "https://www.youtube.com/@SecondThought/videos"
-    notes: "Explores leftist perspectives on global issues."
 
   - title: "Hakim"
     url: "https://www.youtube.com/@YaBoiHakim/videos"
@@ -151,9 +155,9 @@ verified_sources:
     url: "https://www.youtube.com/@redstreamnet/videos"
     notes: "revolutionary educational documentaries."
 
-  - title: "WION"
+  - title: "WION (M)"
     url: "https://www.youtube.com/@WION/videos"
-    notes: The World is One News."
+    notes: "The World is One News."
 
   - title: "Global Times (M)"
     url: "https://www.youtube.com/@globaltimes/videos"
