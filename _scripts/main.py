@@ -52,10 +52,10 @@ def step_3_create_weekly_post_template():
 
 
 def run():
-    #clear_caches()
-    #step_1_perform_news_research()
+    clear_caches()
+    step_1_perform_news_research()
     step_2_process_markdown_links()
-    #step_3_create_weekly_post_template()
+    step_3_create_weekly_post_template()
 
 
 if __name__ == "__main__":
