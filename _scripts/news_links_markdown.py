@@ -66,7 +66,7 @@ def get_youtube_video_title(driver: WebDriver, url: str) -> Optional[str]:
 
 
 def sort_dataframe_by_region_and_source(df: pd.DataFrame) -> pd.DataFrame:
-    sorted_df = df.sort_values(by=["region", "source"], ascending=[True, True])
+    sorted_df = df.sort_values(by=["source"], ascending=[True])
     return sorted_df
 
 
@@ -78,26 +78,26 @@ def write_article_dataframe_to_markdown(
     sorted_df = sort_dataframe_by_region_and_source(df)
 
     with open(news_links_md_filename, "w") as f:
-        previous_region = None
+        previous_source = None
         for _, row in sorted_df.iterrows():
             title = row["title"]
             region = row["region"]
             source = row["source"]
             url = row["url"]
 
-            if previous_region is None:
+            if previous_source is None:
                 f.write("\n")
-                f.write(f"## {region}")
+                f.write(f"## {source}")
                 f.write("\n")
 
-            elif previous_region is not None and region != previous_region:
+            elif previous_source is not None and source != previous_source:
                 f.write("\n")
-                f.write(f"## {region}")
+                f.write(f"## {source}")
                 f.write("\n")
 
             f.write(NEWS_LINK_MD_FORMAT.format(source, title, url) + "\n")
 
-            previous_region = region
+            previous_source = source
 
 
 def process_markdown_links(

@@ -48,7 +48,7 @@ def step_3_create_weekly_post_template():
     create_weekly_news_post_template(current_date=datetime.now())
     logging.info("Weekly news post template created.")
     system_say("Weekly news post template created.")
-    system_say("Pease transfer articles in news_links.md to weekly news post")
+    system_say("Please transfer articles in news_links.md to weekly news post")
 
 
 def run():
