@@ -48,14 +48,14 @@ def step_3_create_weekly_post_template():
     create_weekly_news_post_template(current_date=datetime.now())
     logging.info("Weekly news post template created.")
     system_say("Weekly news post template created.")
+    system_say("Pease transfer articles in news_links.md to weekly news post")
 
 
 def run():
-
-    clear_caches()
-    step_1_perform_news_research()
+    #clear_caches()
+    #step_1_perform_news_research()
     step_2_process_markdown_links()
-    step_3_create_weekly_post_template()
+    #step_3_create_weekly_post_template()
 
 
 if __name__ == "__main__":

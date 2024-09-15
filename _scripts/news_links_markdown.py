@@ -1,5 +1,6 @@
 import logging
 import re
+import pandas as pd
 from typing import Optional
 
 from selenium import webdriver
@@ -10,6 +11,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 from constants import NEWS_LINK_MD_FORMAT
 from utilities import system_say
+
+from categorize_headlines import categorize_headline_region
 
 
 def fetch_links(file_path: str) -> list[str]:
@@ -62,13 +65,49 @@ def get_youtube_video_title(driver: WebDriver, url: str) -> Optional[str]:
         return None
 
 
+def sort_dataframe_by_region_and_source(df: pd.DataFrame) -> pd.DataFrame:
+    sorted_df = df.sort_values(by=["region", "source"], ascending=[True, True])
+    return sorted_df
+
+
+def write_article_dataframe_to_markdown(
+    df: pd.DataFrame,
+    news_links_md_filename: str,
+) -> None:
+
+    sorted_df = sort_dataframe_by_region_and_source(df)
+
+    with open(news_links_md_filename, "w") as f:
+        previous_region = None
+        for _, row in sorted_df.iterrows():
+            title = row["title"]
+            region = row["region"]
+            source = row["source"]
+            url = row["url"]
+
+            if previous_region is None:
+                f.write("\n")
+                f.write(f"## {region}")
+                f.write("\n")
+
+            elif previous_region is not None and region != previous_region:
+                f.write("\n")
+                f.write(f"## {region}")
+                f.write("\n")
+
+            f.write(NEWS_LINK_MD_FORMAT.format(source, title, url) + "\n")
+
+            previous_region = region
+
+
 def process_markdown_links(
     processed_links_filename: str, news_links_md_filename: str
-) -> None:
+) -> pd.DataFrame:
 
     processed_links = fetch_links(processed_links_filename)
     youtube_links = []
     other_links = []
+    article_df = []
 
     options = webdriver.FirefoxOptions()
     options.add_argument("--headless")
@@ -79,42 +118,57 @@ def process_markdown_links(
         else:
             other_links.append(link)
 
-    with open(news_links_md_filename, "w") as f:
+    for link in youtube_links:
+        # Initialize and quit the driver during each loop to prevent memory issues.
+        # Refer to: https://stackoverflow.com/questions/55072731/selenium-using-too-much-ram-with-firefox
+        driver = webdriver.Firefox(options=options)
 
-        for link in youtube_links:
-            # Initialize and quit the driver during each loop to prevent memory issues.
-            # Refer to: https://stackoverflow.com/questions/55072731/selenium-using-too-much-ram-with-firefox
-            driver = webdriver.Firefox(options=options)
+        yt_link = remove_source(link)
+        source = extract_source(link)
+        title = get_youtube_video_title(driver, yt_link)
+        if title:
+            cleaned_title_text = tidy_title(title)
+            region = categorize_headline_region(cleaned_title_text)
+            logging.info(f"Successfully retrieved title: {cleaned_title_text}")
+            article_df.append(
+                {
+                    "title": cleaned_title_text,
+                    "region": region,
+                    "source": source,
+                    "url": yt_link,
+                }
+            )
+            driver.quit()
+        else:
+            logging.error(f"Failed to retrieve title for {yt_link}")
+            driver.quit()
 
-            yt_link = remove_source(link)
+    logging.info("Please add other link titles manually.")
+    system_say("Please add other link titles manually.")
+
+    for link in other_links:
+        try:
+            other_link = remove_source(link)
             source = extract_source(link)
-            title = get_youtube_video_title(driver, yt_link)
+            title = input(f"Enter the title for the link {other_link}: ").strip()
             if title:
-                tidy_title_text = tidy_title(title)
-                logging.info(f"Successfully retrieved title: {tidy_title_text}")
-                f.write(NEWS_LINK_MD_FORMAT.format(source, tidy_title_text, yt_link))
-                driver.quit()
+                cleaned_title_text = tidy_title(title)
+                region = categorize_headline_region(cleaned_title_text)
+                logging.info(f"Successfully retrieved title: {cleaned_title_text}")
+                article_df.append(
+                    {
+                        "title": cleaned_title_text,
+                        "region": region,
+                        "source": source,
+                        "url": other_link,
+                    }
+                )
             else:
-                logging.error(f"Failed to retrieve title for {yt_link}")
-                driver.quit()
+                logging.warning(f"No title provided for link: {link}")
+        except Exception as e:
+            logging.error(f"Error processing link {link}: {e}")
 
-        logging.info("Please add other link titles manually.")
-        system_say("Please add other link titles manually.")
-
-        for link in other_links:
-            try:
-                other_link = remove_source(link)
-                source = extract_source(link)
-                title = input(f"Enter the title for the link {other_link}: ").strip()
-                if title:
-                    tidy_title_text = tidy_title(title)
-                    logging.info(f"Successfully retrieved title: {tidy_title_text}")
-                    f.write(
-                        NEWS_LINK_MD_FORMAT.format(source, tidy_title_text, other_link)
-                    )
-                else:
-                    logging.warning(f"No title provided for link: {link}")
-            except Exception as e:
-                logging.error(f"Error processing link {link}: {e}")
+    df = pd.DataFrame(article_df, columns=["title", "region", "source", "url"])
+    write_article_dataframe_to_markdown(df, news_links_md_filename)
 
     logging.info("Finished processing all links")
