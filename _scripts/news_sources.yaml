@@ -55,6 +55,10 @@ verified_sources:
     url: "https://www.youtube.com/@JeffreySachsOfficial2023/videos"
     notes: "Jeffrey Sachs Official"
 
+  - title: "Fadhel Kaboub"
+    url: "https://globalsouthperspectives.substack.com/archive"
+    notes: "Tunisian-American economist with expertise on designing public policies to enhance monetary and economic sovereignty in the Global South"
+
   - title: "Transnational Foundation"
     url: "https://thetransnational.substack.com/archive"
     notes: "Foundation for peace and future research."
@@ -94,6 +98,10 @@ verified_sources:
   - title: "Diplomatify"
     url: "https://www.youtube.com/@dr.ilangokaruppannan/videos"
     notes: "Diplomatic analysis and commentary on global relations."
+
+  - title: "Lee Kuan Yew School of Public Policy"
+    url: "https://www.youtube.com/@LKYSchool/videos"
+    notes: "The Lee Kuan Yew School of Public Policy."
 
   - title: "Wave Media"
     url: "https://www.youtube.com/@wavemedia4433/videos"
