@@ -66,7 +66,7 @@ def get_youtube_video_title(driver: WebDriver, url: str) -> Optional[str]:
 
 
 def sort_dataframe_by_region_and_source(df: pd.DataFrame) -> pd.DataFrame:
-    sorted_df = df.sort_values(by=["source"], ascending=[True])
+    sorted_df = df.sort_values(by=["source", "region"], ascending=[True, True])
     return sorted_df
 
 
