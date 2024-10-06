@@ -106,6 +106,7 @@ M - Mainstream news
 
 ### Southeast Asia
 
+* [`United Nations` Singapore - Foreign Minister Addresses United Nations General Debate, 79th Session](https://youtu.be/pGI6j7snGu8?si=bBXHLyq5kqElBkAy)
 * [`Diplomatify` Phnom Penh After 20 Years : Totally unexpected !](https://www.youtube.com/watch?v=TVE0AKBFXvU)
 * [`Channel News Asia (M)` Everything you need to know about eating insects   Expert Answers   CNA Explains](https://www.youtube.com/watch?v=_CB9w0Hm7AY)
 * [`Channel News Asia (M)` Singapore's main source of economic growth is from companies raising productivity: SM Lee](https://www.youtube.com/watch?v=LpGshhrK7ng)
