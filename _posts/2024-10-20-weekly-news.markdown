@@ -22,7 +22,6 @@ M - Mainstream news
 * [`Breakthrough News` Israel Can Bomb Civilians But It ‘Can’t Defeat the Resistance’ w/ Jon Elmer](https://www.youtube.com/watch?v=diTc8I-DwYk)
 * [`Breakthrough News` Israel’s Plot to Use US Troops as ‘Human Shields’ w/ Mike Prysner](https://www.youtube.com/watch?v=_AfutoOPwvM)
 * [`The Socialist Program` The U. S. Seeks Global Supremacy Through New Middle East War w/ Vijay Prashad](https://soundcloud.com/thesocialistprogram/the-us-seeks-global-supremacy-through-new-middle-east-war-w-vijay-prashad?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-
 * [`The China Academy` Nobel Prize is Dead](https://chinaacademy.substack.com/p/nobel-prize-is-dead)
 * [`Progressive International` PI Briefing   No. 40   Climate action in the Age of Genocide](https://progressive.international/wire/2024-10-18-pi-briefing-no-40-climate-action-in-the-age-of-genocide/en)
 * [`Progressive International` Twitter Files Brazil: Elon Musk and Digital Sovereignty](https://progressive.international/wire/2024-10-15-twitter-files-brazil-elon-musk-and-digital-sovereignty/en)
@@ -30,23 +29,19 @@ M - Mainstream news
 * [`Transnational Foundation` Sabotage of the Istanbul Peace Agreement](https://thetransnational.substack.com/cp/150347138)
 * [`Transnational Foundation` Consigning Ukraine to Hospice Care](https://thetransnational.substack.com/cp/150346761)
 * [`FridayEveryday` Debt nears US$100 TRILLION, IMF warns](https://www.youtube.com/watch?v=izj6vjWJj08)
-
 * [`Think BRICS` Your Exclusive Pass to the Hottest BRICS Summit 2024 Moments!](https://www.youtube.com/watch?v=s_GbsQceZNA)
 * [`Think BRICS` G20 and BRICS: Potential Synergies for Global South Development](https://thinkbrics.substack.com/p/g20-and-brics-potential-synergies)
 * [`Think BRICS` Dilma Rousseff on China’s Belt and Road: A Path to Brazilian Growth and Global Collaboration](https://thinkbrics.substack.com/p/dilma-rousseff-on-chinas-belt-and)
 * [`Think BRICS` Beware Of Karaoke Machines - Upcoming Fake BRICS Narratives After Kazan Summit: Islamic BRICS, BRI & BRICS vs NATO](https://thinkbrics.substack.com/p/beware-of-karaoke-machines-upcoming)
 * [`Think BRICS` BRICS Are Plotting the Ultimate Power Shift - Are We Ready?](https://www.youtube.com/watch?v=wyE0lfD2O0I)
-
 * [`AJ+` Inside Meta’s Palestine Censorship](https://www.youtube.com/watch?v=12btf2Oq820)
 * [`Novara Media` Could 'Modern Monetary Theory' Save the World?   Ash Sarkar meets Stephanie Kelton](https://www.youtube.com/watch?v=cyXfr11g7So)
 * [`New Economic Thinking` The Economics of War & Peace   TRAILER](https://www.youtube.com/watch?v=s61gKumTrZQ)
 * [`New Economic Thinking` Why Care About Wars?   The Economics of War & Peace Episode 1](https://www.youtube.com/watch?v=2IglilzD4vw)
 * [`New Economic Thinking` The Economics of War & Peace   TEASER](https://www.youtube.com/watch?v=PDb-adoS3qU)
 * [`Novara Media` Could Insect Declines Lead To Social Collapse?   Aaron Bastani meets Dave Goulson](https://www.youtube.com/watch?v=LR32Ns7zc6M)
-
 * [`Thinkers Forum` How the U. S. Uses Wars to Fuel Perpetual Consumption｜Yanis Varoufakis](https://www.youtube.com/watch?v=TjLEmclSbO0)
 * [`Thinkers Forum` Europe Doesn't Lack Elites, It Lacks TRUTH Yanis Varoufakis](https://www.youtube.com/watch?v=qGEybXKjbo4)
-
 * [`T-House` Ex-Poland Deputy PM: Aim of sustainable, peaceful growth is glue that binds Global South together](https://www.youtube.com/watch?v=oyIBtaiao3I)
 * [`T-House` China's path to development shows the Global South that success can come from within](https://www.youtube.com/watch?v=JKGWGLnuCq4)
 * [`T-House` BRICS Expansion: Global South media, think tanks focus on new opportunities](https://www.youtube.com/watch?v=Z_Gur0-IoGQ)
@@ -63,17 +58,14 @@ M - Mainstream news
 * [`New China TV` GLOBALink   BRICS cooperation creates business opportunities: Russian entrepreneur](https://www.youtube.com/watch?v=u8aPgnGrQDMhttps://www.youtube.com/watch?v=AVzsjfVQP0Y)
 * [`New China TV` Strong U. S.-China ties key to global peace, prosperity: business, diplomatic leaders](https://www.youtube.com/watch?v=1rjgvvGVfso)
 * [`Shanghai Eye` VOICES: How Chinese firms are going global](https://www.youtube.com/watch?v=IzaTJNe-JcQ)
-
 * [`Empire Watch` Building anti war trade union movements with Roger McKenzie](https://www.youtube.com/watch?v=rX4jhcYiJII)
 * [`Empire Watch` Shutdown the US war machine with US Presidential candidate Claudia De La Cruz](https://www.youtube.com/watch?v=JuVivOXOZM4)
 * [`Empire Watch` The wars in Ukraine and the Middle East are both about expanding US hegemony with Claudia De La Cruz](https://www.youtube.com/watch?v=KB4g64Ly2GY)
 * [`Empire Watch` Why we need an anti-imperialist feminist movement with Claudia De La Cruz](https://www.youtube.com/watch?v=LnOYLr652yg)
-
 * [`Jeffrey Sachs` Jeffrey Sachs Interviews - Factors Breaking Peace Talks](https://www.youtube.com/watch?v=MbcHD9TBUaI)
 * [`Jeffrey Sachs` Jeffrey Sachs Interviews - Who’s Really Stirring Up Trouble?](https://www.youtube.com/watch?v=sxI7CQ3ICsc)
 * [`Jeffrey Sachs` Jeffrey Sachs Interviews - Predictions and Analysis](https://www.youtube.com/watch?v=L81GdwEPw7o)
 * [`Jeffrey Sachs` Jeffrey Sachs Interviews - Confidence or Delusion?](https://www.youtube.com/watch?v=KZbO62SSI9s)
-
 * [`Channel News Asia (M)` SCO summit: Member states reaffirm commitment to peaceful settlement of differences](https://www.youtube.com/watch?v=esfg12dRDTc)
 
 ### China
