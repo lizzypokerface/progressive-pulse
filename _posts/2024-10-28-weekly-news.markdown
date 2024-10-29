@@ -7,48 +7,16 @@ categories: weekly news
 Legend:<br>
 M - Mainstream news
 
-### International
+### 2024 BRICS Summit
 
-* [`Tricontinental` Our Revolutions Are for the Survival and Development of Human Civilisation: The Forty-Third Newsletter (2024)](https://thetricontinental.org/newsletterissue/bandung-global-south/)
 * [`Geopolitical Economy Report` How can BRICS de-dollarize the financial system?](https://www.youtube.com/watch?v=X7ejfZdPboo)
 * [`Geopolitical Economy Report` Elite US economist warns: dollar system is weakening as gold BRICS rise](https://www.youtube.com/watch?v=KnMAit5MP-Y)
 * [`Geopolitical Economy Report` BRICS grows, adding 13 new 'partner countries' at historic summit in Russia](https://www.youtube.com/watch?v=wUdlzmk73Ns)
 * [`Breakthrough News Live` Will BRICS Sink the West’s Regime of War, Sanctions and Genocide?](https://www.youtube.com/watch?v=jICPQjw7OfA)
-* [`Breakthrough News Live` From Palestine to Lebanon, Resistance to Israel Will Never Surrender w/ Ghadi Francis & Rania Khalek](https://www.youtube.com/watch?v=b7BxQmR62B4)
-* [`Breakthrough News Live` Every Israeli Accusation Is A Confession, from Lebanon to Palestine, w/ As’ad Abukhalil](https://www.youtube.com/watch?v=ropFz8WRfRI)
-* [`Breakthrough News` How the U. S. Blockade Sabotaged Cuba’s Power Grid w/ Manolo De Los Santos](https://www.youtube.com/watch?v=W94lfWQiYe0)
-* [`Breakthrough News` Exposed: Israeli Spies in U. S. Media Manufacture Consent for Genocide and Empire w/ Alan Macleod](https://www.youtube.com/watch?v=6vYV5kM1gyg)
-* [`Breakthrough News` ‘You are Not My King’: Why I Confronted King Charles w/ Senator Lidia Thorpe](https://www.youtube.com/watch?v=rM5B7GNi2Ms)
 * [`Breakthrough News` BRICS Nations Are Forging a New Path for Global Trade – and the West Isn't Happy](https://www.youtube.com/watch?v=AogQyhf8HGA)
-* [`Breakthrough News` Pakistan’s Protests for Gaza Are Reigniting Its Fight Against US-Backed Military Rule](https://www.youtube.com/watch?v=i7XIojWwFL4)
-* [`Breakthrough News` Israel’s Real Goal: Ethnically Cleanse Gaza to Build Settlements](https://www.youtube.com/watch?v=-iZsviOuj5E)
-* [`Breakthrough News` Gulf Arab States Will ‘Pay a Very High Price’ If They Back a US-Israeli Attack on Iran](https://www.youtube.com/watch?v=S5M6YmM0CIc)
-* [`The Socialist Program` Dictatorship of the Elite: Big Tech Capitalists Decide for Us on Nuclear, Health & Climate Change](https://soundcloud.com/thesocialistprogram/dictatorship-of-the-elite-big-tech-capitalists-decide-for-us-on-nuclear-health-climate-change?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-* [`The Socialist Program` Exposed: Israeli Spies in U. S. Media & How the Media Manufactures Consent for Genocide and Empire](https://soundcloud.com/thesocialistprogram/exposed-israeli-spies-in-us-media-how-the-media-manufactures-consent-for-genocide-and-empire?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-* [`Progressive International` The most precarious place in the world to be a child: Israel’s year of war on children](https://progressive.international/wire/2024-10-22-the-most-precarious-place-in-the-world-to-be-a-child-israels-year-of-war-on-children/en)
-* [`Progressive International` "Erdoğan continues to commit crimes of war — and against humanity."](https://progressive.international/observatory/2024-10-24-erdoan-continues-to-commit-crimes-of-war--and-against-humanity/en)
-* [`Progressive International` Guilherme Boulos: A Vision for São Paulo](https://progressive.international/blueprint/b517d53e-4e5d-4d63-902a-382230743016-guilherme-boulos-a-vision-for-so-paulo/en)
-* [`Progressive International` International Call to Action: BP and SOCAR, Stop Fuelling Genocide!](https://progressive.international/wire/2024-10-28-international-call-to-action-bp-and-socar-stop-fuelling-genocide/en)
-* [`Thinkers Forum` Trump-Harris Rivalry: What’s at Stake for the Global Order?](https://www.youtube.com/watch?v=n1oZmmtiK0g)
-* [`Transnational Foundation` Johan Galtung: Father of Peace Studies (24 Oct 1930 – 17 Feb 2024)](https://thetransnational.substack.com/p/johan-galtung-father-of-peace-studies)
-* [`Transnational Foundation` David Swanson is first to receive The Real Nobel Peace Prize for 2024](https://thetransnational.substack.com/p/david-swanson-is-first-to-receive)
-* [`Transnational Foundation` Nord Stream "Mystery" Solved?](https://thetransnational.substack.com/p/nord-stream-mystery-solved)
 * [`Transnational Foundation` BRICS Shifts From US Dominated Economic System](https://thetransnational.substack.com/cp/150702228)
 * [`Center for China and Globalisation` CCG President Huiyao Wang on BRICS Summit in Russia](https://www.youtube.com/watch?v=P_8UO7qitO8)
-* [`Center for China and Globalisation` Huiyao Wang's dialogue with Harvard China Fund Chairman William Kirby on US-China education exchange](https://www.youtube.com/watch?v=_51DlLUY56c)
-* [`Democracy at Work` Economic Update: Puerto Rican Crises and Left Political Unity](https://www.youtube.com/watch?v=Plw9-iEwiTU)
-* [`Democracy at Work` Economic Update: The Missing Economics of the 2024 US Presidential Election](https://www.youtube.com/watch?v=MTnO_BpOIFc)
-* [`Democracy at Work` Dialectic At Work: Nobel Laureates, Settler Colonialism and Hypocrisy](https://www.youtube.com/watch?v=FG1MNfHaHaY)
 * [`Diplomatify` The real reason why BRICS chose 4 ASEAN countries as partners](https://youtu.be/z32rRtzt8lU?si=My_yDSXLygHgqETi)
-* [`FridayEveryday` OOPS. While Canada's been pointing at China, it was India who was "interfering"!](https://www.youtube.com/watch?v=rHrRnQN8JNg)
-* [`Global Times (M)` The West talks about environmental protection for years, yet their actions tell a different story](https://www.youtube.com/watch?v=RHH6dYZcYrw)
-* [`Global Times (M)` I hope future China-US relations can prove me wrong: John Mearsheimer](https://www.youtube.com/watch?v=L40HuCQzOLA)
-* [`New Economic Thinking` Lessons From History   The Economics of War & Peace Episode 2](https://www.youtube.com/watch?v=vI-uosPUeq8)
-* [`Novara Media` The History of Rice, Air-Con and How The Mongols Really Won   Ash Sarkar meets Sunil Amrith](https://www.youtube.com/watch?v=F0WpHmVkQMw)
-* [`Jeffrey Sachs` Jeffrey Sachs Interviews - Modern Geopolitics](https://www.youtube.com/watch?v=FmTMCaCL-Fw)
-* [`Jeffrey Sachs` Jeffrey Sachs Interviews - Uncontrollable](https://www.youtube.com/watch?v=k8jxZxHnUt0)
-* [`Jeffrey Sachs` Jeffrey Sachs Interviews - A Must-Listen Analysis](https://www.youtube.com/watch?v=U_EURrYdusY)
-* [`T-House` Otorbaev: China now a leader in global sustainable development](https://www.youtube.com/watch?v=GwUhZE3kyZc)
 * [`T-House` BRICS: Shaping a multipolar world for global prosperity](https://www.youtube.com/watch?v=-1eVThqprDE)
 * [`T-House` China further fortifies a multipolar world at BRICS Summit](https://www.youtube.com/watch?v=kztQIpixJao)
 * [`T-House` U. S. Economist: BRICS to form true multilateral world](https://www.youtube.com/watch?v=PA5pwbh2-y8)
@@ -58,10 +26,33 @@ M - Mainstream news
 * [`T-House` BRICS+ Summit: A global power shift in the making?](https://www.youtube.com/watch?v=k7_2glribAM)
 * [`T-House` BRICS Facilitates Cultural Exchange](https://www.youtube.com/watch?v=FrzE3yC0a3I)
 * [`T-House` George Galloway: BRICS may well turn out to be the new world](https://www.youtube.com/watch?v=aFlFGyxaLa0)
-* [`T-House` Can we end hunger amid rising tensions?](https://www.youtube.com/watch?v=5uO-EZTle9c)
 * [`T-House` Cooperation in transformation: BRICS Summit 2024](https://www.youtube.com/watch?v=122C55FE2yY)
-* [`T-House` Cooperation in Transformation](https://www.youtube.com/watch?v=PDN2whcCtQw)
 * [`T-House` Expanded BRICS: From Dialogue Into Action](https://www.youtube.com/watch?v=El87FqPE6SI)
+
+### International
+
+* [`Tricontinental` Our Revolutions Are for the Survival and Development of Human Civilisation: The Forty-Third Newsletter (2024)](https://thetricontinental.org/newsletterissue/bandung-global-south/)
+* [`The Socialist Program` Dictatorship of the Elite: Big Tech Capitalists Decide for Us on Nuclear, Health & Climate Change](https://soundcloud.com/thesocialistprogram/dictatorship-of-the-elite-big-tech-capitalists-decide-for-us-on-nuclear-health-climate-change?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+* [`The Socialist Program` Exposed: Israeli Spies in U. S. Media & How the Media Manufactures Consent for Genocide and Empire](https://soundcloud.com/thesocialistprogram/exposed-israeli-spies-in-us-media-how-the-media-manufactures-consent-for-genocide-and-empire?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+* [`Progressive International` The most precarious place in the world to be a child: Israel’s year of war on children](https://progressive.international/wire/2024-10-22-the-most-precarious-place-in-the-world-to-be-a-child-israels-year-of-war-on-children/en)
+* [`Progressive International` "Erdoğan continues to commit crimes of war — and against humanity."](https://progressive.international/observatory/2024-10-24-erdoan-continues-to-commit-crimes-of-war--and-against-humanity/en)
+* [`Progressive International` International Call to Action: BP and SOCAR, Stop Fuelling Genocide!](https://progressive.international/wire/2024-10-28-international-call-to-action-bp-and-socar-stop-fuelling-genocide/en)
+* [`Thinkers Forum` Trump-Harris Rivalry: What’s at Stake for the Global Order?](https://www.youtube.com/watch?v=n1oZmmtiK0g)
+* [`Transnational Foundation` Johan Galtung: Father of Peace Studies (24 Oct 1930 – 17 Feb 2024)](https://thetransnational.substack.com/p/johan-galtung-father-of-peace-studies)
+* [`Transnational Foundation` David Swanson is first to receive The Real Nobel Peace Prize for 2024](https://thetransnational.substack.com/p/david-swanson-is-first-to-receive)
+* [`Transnational Foundation` Nord Stream "Mystery" Solved?](https://thetransnational.substack.com/p/nord-stream-mystery-solved)
+* [`Center for China and Globalisation` Huiyao Wang's dialogue with Harvard China Fund Chairman William Kirby on US-China education exchange](https://www.youtube.com/watch?v=_51DlLUY56c)
+* [`Democracy at Work` Economic Update: The Missing Economics of the 2024 US Presidential Election](https://www.youtube.com/watch?v=MTnO_BpOIFc)
+* [`Democracy at Work` Dialectic At Work: Nobel Laureates, Settler Colonialism and Hypocrisy](https://www.youtube.com/watch?v=FG1MNfHaHaY)
+* [`Global Times (M)` The West talks about environmental protection for years, yet their actions tell a different story](https://www.youtube.com/watch?v=RHH6dYZcYrw)
+* [`Global Times (M)` I hope future China-US relations can prove me wrong: John Mearsheimer](https://www.youtube.com/watch?v=L40HuCQzOLA)
+* [`New Economic Thinking` Lessons From History   The Economics of War & Peace Episode 2](https://www.youtube.com/watch?v=vI-uosPUeq8)
+* [`Novara Media` The History of Rice, Air-Con and How The Mongols Really Won   Ash Sarkar meets Sunil Amrith](https://www.youtube.com/watch?v=F0WpHmVkQMw)
+* [`Jeffrey Sachs` Jeffrey Sachs Interviews - Modern Geopolitics](https://www.youtube.com/watch?v=FmTMCaCL-Fw)
+* [`Jeffrey Sachs` Jeffrey Sachs Interviews - Uncontrollable](https://www.youtube.com/watch?v=k8jxZxHnUt0)
+* [`Jeffrey Sachs` Jeffrey Sachs Interviews - A Must-Listen Analysis](https://www.youtube.com/watch?v=U_EURrYdusY)
+* [`T-House` Can we end hunger amid rising tensions?](https://www.youtube.com/watch?v=5uO-EZTle9c)
+* [`T-House` Cooperation in Transformation](https://www.youtube.com/watch?v=PDN2whcCtQw)
 * [`T-House` SCO Secretary-General Talks](https://www.youtube.com/watch?v=rsRD4RhEPUE)
 
 ### China
@@ -92,6 +83,7 @@ M - Mainstream news
 
 ### South Asia
 
+* [`Breakthrough News` Pakistan’s Protests for Gaza Are Reigniting Its Fight Against US-Backed Military Rule](https://www.youtube.com/watch?v=i7XIojWwFL4)
 * [`WION (M)` PM Modi, Xi Jinping Hold Bilateral Talks, First In Five Years   WION Dispatch](https://www.youtube.com/watch?v=2to4LxbZsSM)
 
 ### East Asia
@@ -101,6 +93,11 @@ M - Mainstream news
 
 ### West Asia (Middle East)
 
+* [`Breakthrough News Live` From Palestine to Lebanon, Resistance to Israel Will Never Surrender w/ Ghadi Francis & Rania Khalek](https://www.youtube.com/watch?v=b7BxQmR62B4)
+* [`Breakthrough News Live` Every Israeli Accusation Is A Confession, from Lebanon to Palestine, w/ As’ad Abukhalil](https://www.youtube.com/watch?v=ropFz8WRfRI)
+* [`Breakthrough News` Exposed: Israeli Spies in U. S. Media Manufacture Consent for Genocide and Empire w/ Alan Macleod](https://www.youtube.com/watch?v=6vYV5kM1gyg)
+* [`Breakthrough News` Israel’s Real Goal: Ethnically Cleanse Gaza to Build Settlements](https://www.youtube.com/watch?v=-iZsviOuj5E)
+* [`Breakthrough News` Gulf Arab States Will ‘Pay a Very High Price’ If They Back a US-Israeli Attack on Iran](https://www.youtube.com/watch?v=S5M6YmM0CIc)
 * [`Electronic Intifada` News highlights on week 55 of Israel's genocide in Gaza, with Nora Barrows-Friedman](https://www.youtube.com/watch?v=H5HHl27L9jk)
 * [`Transnational Foundation` US authorizes CIA mercenaries to run biometric concentration camps in Gaza Strip](https://thetransnational.substack.com/cp/150755676)
 * [`People's Dispatch` Breaking the silence: Roger Waters on Palestine, censorship, and self-censorship](https://www.youtube.com/watch?v=9NAS-vKlOa0)
@@ -122,6 +119,7 @@ M - Mainstream news
 
 * [`The China Academy` Just in from Kazan: Brazilian scholar discusses agreements reached during the BRICS meeting](https://chinaacademy.substack.com/p/just-in-from-kazan-brazilian-scholar)
 * [`Reports on China` Putin's plans to end US dollar dominance: BRICS Summit](https://www.youtube.com/watch?v=ehcP8veKRc0)
+* [`T-House` Otorbaev: China now a leader in global sustainable development](https://www.youtube.com/watch?v=GwUhZE3kyZc)
 * [`Think BRICS` Your Exclusive Pass to the Hottest BRICS Summit 2024 Moments!](https://www.youtube.com/watch?v=s_GbsQceZNA)
 * [`Think BRICS` BRICS Bridge, BRICS Pay: Bold Plan or Empty Promise?](https://www.youtube.com/watch?v=8snSVBE5YnU)
 * [`Think BRICS` China and India FINALLY Resolve Border Dispute at BRICS Summit](https://www.youtube.com/watch?v=s9bYQO0EA84)
@@ -153,9 +151,17 @@ M - Mainstream news
 * [`Second Thought` The Shady Group Behind Project 2025](https://www.youtube.com/watch?v=8eeCPRD0Hgg)
 * [`Hakim` How the Right Lies about Black Crime Stats](https://www.youtube.com/watch?v=giGsSWY_Bgw)
 * [`Empire Watch` The US is NO model for freedom and democracy with Claudia De La Cruz](https://www.youtube.com/watch?v=HK8yEJauIUU)
+* [`FridayEveryday` OOPS. While Canada's been pointing at China, it was India who was "interfering"!](https://www.youtube.com/watch?v=rHrRnQN8JNg)
 * [`AJ+` I Served 16 Years In The Air Force And Left Because Of Gaza](https://www.youtube.com/watch?v=qgSlokf6qEk)
 * [`AJ+` Quitting The Biden Administration Over Gaza](https://www.youtube.com/watch?v=7jk8wBXeJkk)
 
 ### Latin America and The Caribbean
 
+* [`Breakthrough News` How the U. S. Blockade Sabotaged Cuba’s Power Grid w/ Manolo De Los Santos](https://www.youtube.com/watch?v=W94lfWQiYe0)
+* [`Democracy at Work` Economic Update: Puerto Rican Crises and Left Political Unity](https://www.youtube.com/watch?v=Plw9-iEwiTU)
+* [`Progressive International` Guilherme Boulos: A Vision for São Paulo](https://progressive.international/blueprint/b517d53e-4e5d-4d63-902a-382230743016-guilherme-boulos-a-vision-for-so-paulo/en)
 * [`WION (M)` Bolivia: Evo Morales Survives Shooting, Alleges Assassination Plot   WION Speed News](https://www.youtube.com/watch?v=tzpfI3T5V2g)
+
+### Oceania
+
+* [`Breakthrough News` ‘You are Not My King’: Why I Confronted King Charles w/ Senator Lidia Thorpe](https://www.youtube.com/watch?v=rM5B7GNi2Ms)
