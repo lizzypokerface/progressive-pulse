@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "✊ Progressive News | 03 December 2024"
-date:   2024-12-03 11:00:00 +0800
+title:  "✊ Progressive News | 02 December 2024"
+date:   2024-12-02 11:00:00 +0800
 categories: weekly news
 ---
 Legend:<br>
