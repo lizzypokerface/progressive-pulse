@@ -8,8 +8,9 @@ USER_INPUT_NO = "n"
 VERIFIED_SOURCES_KEY = "verified_sources"
 SOURCE_TITLE_KEY = "title"
 SOURCE_URL_KEY = "url"
-SOURCE_NOTES_KEY = "notes"
-PROCESSED_LINK_FORMAT = "{}[{}]\n"
+SOURCE_INFO_KEY = "info"
+SOURCE_RANK_KEY = "rank"
+PROCESSED_LINK_FORMAT = "{}[{}][{}]\n"
 NEWS_POST_FILENAME_FORMAT = "{}-weekly-news.markdown"
 NEWS_POST_COMMIT_MSG = "feat: weekly news post added {}"
 NEWS_POST_TEMPLATE = """
@@ -19,8 +20,6 @@ title:  "✊ Progressive News | {}"
 date:   {} 11:00:00 +0800
 categories: weekly news
 ---
-Legend:<br>
-M - Mainstream news
 
 ### International
 

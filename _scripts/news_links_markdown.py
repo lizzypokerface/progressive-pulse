@@ -37,13 +37,22 @@ def tidy_title(title: str) -> str:
     return tidy
 
 
-def remove_source(link: str) -> str:
+def get_embedded_link(link: str) -> str:
     return re.sub(r"\[.*?\]$", "", link)
 
+def get_source(line):
+    # Match text between the square brackets after the URL
+    match = re.search(r"\[([^\]]+)\]\[", line)
+    if match:
+        return match.group(1).strip()
+    return "Unknown Source"
 
-def extract_source(link: str) -> str:
-    match = re.search(r"\[(.*?)\]$", link)
-    return match.group(1) if match else "Unknown Source"
+def get_rank(line):
+    # Match the number inside the square brackets at the end of the line
+    match = re.search(r"\[(\d+)\]$", line)
+    if match:
+        return int(match.group(1))
+    return -1
 
 
 def get_youtube_video_title(driver: WebDriver, url: str) -> Optional[str]:
@@ -65,8 +74,9 @@ def get_youtube_video_title(driver: WebDriver, url: str) -> Optional[str]:
         return None
 
 
-def sort_dataframe_by_region_and_source(df: pd.DataFrame) -> pd.DataFrame:
-    sorted_df = df.sort_values(by=["source", "region"], ascending=[True, True])
+def sort_dataframe_by_rank_and_source(df: pd.DataFrame) -> pd.DataFrame:
+    sorted_df = df.sort_values(by=["rank", "source"], ascending=[True, False])
+    sorted_df.to_csv("output.csv")
     return sorted_df
 
 
@@ -75,13 +85,12 @@ def write_article_dataframe_to_markdown(
     news_links_md_filename: str,
 ) -> None:
 
-    sorted_df = sort_dataframe_by_region_and_source(df)
+    sorted_df = sort_dataframe_by_rank_and_source(df)
 
     with open(news_links_md_filename, "w") as f:
         previous_source = None
         for _, row in sorted_df.iterrows():
             title = row["title"]
-            region = row["region"]
             source = row["source"]
             url = row["url"]
 
@@ -123,17 +132,17 @@ def process_markdown_links(
         # Refer to: https://stackoverflow.com/questions/55072731/selenium-using-too-much-ram-with-firefox
         driver = webdriver.Firefox(options=options)
 
-        yt_link = remove_source(link)
-        source = extract_source(link)
+        yt_link = get_embedded_link(link)
+        source = get_source(link)
+        rank = get_rank(link)
         title = get_youtube_video_title(driver, yt_link)
         if title:
             cleaned_title_text = tidy_title(title)
-            region = categorize_headline_region(cleaned_title_text)
             logging.info(f"Successfully retrieved title: {cleaned_title_text}")
             article_df.append(
                 {
                     "title": cleaned_title_text,
-                    "region": region,
+                    "rank": rank,
                     "source": source,
                     "url": yt_link,
                 }
@@ -148,17 +157,18 @@ def process_markdown_links(
 
     for link in other_links:
         try:
-            other_link = remove_source(link)
-            source = extract_source(link)
+            other_link = get_embedded_link(link)
+            source = get_source(link)
+            rank = get_rank(link)
             title = input(f"Enter the title for the link {other_link}: ").strip()
             if title:
                 cleaned_title_text = tidy_title(title)
-                region = categorize_headline_region(cleaned_title_text)
+                rank = source = get_source(link)
                 logging.info(f"Successfully retrieved title: {cleaned_title_text}")
                 article_df.append(
                     {
                         "title": cleaned_title_text,
-                        "region": region,
+                        "rank": rank,
                         "source": source,
                         "url": other_link,
                     }
@@ -168,7 +178,7 @@ def process_markdown_links(
         except Exception as e:
             logging.error(f"Error processing link {link}: {e}")
 
-    df = pd.DataFrame(article_df, columns=["title", "region", "source", "url"])
+    df = pd.DataFrame(article_df, columns=["title", "rank", "source", "url"])
     write_article_dataframe_to_markdown(df, news_links_md_filename)
 
     logging.info("Finished processing all links")
