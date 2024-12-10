@@ -76,7 +76,7 @@ def get_youtube_video_title(driver: WebDriver, url: str) -> Optional[str]:
 
 def sort_dataframe_by_rank_and_source(df: pd.DataFrame) -> pd.DataFrame:
     sorted_df = df.sort_values(by=["rank", "source"], ascending=[True, False])
-    sorted_df.to_csv("output.csv")
+    #sorted_df.to_csv("output.csv")
     return sorted_df
 
 
@@ -163,7 +163,6 @@ def process_markdown_links(
             title = input(f"Enter the title for the link {other_link}: ").strip()
             if title:
                 cleaned_title_text = tidy_title(title)
-                rank = source = get_source(link)
                 logging.info(f"Successfully retrieved title: {cleaned_title_text}")
                 article_df.append(
                     {
