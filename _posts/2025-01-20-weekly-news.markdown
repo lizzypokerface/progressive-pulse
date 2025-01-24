@@ -92,10 +92,6 @@ categories: weekly news
 * [`Channel News Asia` How are protests in South Korea linked to Trump’s voter fraud allegations?](https://www.youtube.com/watch?v=GhtiiiB4Om4)
 * [`CGTN` Yoon's detention period extended, supporters break into court](https://www.youtube.com/watch?v=IvL7__qXgXE)
 
-### Central Asia
-
-* [Article](https://website.com/)
-
 ### West Asia (Middle East)
 
 * [`Electronic Intifada` News highlights on week 67 of Israel's genocide in Gaza, with Nora Barrows-Friedman](https://www.youtube.com/watch?v=ijOgsoDk--o)
@@ -232,10 +228,6 @@ categories: weekly news
 * [`CGTN` We Talk: Panamanian residents on Trump's ambitions for Panama Canal](https://www.youtube.com/watch?v=vm1r_OD0QKI)
 * [`CCTV Video News Agency (M)` Lima Marks 490th Founding Anniversary](https://www.youtube.com/watch?v=Xxb23Dcy1v0)
 * [`Al Jazeera` I'm a Latino preparing for Trump's mass deportation of migrants   Close Up](https://www.youtube.com/watch?v=-l-CLLJOdvw)
-
-### Oceania
-
-* [Article](https://website.com/)
 
 ### Miscellaneous
 
