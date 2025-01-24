@@ -1,0 +1,243 @@
+---
+layout: post
+title:  "✊ Progressive News | 20 January 2025"
+date:   2025-01-20 11:00:00 +0800
+categories: weekly news
+---
+
+### International
+
+* [`Geopolitical Economy Report` What will Trump's return mean for Ukraine, Gaza, and the economy?](https://www.youtube.com/watch?v=fNQztns8C9U)
+* [`Geopolitical Economy Report` BRICS expands to 55% of world population by adding Nigeria, Africa's most populous country](https://www.youtube.com/watch?v=ZNNrMP_1E9g)
+* [`Tricontinental` All Wars End in Negotiations. So Will the War in Ukraine: The Third Newsletter (2025)](https://thetricontinental.org/newsletterissue/the-war-in-ukraine-must-end/)
+* [`Transnational Foundation` The West's suicide over Gaza and Ukraine](https://thetransnational.substack.com/p/the-wests-suicide-over-gaza-and-ukraine)
+* [`Transnational Foundation` TFF PressInfo # 762 from Substack: Diverse peace public education making a great 2025 start](https://thetransnational.substack.com/p/tff-pressinfo-762-from-substack-diverse)
+* [`Transnational Foundation` WHAT DO GREENLAND AND MACEDONIA HAVE IN COMMON?](https://biljanavankovska.substack.com/cp/154878559)
+* [`Transnational Foundation` What is time? And when is time up?](https://thetransnational.substack.com/p/what-is-time-and-when-is-time-up)
+* [`Progressive International` PI Briefing   No. 2   From Cessation to Liberation](https://progressive.international/wire/2025-01-19-pi-briefing-no-2-from-cessation-to-liberation/en)
+* [`Thinkers Forum` The West Is Freefalling, But Will They Freefall Without a Fight?  Redhika Desai](https://www.youtube.com/watch?v=2X2ymUNgNho)
+* [`Thinkers Forum` US Is Making the Next Ukraine   Jeffrey Sachs & Joanna Lei](https://www.youtube.com/watch?v=opsu3LtH-N4)
+* [`Think BRICS` BRICS vs WEF: Who's Shaping the Future at Davos?](https://www.youtube.com/watch?v=ig7-ZK2Jc1k)
+* [`New Economic Thinking` How Mutual Funds Shape Society](https://www.youtube.com/watch?v=xCoXmECZzJI)
+* [`Novara Media` Tiktok Users Flee to Overtly Chinese App After Ban](https://www.youtube.com/watch?v=KmzY9OqSgNM)
+* [`Neutrality Studies` The Origins Of The Most DEADLY Ideology On Earth   Prof. David N. Gibbs](https://www.youtube.com/watch?v=uA8LIZ_YR04)
+* [`Empire Watch` Tings Chak on the Tricontinental Exhibition of Children's Art from Gaza](https://www.youtube.com/watch?v=_SZbz4FYZ-g)
+* [`Double Down News` How Billionaires Took Over The World](https://www.youtube.com/watch?v=4iqiz0KHuJo)
+* [`WION` Fossil Fuel Plan's Endanger 1.5°C Climate Goal   WION Podcast](https://www.youtube.com/watch?v=mW-_-fN-Yb8)
+* [`South China Morning Post` SpaceX’s Starship explodes in test flight](https://www.youtube.com/watch?v=4vbQKcShRXs)
+* [`Planet: Critical` Planetary Solvency   Sandy Trust](https://www.youtube.com/watch?v=wchLq5iQZCo)
+* [`Al Jazeera` How does the use of AI affect human relationships?   The Stream](https://www.youtube.com/watch?v=NEhpWtia-U4)
+
+### China
+
+* [`Breakthrough News` BRICS and Belt and Road: Will China Lead In the 21st Century?](https://www.youtube.com/watch?v=ZcP5L6xcoOU)
+* [`Thinkers Forum` A Recession Is Not Always a Bad Thing   Professor Keyu Jin](https://www.youtube.com/watch?v=cFg_98LDk_Y)
+* [`Thinkers Forum` Where is China's Juggernaut Economy Headed?   Professor Keyu Jin](https://www.youtube.com/watch?v=MI61CauQ1G4)
+* [`Thinkers Forum` How China Grows: A Country That Defies Western Economists](https://www.youtube.com/watch?v=orIHzGcadeY)
+* [`The China Academy` China Investigates U. S. Chips Sold in China](https://chinaacademy.substack.com/p/china-investigates-us-chips-sold)
+* [`The China Academy` The Great American RedNote Migration](https://chinaacademy.substack.com/p/the-great-american-rednote-migration)
+* [`Reports on China` Melissa Chen: EXPOSING an anti-Chinese Chinese reporter / activist](https://www.youtube.com/watch?v=BKI1wfbxWnM)
+* [`Reports on China` Washington is MAD! TikTok ban forces Americans to download new Chinese app, Xiaohongshu](https://www.youtube.com/watch?v=IciG4i9bZnU)
+* [`Empire Watch` Tings Chak on China's Green Revolution](https://www.youtube.com/watch?v=p9ui5iShyzA)
+* [`Empire Watch` How will China respond to Trump 2.0? With Tings Chak](https://www.youtube.com/watch?v=lmKo-sQdJhc)
+* [`China Up Close` U. S. TikTok users flocking to Chinese app RedNote amid looming ban](https://lijingjing.substack.com/p/us-tiktok-users-flocking-to-chinese)
+* [`Center for China and Globalisation` Towards Inclusive AI](https://www.youtube.com/watch?v=oNtl4rMaDhE)
+* [`T-House` One week after M6.8 Xizang quake: What relief efforts are underway?](https://www.youtube.com/watch?v=8VUE1Rf2Uew)
+* [`T-House` TikTok Debate: What's really behind the U. S. approach to Chinese tech?](https://www.youtube.com/watch?v=o6JP3tyWAck)
+* [`T-House` What's behind 'TikTok refugees' flocking to Chinese app RedNote](https://www.youtube.com/watch?v=OUyCmfIByEg)
+* [`T-House` Nanning: A Cultural Bridge Connecting China and ASEAN](https://www.youtube.com/watch?v=No-0GhxSMfk)
+* [`South China Morning Post` Smooth Sailing Beerhouse serves up a look at life in China’s 'rust belt'](https://www.youtube.com/watch?v=yGnSfn08zhU)
+* [`Shanghai Eye` How China's CATL dominating the global battery market?](https://www.youtube.com/watch?v=mCkm1dVmQaA)
+* [`Shanghai Eye` Influx of US TikTok users offers Chinese brands opportunity to expand global reach: expert](https://www.youtube.com/watch?v=Y0O_kcJydYc)
+* [`Shanghai Eye` Shanghai's eVTOL maiden flight paves the way for urban air mobility](https://www.youtube.com/watch?v=s6rc0jtGvVI)
+* [`New China TV` Chinese researchers develop super-fast quadrupedal robot](https://www.youtube.com/watch?v=k-fjkwmhSno)
+* [`New China TV` China's first 2, 000-m ultra-deepwater oil and gas extraction equipment assembled](https://www.youtube.com/watch?v=ygMBdhfPQUI)
+* [`New China TV` GLOBALink   Navigating Spring Festival travel rush: Keeping freight trains in motion](https://www.youtube.com/watch?v=hW-Zhu6k1qE)
+* [`New China TV` China's economic growth far exceeds expectations: former German official](https://www.youtube.com/watch?v=e-F4XVznyZk)
+* [`New China TV` Chinese researchers invent advanced compressed air energy storage system](https://www.youtube.com/watch?v=D_NqWr3dwEc)
+* [`New China TV` Riding on a slow green train in China's Kunming](https://www.youtube.com/watch?v=DyJSba539Mc)
+* [`New China TV` Young overseas returnee takes a deep dive into rural revitalization](https://www.youtube.com/watch?v=wIXVYd27xQ8)
+* [`FridayEveryday` The world is overheating--and China makes all the aircons!](https://www.youtube.com/watch?v=_Svs9-Hv3UM)
+* [`Channel News Asia` Zhengzhou manufacturing sector braces for more uncertainty as Trump takes office again](https://www.youtube.com/watch?v=C_lieeDDgC4)
+* [`CCTV Video News Agency (M)` China Launches Five New Satellites](https://www.youtube.com/watch?v=YotWgdWDtLk)
+
+### South Asia
+
+* [`Geopolitical Economy Report` Is India the world's next economic superpower?](https://www.youtube.com/watch?v=hXU42fqJ6g4)
+* [`WION` Pakistan: Imran Khan Accuses Military Of Human-Rights Abuses   WION Dispatch](https://www.youtube.com/watch?v=xCCpn_vkKMk)
+* [`WION` Jammu & Kashmir: One Indian Army Soldier Killed in Encounter With Terrorists in Sopore   WION News](https://www.youtube.com/watch?v=Trs-PS1WVLI)
+* [`WION` Kolkata Rape & Murder Case: Kolkata Court Sentences Sanjay Roy to Life Imprisonment   WION Dispatch](https://www.youtube.com/watch?v=yL6ACBI4ZUI)
+* [`WION` India: Delhi Sees Warmest January Day in Six Years at 26.1 Degrees Celsius   WION Dispatch](https://www.youtube.com/watch?v=5yGYyA6wp_E)
+* [`Channel News Asia` India doctor rape-murder case: Court in Kolkata sentences convict to life in prison](https://www.youtube.com/watch?v=6_SOyv0DNP0)
+* [`Channel News Asia` India’s pharmaceutical sector braces for potential upheavals caused by Trump tariffs](https://www.youtube.com/watch?v=PLW4ntiNjyU)
+
+### Southeast Asia
+
+* [`Lee Kuan Yew School of Public Policy` Ageing, Art, and the Impact of AI - A Benefactors’ Exclusive Masterclass - 20 September 2024](https://www.youtube.com/watch?v=us3H33Ylxrs)
+* [`Diplomatify` 3 Ways BRICS Expansion Could Cause ASEAN Decline](https://www.youtube.com/watch?v=718poA_qn3s)
+* [`South China Morning Post` Will Indonesia keep feeding Prabowo’s free school meal scheme?](https://www.youtube.com/watch?v=Le7IQCamqYg)
+* [`New China TV` China-Vietnam freight trains facilitate cross-border trade](https://www.youtube.com/watch?v=bjKVWVJUUSg)
+* [`New China TV` ASEAN chairmanship will boost Malaysia's efforts in promoting regional integration, says minister](https://www.youtube.com/watch?v=takaIMYuwkk)
+* [`Channel News Asia` Second Trump term could challenge US ties with Southeast Asia: Analysts](https://www.youtube.com/watch?v=IGCy49-Y2g0)
+* [`Channel News Asia` Indranee Rajah on support for young families](https://www.youtube.com/watch?v=sWbYKmRbZX8)
+* [`Channel News Asia` Singapore committed to work with ASEAN and partners like China to combat scams: Josephine Teo](https://www.youtube.com/watch?v=ML4pMa_TJx4)
+* [`CGTN` Singapore's Chinatown celebrates Spring Festival with lantern display](https://www.youtube.com/watch?v=dSjaiJ47TSc)
+* [`CGTN` Collaboration with China boosts Vietnam's wind power sector](https://www.youtube.com/watch?v=QUTacBfHxp4)
+* [`CGTN` Spring Festival celebration with ASEAN guests in 'old-friend' city Nanning](https://www.youtube.com/watch?v=JCZIw4HHBYQ)
+
+### East Asia
+
+* [`WION` Impeached South Korean President Yoon Continues to Refuse Questioning   World News   WION](https://www.youtube.com/watch?v=qmtZoh2cIH0)
+* [`South China Morning Post` South Korean president Yoon arrested after weeks-long stand-off](https://www.youtube.com/watch?v=bwL1ib555RM)
+* [`Channel News Asia` How are protests in South Korea linked to Trump’s voter fraud allegations?](https://www.youtube.com/watch?v=GhtiiiB4Om4)
+* [`CGTN` Yoon's detention period extended, supporters break into court](https://www.youtube.com/watch?v=IvL7__qXgXE)
+
+### Central Asia
+
+* [Article](https://website.com/)
+
+### West Asia (Middle East)
+
+* [`Electronic Intifada` News highlights on week 67 of Israel's genocide in Gaza, with Nora Barrows-Friedman](https://www.youtube.com/watch?v=ijOgsoDk--o)
+* [`Electronic Intifada` Why a military embargo against Israel is a moral obligation, with Shir Hever](https://www.youtube.com/watch?v=LX87ecmoYWI)
+* [`Electronic Intifada` Why I consider Gaza to be victorious, with Ahmed Alnaouq](https://www.youtube.com/watch?v=IzP6YW2a8EU)
+* [`Electronic Intifada` Gaza resistance backs Israel into corner as ceasefire looms, with Jon Elmer](https://www.youtube.com/watch?v=KHtrGfH0OKg)
+* [`Electronic Intifada` Why Trump forced Israel to accept Gaza ceasefire, with Ali Abunimah](https://www.youtube.com/watch?v=K7pG_9qRYcY)
+* [`Breakthrough News` Ceasefire Deal: Israel Failed to "Achieve Military Objectives’](https://www.youtube.com/watch?v=lHA96NJWs6U)
+* [`Breakthrough News Live` Ceasefire or Not, Palestinian Liberation is Inevitable w/ Ali Abunimah](https://www.youtube.com/watch?v=3uVgVrwGwM8)
+* [`Breakthrough News Live` Gaza Ceasefire Explained: Reading Between The Lines](https://www.youtube.com/watch?v=Ok8CPccPeBM)
+* [`Breakthrough News Live` Will Gaza Ceasefire Hold, Will Netanyahu Fall and Will Israel Stop Targeting Palestinians?](https://www.youtube.com/watch?v=GHl8EcKZuUU)
+* [`Breakthrough News` 15 Months of Genocide: Academic Complicity in the Destruction of Gaza, w/ Ussama Makdisi](https://www.youtube.com/watch?v=ArSI8ss_ZHU)
+* [`Transnational Foundation` What to Know About the Gaza Ceasefire Deal](https://zeteo.com/cp/154938935)
+* [`The Socialist Program` Gaza Ceasefire Explained: Reading Between The Lines](https://soundcloud.com/thesocialistprogram/gaza-ceasefire-explained-reading-between-the-lines?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+* [`The Socialist Program` Gaza Ceasefire Explained: Reading Between The Lines](https://soundcloud.com/thesocialistprogram/gaza-ceasefire-explained-reading-between-the-lines?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+* [`Progressive International` People's Tribunal to Examine Alleged War Crimes in Northern Syria](https://progressive.international/wire/2025-01-16-peoples-tribunal-to-examine-alleged-war-crimes-in-northern-syria/en)
+* [`Novara Media` Ceasefire Deal Agreed Between Israel and Hamas   #NovaraLIVE](https://www.youtube.com/watch?v=Uf7zw5OAISA)
+* [`Novara Media` Benjamin Netanyahu Stalls Gaza Ceasefire Approval   #NovaraLIVE](https://www.youtube.com/watch?v=hUmcEMNKpZY)
+* [`Novara Media` David Lammy’s Shocking Pro-Israel Hypocrisy](https://www.youtube.com/watch?v=WgZoY21bsJs)
+* [`Novara Media` Israel Approves Gaza Ceasefire Agreement   #NovaraLIVE](https://www.youtube.com/watch?v=py9hYjofOKs)
+* [`Neutrality Studies` The Cease-Fire Is NOT Designed For Peace. More War Is Certain   L. Kasradze & Col. L. Wilkerson](https://www.youtube.com/watch?v=P5LXNzgo9Ek)
+* [`Neutrality Studies` Norman Finkelstein on Genocide in Gaza and Free Speech](https://www.youtube.com/watch?v=TsR5Yc0CcLA)
+* [`Neutrality Studies` Jeffrey Sachs: A Comprehensive Deal for Peace in the Middle East](https://www.youtube.com/watch?v=BEzzoSXncLQ)
+* [`Middle East Eye` How large parts of Israeli society have come to justify war crimes   Anat Matar   UNAPOLOGETIC](https://www.youtube.com/watch?v=eD9OuKtRqoI)
+* [`Middle East Eye` The story behind Yahya Sinwar’s last ever interview   Hind Hassan   Real Talk](https://www.youtube.com/watch?v=6hw4XoqdFGg)
+* [`Middle East Eye` Palestinians in Gaza celebrate ceasefire deal](https://www.youtube.com/watch?v=FxYK9i1jMCA)
+* [`Middle East Eye` Gaza ceasefire: After 15 months of brutality, Israel has failed on every front](https://www.youtube.com/watch?v=CHGTvdQbRWI)
+* [`Middle East Eye` Israeli media says ceasefire deal is ‘unimaginable failure’](https://www.youtube.com/watch?v=AkQdjEa9vvw)
+* [`Middle East Eye` 'This isn't the Rafah we knew': Displaced Palestinians return to destroyed homes during ceasefire](https://www.youtube.com/watch?v=UHb-wsTECDw)
+* [`Al Mayadeen English` A Timeline: How Yemen Aided Gaza](https://www.youtube.com/watch?v=5pX6LuPUNXs)
+* [`Al Mayadeen English` What’s next for Lebanon after President Joseph Aoun’s election?](https://www.youtube.com/watch?v=sM3t1qO-OUk)
+* [`Telesur English` Iran: Attack against supreme court judges leaves 2 dead, 1 wounded](https://www.youtube.com/watch?v=WuDA4AGyR4o)
+* [`Telesur English` Special Interview with Hassan Ben Imran on ceasefire in Gaza](https://www.youtube.com/watch?v=je8VcDJW9Lg)
+* [`Straits Times` Gaza ceasefire deal: What are the main points?](https://www.youtube.com/watch?v=o1mbyENEgNI)
+* [`New China TV` Displaced Palestinians happy with ceasefire, prepare to return home](https://www.youtube.com/watch?v=_lSAy-nD_mQ)
+* [`New China TV` Egypt resumes sending aid trucks to Gaza as ceasefire takes effect: state TV](https://www.youtube.com/watch?v=mUwziyE-wHM)
+* [`New China TV` GLOBALink   On-site in Gaza: Gaza ceasefire comes into effect](https://www.youtube.com/watch?v=bTKYlgr_q68)
+* [`New China TV` GLOBALink   Yemenis welcome Gaza ceasefire deal](https://www.youtube.com/watch?v=jZ6rWlAzid8)
+* [`New China TV` GLOBALink   Palestinians celebrate ceasefire as hope returns to Gaza](https://www.youtube.com/watch?v=HIwE6xWZsTQ)
+* [`CCTV Video News Agency (M)` First Humanitarian Aid Trucks Enter Gaza as Ceasefire Takes Effect](https://www.youtube.com/watch?v=0ohf7N06cP0)
+* [`Al Jazeera` Has democracy failed in Israel? Fatima Bhutto & Yuli Novak   Reframe](https://www.youtube.com/watch?v=y54ZVcmOdsw)
+* [`Al Jazeera` Gaza in fragments   DigiDocs](https://www.youtube.com/watch?v=3FngGX2LeuY)
+
+### Russia
+
+* [`Breakthrough News` FIFA’s Hypocrisy: Russia Banned While Israel’s Genocide Doesn’t Even Get a Penalty](https://www.youtube.com/watch?v=uWU3lh7GwNo)
+* [`Glenn Diesen` Armenia’s Westward Shift Raises Tensions with Russia](https://glenndiesen.substack.com/p/armenias-westward-shift-raises-tensions)
+* [`Glenn Diesen` Russian Victory or Political Settlement in Ukraine?](https://glenndiesen.substack.com/p/russian-victory-or-political-settlement)
+* [`Glenn Diesen` Why the US Misunderstands Russia](https://glenndiesen.substack.com/p/why-the-us-misunderstands-russia)
+* [`Thinkers Forum` How US Neocons Pushed Russia into China's Arms  Ron Unz](https://www.youtube.com/watch?v=S38tdx3UDQk)
+* [`Think BRICS` Moscow Summit Forges New Era of Strategic Partnership Between Russia and Iran](https://thinkbrics.substack.com/p/moscow-summit-forges-new-era-of-strategic)
+* [`Neutrality Studies` Ex-Diplomat REVEALS: Russian Peace Efforts, NATO Destroys Peace   Amb. Jean-Daniel Ruch](https://www.youtube.com/watch?v=ypFqFCFjRLE)
+* [`Telesur English` Moscow bans import of livestock products from EU due to disease outbreak](https://www.youtube.com/watch?v=qEU2XmTYnN4)
+* [`Telesur English` Moscow bans import of livestock products from EU due to disease outbreak](https://www.youtube.com/watch?v=qEU2XmTYnN4)
+* [`Telesur English` Russia and Iran sign strategic partnership treaty for the next 20 years](https://www.youtube.com/watch?v=cSq4pax6qgY)
+
+### Europe
+
+* [`Breakthrough News` ‘NATO Lost’: Ukraine War Backfires, Brings Russia and China Closer Together](https://www.youtube.com/watch?v=6_qttb1C_oI)
+* [`Tarik Cyril Amar` Going After Another Pipeline? The future of TurkStream will be a test of Trumpism](https://www.tarikcyrilamar.com/p/going-after-another-pipeline-the)
+* [`Tarik Cyril Amar` An Exemplary Fiasco: Ukraine's Astoundingly Disappearing "Anna of Kiev" Brigade](https://www.tarikcyrilamar.com/p/an-exemplary-fiasco-ukraines-astoundingly)
+* [`Glenn Diesen` Peace Agreement to End the Ukraine War](https://glenndiesen.substack.com/p/peace-agreement-to-end-the-ukraine)
+* [`Glenn Diesen` The Predictable Collapse of Pan-European Security](https://glenndiesen.substack.com/p/the-predictable-collapse-of-pan-european)
+* [`Glenn Diesen` ‘NATO Lost’: Ukraine War Backfires, Brings Russia and China Closer Together](https://glenndiesen.substack.com/p/nato-lost-ukraine-war-backfires-brings)
+* [`Glenn Diesen` Why NATO’s Plan to Conscript Ukraine’s Youth Will Fail](https://glenndiesen.substack.com/p/why-natos-plan-to-conscript-ukraines)
+* [`Wave Media` China: No Ukraine if We Had Really Sent Weapons to Russia](https://www.youtube.com/watch?v=d4oNBrelX98)
+* [`Novara Media` Nigel Farage Slammed Over Massive Income](https://www.youtube.com/watch?v=dyPG2GDMoRw)
+* [`Novara Media` Shock Poll Has Reform Just ONE POINT Behind Labour](https://www.youtube.com/watch?v=U6F7UMn4vYI)
+* [`Novara Media` Keir Starmer Tells Sun He “Has The Balls” To Cut Benefits](https://www.youtube.com/watch?v=uMSqlGMsnaQ)
+* [`Novara Media` Aaron Bastani DEBATES Libertarian Economist   Aaron meets Kristian Niemietz](https://www.youtube.com/watch?v=LmgozEWbN68)
+* [`Neutrality Studies` In Memory of Fritz Edlinger: A Giant of Austria's Peace Movement.](https://www.youtube.com/watch?v=dLv-ucnHAQE)
+* [`Middle East Eye` Over 100 thousand attend pro-Palestine march in London despite significant restrictions](https://www.youtube.com/watch?v=XPwaGi-H64A)
+* [`Global Times` German parties have decided on chancellor candidates; these changes are worth paying attention to](https://www.youtube.com/watch?v=_KV6Wqzj-HY)
+* [`Telesur English` Ukraine: National police carry out massive raids to arrest draft evaders](https://www.youtube.com/watch?v=3JLdk9qZgoE)
+* [`New China TV` Türkiye's Istanbul raises public transport, taxi fares by 35 pct](https://www.youtube.com/watch?v=3PVZnkrEyFU)
+* [`Islam Channel` Keir Starmer's fight against student protests - a threat to democracy?   Analysis](https://www.youtube.com/watch?v=MDuMeKCBXgU)
+
+### Africa
+
+* [`Breakthrough News` Still No Ceasefire in Sudan, a ‘Chess Piece’ in West’s Power Games](https://www.youtube.com/watch?v=Q9U4CC6rvCQ)
+* [`Progressive International` What’s next for the Nigerian left?](https://progressive.international/wire/2025-01-17-whats-next-for-the-nigerian-left/en)
+* [`Think BRICS` BRICS Expansion Alert: Nigeria’s Big Move!](https://www.youtube.com/watch?v=lbHW2WqyUM8)
+* [`Think BRICS` Nigeria's Gamble: A Dance Between Order and Chaos in the BRICS Arena](https://thinkbrics.substack.com/p/nigerias-gamble-a-dance-between-order)
+* [`Africa Stream` 217 More Kenyan Police Deploy To Haiti](https://africanstream.media/217-more-kenyan-police-deploy-to-haiti/)
+* [`Africa Stream` Amílcar Cabral: Colonial Portugal’s Nightmare](https://africanstream.media/amilcar-cabral-colonial-portugals-nightmare/)
+* [`Africa Stream` Is France ‘Neo-colonising’ Nigeria?](https://africanstream.media/is-france-neo-colonising-nigeria/)
+* [`Africa Stream` Communist Party Leader Survives Assassination Attempt](https://africanstream.media/communist-party-leader-survives-assassination-attempt/)
+* [`Africa Stream` Sudan Armed Forces Ethnically Targeting South Sudanese](https://africanstream.media/sudan-armed-forces-ethnically-targeting-south-sudanese/)
+* [`Africa Stream` Rights Group Accuses Secretive Kenyan Security Unit Of Mass Kidnappings](https://africanstream.media/rights-group-accuses-secretive-kenyan-security-unit-of-mass-kidnappings/)
+
+### North America
+
+* [`Breakthrough News Live` Trump Inauguration: Protests Begin Against ‘Billionaire Agenda’](https://www.youtube.com/watch?v=8gsis6hnO08)
+* [`Breakthrough News` How the New York Times is ‘Manufacturing Consent’ for US Intervention in Mexico](https://www.youtube.com/watch?v=zPuuEBrNMbI)
+* [`Breakthrough News` Not a 'Natural Disaster': The Systemic Failures Behind LA's Wildfire Crisis](https://www.youtube.com/watch?v=iCcCrYQoU-w)
+* [`Breakthrough News` Housing Profiteers Caused the LA Fires to Spread Way Farther Than They Should Have](https://www.youtube.com/watch?v=MdJMdeK92mw)
+* [`Breakthrough News` Trump vs. Labor: The Coming Clash Over Class Power, w/ John Russell](https://www.youtube.com/watch?v=U7Ji12EO9C4)
+* [`Transnational Foundation` Biden worked 'tirelessly around the clock' — to prevent a ceasefire](https://thetransnational.substack.com/p/biden-worked-tirelessly-around-the)
+* [`The Socialist Program` Huge L. A. Fires: The Capitalist Connection](https://soundcloud.com/thesocialistprogram/huge-la-fires-the-capitalist-connection?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+* [`Seymour Hersh` WHAT WE DON'T KNOW ABOUT THE PRESIDENTS WE ELECT](https://seymourhersh.substack.com/p/what-we-dont-know-about-the-presidents)
+* [`Second Thought` Why Unions Are Good And Cool (and how you can get one in your workplace)](https://www.youtube.com/watch?v=mHOGRhBkWOE)
+* [`Richard D Wolff` Wolff Responds: "The Lesson California's Fires Should Teach Us" Dated January 15, 2025](https://www.youtube.com/watch?v=-qxhKme6tdE)
+* [`Glenn Diesen` What to Expect with the Return of Trump](https://glenndiesen.substack.com/p/what-to-expect-with-the-return-of)
+* [`Democracy at Work` Economic Update: Marxism and Economics: A Global View with Shahram Azhar](https://www.youtube.com/watch?v=cjPEYNSl5JE)
+* [`Democracy at Work` Economic Update: Persistent Homelessness: Capitalism's Housing Failures](https://www.youtube.com/watch?v=KSKTkMm2p8s)
+* [`Wave Media` People Who Are Saving L. A. Are Facing Discrimination](https://www.youtube.com/watch?v=_TmPwp1DTnI)
+* [`Wave Media` TikTok Ban: Biden Failed to Make US Social Media Great Again](https://www.youtube.com/watch?v=eocss1Gg7So)
+* [`Thinkers Forum` America on the Cusp of a Revolution   Ron Unz](https://www.youtube.com/watch?v=VQPsKSeLn7k)
+* [`Novara Media` The Truth About The LA Fires   David Wallace-Wells](https://www.youtube.com/watch?v=IylmG7p3uHc)
+* [`Neutrality Studies` He EXPOSED The Sickest LIE of The Century: How USA/NATO Killed Millions   Prof. David N. Gibbs](https://www.youtube.com/watch?v=hYGr7FnvAs8)
+* [`Neutrality Studies` US Plans For MORE Porxy-Wars. Sanctions On Unwilling Pawns   L. Kasradze & Col. L Wilkerson](https://www.youtube.com/watch?v=MN_UeirRWXU)
+* [`Global Times` California fire exposes US govt’s inefficiency in emergency response](https://www.youtube.com/watch?v=OYUl1-_q5Bk)
+* [`Al Mayadeen English` Trump is back with big ideas: Greenland, Canada, and the Panama Canal](https://www.youtube.com/watch?v=KU-3EVl6iKk)
+* [`Al Mayadeen English` California fires: Leadership crisis and path forward under Trump's 'America First' policy](https://www.youtube.com/watch?v=hZ38Ss5J8sE)
+* [`WION` Stocks & Bitcoin Gain Before Trump Takes Office   World News   WION](https://www.youtube.com/watch?v=zOebuhm3LX8)
+* [`Telesur English` United States, Trump takes office on January 20 with several controversial statements](https://www.youtube.com/watch?v=B5HgmySZaK8)
+* [`Telesur English` U. S., preparations underway for Donald Trump's inauguration](https://www.youtube.com/watch?v=0aMkphwCXPg)
+* [`T-House` U. S. in transition: The legacy Joe Biden leaves behind](https://www.youtube.com/watch?v=5BtygcKWWAA)
+* [`T-House` Trump uses L. A. fires to criticize political opponents](https://www.youtube.com/watch?v=ruG9Nh_Jpiw)
+* [`T-House` Trump's back, and so is TikTok! But for how long?](https://www.youtube.com/watch?v=Mvy5Rqw-bDs)
+* [`Straits Times` TikTok restores US service, thanks Trump](https://www.youtube.com/watch?v=APsz3VhRkyY)
+* [`Straits Times` LA firefighters brace for threat of more powerful winds](https://www.youtube.com/watch?v=CQwrCk1kJ1I)
+* [`Shanghai Eye` Donald Trump on TIKTOK is BACK](https://www.youtube.com/watch?v=DkqUqbap7T0)
+* [`Channel News Asia` Donald Trump vows blitz of executive orders on first day of office](https://www.youtube.com/watch?v=a314i9EttbE)
+* [`CGTN` What's next after Trudeau's resignation?](https://www.youtube.com/watch?v=RPUckw--BEI)
+
+### Latin America and The Caribbean
+
+* [`Progressive International` ‘The impoverisher of the workers’: Massive mobilisations in Argentina against Milei](https://progressive.international/wire/2025-01-14-el-empobrecedor-de-lxs-trabajadorxs-masivas-movilizacionesen-argentina-contra-milei/en)
+* [`People's Dispatch` Venezuelans respond to US threats](https://www.youtube.com/watch?v=pofLF7e-mYU)
+* [`Neutrality Studies` Propaganda Operation Advocating Intervention In Venezuela. Preparation For Trump?](https://www.youtube.com/watch?v=rhkzSSXw1ms)
+* [`Telesur English` Venezuela: Receives displaced Colombians](https://www.youtube.com/watch?v=RakV53DtAwY)
+* [`Telesur English` Brazil: Floods and road chaos after heavy rains in southern region](https://www.youtube.com/watch?v=EMuVXq1boB0)
+* [`CGTN` We Talk: Panamanian residents on Trump's ambitions for Panama Canal](https://www.youtube.com/watch?v=vm1r_OD0QKI)
+* [`CCTV Video News Agency (M)` Lima Marks 490th Founding Anniversary](https://www.youtube.com/watch?v=Xxb23Dcy1v0)
+* [`Al Jazeera` I'm a Latino preparing for Trump's mass deportation of migrants   Close Up](https://www.youtube.com/watch?v=-l-CLLJOdvw)
+
+### Oceania
+
+* [Article](https://website.com/)
+
+### Miscellaneous
+
+* [`The Deprogram` US vs CANADA vs GREENLAND - The Deprogram Episode 165](https://www.youtube.com/watch?v=AChshODrqwA)
+* [`The Deprogram` Trump's Cabinet Picks Are Insane   Deprogram Highlight](https://www.youtube.com/watch?v=-Cu7zFx065Q)
