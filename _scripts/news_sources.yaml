@@ -29,6 +29,11 @@ verified_sources:
     info: "Independent, Left-Leaning, Neutral Alignment, Transparent."
     rank: 1
 
+  - title: "Michael Robets Blog"
+    url: "https://thenextrecession.wordpress.com"
+    info: "Independent, Investigative/Analytical, Left-Leaning, Global Audience."
+    rank: 2
+
   - title: "Seymour Hersh"
     url: "https://seymourhersh.substack.com/archive"
     info: "Independent, Investigative, Mixed Bias, Global Audience."
@@ -67,6 +72,16 @@ verified_sources:
   - title: "Novara Media"
     url: "https://www.youtube.com/@NovaraMedia/videos"
     info: "Independent, Left-Wing, Western-Aligned, Transparent."
+    rank: 2
+
+  - title: "India & Global Left"
+    url: "https://www.youtube.com/@IndiaGlobalLeft/videos"
+    info: "Independent, Left-Leaning, Non-Western-Aligned, Transparent."
+    rank: 2
+
+  - title: "Democracy Now!"
+    url: "https://www.youtube.com/@DemocracyNow/videos"
+    info: "Independent, Left-Leaning, Western-Aligned, Transparent."
     rank: 2
 
   - title: "First Thought"
