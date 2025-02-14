@@ -284,7 +284,12 @@ verified_sources:
     info: "State-Affiliated, Pro-China, Non-Western-Aligned, Opaque."
     rank: 3
 
-  - title: "CCTV Video News Agency (M)"
+  - title: "CGTN Africa"
+    url: "https://www.youtube.com/@CGTNEurope/videos"
+    info: "State-Affiliated, Pro-China, Non-Western-Aligned, Opaque."
+    rank: 3
+
+  - title: "CCTV Video News Agency"
     url: "https://www.youtube.com/@CCTVVideoNewsAgency/videos"
     info: "State-Affiliated, Pro-China, Non-Western-Aligned, Opaque."
     rank: 3
@@ -306,6 +311,11 @@ verified_sources:
 
   - title: "Channel News Asia"
     url: "https://www.youtube.com/@channelnewsasia/videos"
+    info: "Corporate-Owned, Center-Leaning, Neutral (Asian Perspective), Transparent."
+    rank: 3
+
+  - title: "Channel News Asia - Parliament"
+    url: "https://www.channelnewsasia.com/parliament"
     info: "Corporate-Owned, Center-Leaning, Neutral (Asian Perspective), Transparent."
     rank: 3
 
