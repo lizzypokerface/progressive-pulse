@@ -1,0 +1,225 @@
+---
+layout: post
+title:  "✊ Progressive News | 17 February 2025"
+date:   2025-02-17 11:00:00 +0800
+categories: weekly news
+---
+
+### International
+
+* [`Tricontinental` Clean Waters and Green Mountains Are as Valuable as Gold and Silver Mountains: The Seventh Newsletter (2025)](https://thetricontinental.org/newsletterissue/science-fiction-and-ecological-transformation/)
+* [`Geopolitical Economy Report` How Trump's tariffs will accelerate US decline](https://www.youtube.com/watch?v=5wpJZh-gDA8)
+* [`Geopolitical Economy Report` The politics of gold: Economist Michael Hudson explains why gold's price is rising so much](https://www.youtube.com/watch?v=9Bvr2SZm-NM)
+* [`Geopolitical Economy Report` What is a 'multipolar' world? China says equality; Trump & Marco Rubio say imperial rivalry](https://www.youtube.com/watch?v=mg0Vur0SI-8)
+* [`Breakthrough News Live` Trump's Gaza Takeover Delusion: Destined for Failure?](https://www.youtube.com/watch?v=Z0pF9CJgA1M)
+* [`Breakthrough News Live` Will Egypt and Jordan Reject Trump’s Plan to Ethnically Cleanse Gaza?](https://www.youtube.com/watch?v=qnkPuTyK-pc)
+* [`Breakthrough News` How the U. S. Uses ‘Aid’ as Soft Power to Dominate the World w/ Matt Kennard](https://www.youtube.com/watch?v=lkrg4j9fO58)
+* [`Breakthrough News` DeepSeek vs. OpenAI: How the Open-Source Revolution Threatens the Imperialism of Big Tech](https://www.youtube.com/watch?v=74VVN9THfU8)
+* [`Transnational Foundation` USAID and NGOs for Narrative Control and War](https://glenndiesen.substack.com/cp/157008622)
+* [`Transnational Foundation` Western collapse thanks to militarism and the wish to dominate](https://thetransnational.substack.com/p/western-collapse-thanks-to-militarism)
+* [`Transnational Foundation` Free Hand](https://www.beyondwasteland.net/cp/157095069)
+* [`The Socialist Program` A Billionaire Dictatorship?](https://soundcloud.com/thesocialistprogram/a-billionaire-dictatorship?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+* [`The Socialist Program` Trump’s Plans: The Big Picture](https://soundcloud.com/thesocialistprogram/trumps-plans-the-big-picture-preview?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+* [`The Socialist Program` Trump’s Rhetoric Encourages Israeli Fantasies of Gaza Takeover](https://soundcloud.com/thesocialistprogram/trumps-rhetoric-encourages-israeli-fantasies-of-gaza-takeover-preview?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+* [`Progressive International` PI Briefing   No. 6   Track, trace, disrupt, dismantle](https://progressive.international/wire/2025-02-17-pi-briefing-no-6-track-trace-disrupt-dismantle/en)
+* [`Glenn Diesen` The Incoming Multipolar World](https://glenndiesen.substack.com/p/the-incoming-multipolar-world)
+* [`Thinkers Forum` What the West Never Knows about BRICS  Pascal Lottaz](https://www.youtube.com/watch?v=18hkcfmRzm4)
+* [`Thinkers Forum` China's Ancient Wisdom Defying Warmongering](https://www.youtube.com/watch?v=jOkeGzm8gZ4)
+* [`Think BRICS` The emergence of DeepSeek may strengthen AI cooperation among BRICS countries](https://thinkbrics.substack.com/p/the-emergence-of-deepseek-may-strengthen)
+* [`New Economic Thinking` Globalization, Populism, & the Politics of Resentment](https://www.youtube.com/watch?v=IYw9O36iUnY)
+* [`Neutrality Studies` Collective West Is Over. PEACE ACTIVISM Can Prevent Complete Self-Destruction   U Guérot & J Oberg](https://www.youtube.com/watch?v=GW_2UAi5EMQ)
+* [`Michael Robets Blog` What’s up with capitalism?](https://thenextrecession.wordpress.com/2025/02/11/whats-up-with-capitalism/)
+* [`Michael Robets Blog` A whiff of stagflation](https://thenextrecession.wordpress.com/2025/02/17/a-whiff-of-stagflation/)
+* [`Global Times` Developing countries and Europe can benefit from DeepSeek’s open source](https://www.youtube.com/watch?v=a7O7z-M2Zi8)
+* [`China Up Close` Wikileaks reveals US spent half a billion dollars for covert censorship, media control](https://lijingjing.substack.com/p/wikileaks-reveals-us-spent-half-a)
+* [`FridayEveryday` Trump's secret plan to control world trade](https://www.youtube.com/watch?v=ijbi86QTlQk)
+
+### China
+
+* [`Transnational Foundation` "If You Want To Understand China"](https://thetransnational.substack.com/p/if-you-want-to-understand-china)
+* [`Wave Media` Elon Musk’s Smear of China Is Too Cowardly](https://www.youtube.com/watch?v=R1mNmIVMjWs)
+* [`Wave Media` How Will USAID’s Fall Benefit China?](https://www.youtube.com/watch?v=iwqcUsqvKrc)
+* [`The China Academy` Chinese Expert: The US Should Respect China's Circle of Influence](https://chinaacademy.substack.com/p/chinese-expert-the-us-should-respect)
+* [`Reports on China` Trump and DOGE cut funds to CIA cutout that instigated Hong Kong riots!](https://www.youtube.com/watch?v=SkbNEwtAY_w)
+* [`Reports on China` BBC says "China good!" after secret USAID money shut off!](https://www.youtube.com/watch?v=KUgdVUifiqI)
+* [`Reports on China` This anti-China veteran got REALLY mad when I gave him the FACTS!](https://www.youtube.com/watch?v=SGqjwfYcbV8)
+* [`Neutrality Studies` DRUG WAR 2.0: Will The USA Go To War With China Over Fentanyl?   David T. Pyne](https://www.youtube.com/watch?v=hfObkV_90EQ)
+* [`Diplomatify` Is China ALREADY A Global SUPERPOWER Today?](https://www.youtube.com/watch?v=Raxmgvl3kTI)
+* [`Diplomatify` It will shock you!](https://www.youtube.com/watch?v=4KRN0C4JgeY)
+* [`China Up Close` Why “Made in China 2025” Will Dominate Global Trade](https://lijingjing.substack.com/p/why-made-in-china-2025-will-dominate)
+* [`Center for China and Globalisation` CCG senior fellow Andy Mok on impact of Chinese tariffs on US goods](https://www.youtube.com/watch?v=KotNB1RL0_0)
+* [`Center for China and Globalisation` CCG senior fellow Andy Mok on impact of DeepSeek](https://www.youtube.com/watch?v=yS1wPUmHgmE)
+* [`T-House` Sanctions vs. innovation: Is China winning the AI race?](https://www.youtube.com/watch?v=EkSYqYKiqqM)
+* [`T-House` Graham Allison: China-U. S. ties would get better under Trump administration](https://www.youtube.com/watch?v=7ImAepMbipQ)
+* [`T-House` Singapore defense chief: China's initiative reflects international order](https://www.youtube.com/watch?v=Dsgdcngu03A)
+* [`T-House` 'Thanks' to America, the BBC now has to face the facts](https://www.youtube.com/watch?v=gvQKPzfYZDw)
+* [`T-House` China: A Steadfast Constructive Role in a Changing World](https://www.youtube.com/watch?v=pq9dvEN6r1I)
+* [`Shanghai Eye` SCENE: Xi hosts symposium with China's top entrepreneurs(HUAWEI, BYD..), including Alibaba's Jack Ma](https://www.youtube.com/watch?v=WnG4ERwaS8Y)
+* [`Shanghai Eye` China denounces US's additional 25 percent tariffs on steel and aluminum](https://www.youtube.com/watch?v=NdAiEtbSz-Y)
+* [`Shanghai Eye` UK, Chinese firms partner on wind power technology](https://www.youtube.com/watch?v=B8pyw0Sks0E)
+* [`New China TV` China's efforts in combating cross-border telecom fraud "encouraging": UN official](https://www.youtube.com/watch?v=K4G_iekyO5o)
+* [`New China TV` GLOBALink   China forges new path of circular development](https://www.youtube.com/watch?v=rKAlC6eER4E)
+* [`New China TV` GLOBALink   China's Xiamen exports over 30 mln e-commerce parcels via air route to Sao Paulo](https://www.youtube.com/watch?v=1elazV7oEvw)
+* [`New China TV` GLOBALink   Sino-Africa Joint Research Center contributes to Africa's development: director](https://www.youtube.com/watch?v=QHyU7JwLKRs)
+* [`New China TV` GLOBALink   Harbin hailed as Asian Winter Games wraps up](https://www.youtube.com/watch?v=IYhP2dxThAk)
+* [`CGTN` Chinese blockbuster 'Ne Zha 2' wows audiences in Australia, NZ](https://www.youtube.com/watch?v=vxGA1Ap04sY)
+* [`CGTN` China's coldest village becomes country's hottest tourist hub](https://www.youtube.com/watch?v=5nkrF2ByZFs)
+
+### South Asia
+
+* [`Center for China and Globalisation` CCG research fellow Zoon Ahmed Khan on China-Pakistan ties](https://www.youtube.com/watch?v=aC1YPri1USU)
+* [`CGTN` We Talk: Indian scholar: Trade war is not good for anyone](https://www.youtube.com/watch?v=uHG6wl2hy3I)
+
+### Southeast Asia
+
+* [`Thinkers Forum` Singapore: Friend of China or the US?   Fmr. Singapore Foreign Minister](https://www.youtube.com/watch?v=qHM2bsFhSNk)
+* [`The China Academy` Why People Are Mad at Chinese Companies Fmr. Singapore Foreign Minister](https://chinaacademy.substack.com/p/why-people-are-mad-at-chinese-companiesfmr)
+* [`The China Academy` Singapore: Friend of China or the US? Fmr. Singapore Foreign Minister](https://chinaacademy.substack.com/p/singapore-friend-of-china-or-the)
+* [`Global Times` China-India long-term relations not pessimistic: Former Singaporean foreign minister George Yeo](https://www.youtube.com/watch?v=A6JLTaIUiq8)
+* [`South China Morning Post` Hundreds rescued from Myanmar scam centres](https://www.youtube.com/watch?v=VapdZR__f8M)
+* [`South China Morning Post` Hanoi becomes world’s most polluted city](https://www.youtube.com/watch?v=Qa7ih7-ZoJs)
+* [`Channel News Asia` Workers’ Party chief Pritam Singh fined for lying to Committee of Privileges](https://www.youtube.com/watch?v=qFKDf5WcP2M)
+* [`Channel News Asia` Myanmar's military, rival ethnic militia pledge to crack down on scam centres](https://www.youtube.com/watch?v=Bm5PPakZ_fE)
+* [`Channel News Asia` Singapore to roll out cybersecurity training guide for board directors](https://www.youtube.com/watch?v=M-mfQ9nXWe8)
+
+### East Asia
+
+* [`T-House` Possible conflict between China, Philippines & U. S. in South China Sea?](https://www.youtube.com/watch?v=qSYhCet7Qa0)
+* [`Think BRICS` Japan at the Three-Way Junction: The Trump-Ishiba Meeting](https://thinkbrics.substack.com/p/japan-at-the-three-way-junction-the)
+* [`Shanghai Eye` North Korea's Kim Jong Un visits father's tomb, watches groundbreaking for new apartments](https://www.youtube.com/watch?v=ynqe9YR4GgU)
+* [`New China TV` China Chat   Expert says China, Japan can't split up](https://www.youtube.com/watch?v=TCCQeUeP0oY)
+* [`Channel News Asia` South Korea suspends new downloads of Chinese AI app DeepSeek over privacy concerns](https://www.youtube.com/watch?v=XOZU60KQZ9M)
+
+### West Asia (Middle East)
+
+* [`Progressive International` Palestinians reject Trump’s vision for Gaza: ‘If they offered me an entire city instead of the rubble of my home, I would not accept it.’](https://progressive.international/wire/2025-02-12-palestinians-reject-trumps-vision-for-gaza-if-they-offered-me-an-entire-city-instead-of-the-rubble-of-my-home-i-would-not-accept-it-/en)
+* [`Breakthrough News` Zionism’s Endgame: a ‘Final Solution’ for the Palestinians, w/ Tony Greenstein](https://www.youtube.com/watch?v=vaMoHSScvw4)
+* [`Breakthrough News` Syrian Domino Effect: How Turkey Wants a Neo-Ottoman Empire Across the Middle East](https://www.youtube.com/watch?v=alUAhoLTgcM)
+* [`Breakthrough News` 'I Had to Do Something' for Gaza and Sudan: Why I Protested the Super Bowl](https://www.youtube.com/watch?v=6FWvBj6PQxI)
+* [`Breakthrough News` Trump’s Gaza Ethnic Cleansing Plan: Disastrous ‘Domino Effect’ on the Middle East](https://www.youtube.com/watch?v=lZmpTPqb7Wg)
+* [`Novara Media` Hamas Halts Hostage Releases as Ceasefire Threatens to Unravel   #NovaraLive](https://www.youtube.com/watch?v=yiBXmnRELjA)
+* [`Novara Media` “Let Hell Break Out”: Trump’s Ultimatum On Gaza   #NovaraLive](https://www.youtube.com/watch?v=iDFDEuZQgjI)
+* [`Novara Media` Netanyahu Threatens to Resume War on Gaza   #NovaraLive](https://www.youtube.com/watch?v=dKV03-b4Imw)
+* [`Novara Media` There Is A Thick Stench Enveloping Gaza   Muhammad Shehada Interview](https://www.youtube.com/watch?v=V8HRWSHa2sA)
+* [`Middle East Eye` Who is Khalida Jarrar?](https://www.youtube.com/watch?v=9E00ludTsY4)
+* [`Middle East Eye` A brief history of how Palestinians have resisted in Gaza   Norman Finkelstein   UNAPOLOGETIC](https://www.youtube.com/watch?v=Pa426LEahfQ)
+* [`Middle East Eye` How Trump and Netanyahu forced Mohammed bin Salman to draw a line on Palestine](https://www.youtube.com/watch?v=cwoz4nczVvM)
+* [`Middle East Eye` Arab leaders would pay for Trump’s ethnic cleansing plan with their thrones](https://www.youtube.com/watch?v=E-bje29PF-8)
+* [`Middle East Eye` Israel’s use of AI in Gaza should terrify us all   Op-ed by Antony Loewenstein](https://www.youtube.com/watch?v=xQKgwGPqhVc)
+* [`Middle East Eye` How Israel uses ceasefires to advance ethnic cleansing   Norman Finkelstein   UNAPOLOGETIC](https://www.youtube.com/watch?v=ZYQHuDNBXgE)
+* [`India & Global Left` Matt Kennard EXPOSES British Involvement in Palestine Genocide](https://www.youtube.com/watch?v=x2-Fg0urDMQ)
+* [`Empire Watch` How Israel serves US imperialism in the Middle East with Sami Ramadani](https://www.youtube.com/watch?v=tTkbxg-kWfo)
+* [`Electronic Intifada` What I saw touring Gaza after Israel's genocide, with Abubaker Abed](https://www.youtube.com/watch?v=lSUlbIeK2dw)
+* [`Double Down News` Trump’s SHOCKING Plan for Greater Israel EXPOSED](https://www.youtube.com/watch?v=UfoF-aHQlxk)
+* [`Al Mayadeen English` Lebanon does bleed, but it never bows](https://www.youtube.com/watch?v=ng3PDaz_0lM)
+* [`Al Mayadeen English` The American ethnic cleansing playbook, from Natives to Palestinian](https://www.youtube.com/watch?v=Jed97VZDFKg)
+* [`Al Mayadeen English` Trump’s Gaza 'takeover': Outright land theft not 'Riviera of the Middle East' vision](https://www.youtube.com/watch?v=tGciQrzbYF0)
+* [`Telesur English` Saudi Arabia, Jeddah hosts the 2nd Biennial of Islamic Art](https://www.youtube.com/watch?v=Fm0wNx-KrLg)
+* [`Telesur English` Palestine, more than 2 million Gazans face conditions that risk their survival](https://www.youtube.com/watch?v=aN-k2gglELI)
+* [`Shanghai Eye` Targeting Iran and nodding Trump's Gaza 'take over', Rubio, Netanyahu present united US-Israel front](https://www.youtube.com/watch?v=iUez6ABxfVA)
+* [`Al Jazeera` Fake news, rumours and disinformation in post-Assad Syria   The Listening Post](https://www.youtube.com/watch?v=k8s0oklbnQA)
+* [`Al Jazeera` Destroyed Jabalia central market in the northern Gaza Strip comes to life again](https://www.youtube.com/watch?v=JFK-N2L45Ks)
+* [`Al Jazeera` Israel continues to restrict entry of temporary shelters into Gaza](https://www.youtube.com/watch?v=DFZpsBFbhE0)
+
+### Russia
+
+* [`Tarik Cyril Amar` Putin Trump Turning-Point Talk](https://www.tarikcyrilamar.com/p/putin-trump-turning-point-talk)
+* [`Think BRICS` A Diplomatic Thaw in Belarus: The New York Post Reports on a Potential Shift in U. S.-Belarus Relations](https://thinkbrics.substack.com/p/a-diplomatic-thaw-in-belarus-the)
+* [`Neutrality Studies` Russia Beat NATO Strategically. They Can't Recover From This   Andrei Martyanov](https://www.youtube.com/watch?v=KJgb9VH37Ac)
+* [`Democracy Now!` War in Ukraine: As Trump & Putin Agree to Begin Peace Talks, Will Kyiv Get a Seat at the Table?](https://www.youtube.com/watch?v=PrYMUa0rUAI)
+* [`Shanghai Eye` 'Peace not war' now the focus for Russia and US, Kremlin says ahead of Saudi Arabia meet on Ukraine](https://www.youtube.com/watch?v=Q9A_L54du7Q)
+* [`Shanghai Eye` China's FM Wang Yi on Trump and Putin discussing Ukraine conflict at MSC 2025](https://www.youtube.com/watch?v=wR1ANIpRyKI)
+* [`Channel News Asia` Ukraine war: US, Russia officials to meet in Saudi Arabia as EU leaders hold emergency summit](https://www.youtube.com/watch?v=_6nl_44bK5o)
+* [`Al Jazeera` Russia’s Lavrov expected to meet US counterpart Rubio in Riyadh to discuss ending Ukraine war](https://www.youtube.com/watch?v=KVb_-3piAkU)
+
+### Europe
+
+* [`Tarik Cyril Amar` USAID, Ukraine, and Proxy War Lies](https://www.tarikcyrilamar.com/p/usaid-ukraine-and-proxy-war-lies)
+* [`Seymour Hersh` NORD STREAM AND THE FAILURES OF THE BIDEN ADMINISTRATION](https://seymourhersh.substack.com/p/nord-stream-and-the-failures-of-the)
+* [`Glenn Diesen` Major Obstacles to Peace in Ukraine](https://glenndiesen.substack.com/p/major-obstacles-to-peace-in-ukraine)
+* [`Glenn Diesen` The Ukraine War is Coming to an End - What Happens Next?](https://glenndiesen.substack.com/p/the-ukraine-war-is-coming-to-an-end)
+* [`Glenn Diesen` Trump To Force Ukraine Peace on Europe](https://glenndiesen.substack.com/p/trump-to-force-ukraine-peace-on-europe)
+* [`Glenn Diesen` Toward a Multipolar World: Armenia’s Should Beware of Ukraine’s Fate](https://glenndiesen.substack.com/p/toward-a-multipolar-world-armenias)
+* [`Thinkers Forum` Why Europe's AI Is Falling Behind Everyone Else  Kishore Mahbubani](https://www.youtube.com/watch?v=URaC8FNYOcA)
+* [`Thinkers Forum` Europe's Last Chance to Seize Autonomy from the US  Yanis Varoufakis](https://www.youtube.com/watch?v=uVrsVRgIx30)
+* [`Thinkers Forum` Europe: Efficiency at What Cost? More Money for Private Firms  Yanis Varoufakis](https://www.youtube.com/watch?v=BT-U46bat80)
+* [`Novara Media` Farage Just Wants Tax Cuts For the Wealthy](https://www.youtube.com/watch?v=Abgxfs4Unb8)
+* [`Novara Media` This Is Why The Right Are WINNING   Aaron Bastani meets Ash Sarkar](https://www.youtube.com/watch?v=ZS3UlB7aXmE)
+* [`Novara Media` Trump Says Ukraine Peace Talks Will Start Now Following Putin Call   #NovaraLive](https://www.youtube.com/watch?v=UCkOG8hxMmA)
+* [`Novara Media` The REAL Reason You Can't Get an Uber   Novara Reports](https://www.youtube.com/watch?v=mc_WJv-yTrU)
+* [`Neutrality Studies` Baltic Tragedy: NATO/EU Prepping Latvia, Lithuania & Estonia For War   Romans Sklenniks  Reupload ](https://www.youtube.com/watch?v=7a_sLwG7mKc)
+* [`Neutrality Studies` EU Elites Are Freaking-out Over USA Dumping Them   Dr. Glenn Diesen](https://www.youtube.com/watch?v=x3e8b39aMEY)
+* [`Democracy Now!` "Frenzy of Warmongering": Critics of Munich Security Summit Warn of Musk, Rising Fascism in Europe](https://www.youtube.com/watch?v=LWW6YJaTzww)
+* [`Al Mayadeen English` 'They are fascist nationalists dressed up as a religion, ' argues journalist Dan Cohen](https://www.youtube.com/watch?v=yCPReAL_KyE)
+* [`Al Mayadeen English` Your guide to modern fascism](https://www.youtube.com/watch?v=GeajyG9JDKw)
+* [`T-House` The rise of multipolarity: global power shifts at the Munich Security Conference](https://www.youtube.com/watch?v=cEXnbJ2cDzM)
+* [`Straits Times` Dozens hurt as car rams Munich crowd before German election](https://www.youtube.com/watch?v=Q1UlCMD2S2w)
+* [`Shanghai Eye` 30, 000 Germans rally for break with far-right and democracy ahead of vote amid disputed Vance remark](https://www.youtube.com/watch?v=2tMFTGi8XoY)
+* [`Shanghai Eye` Emotional Vucic blames USAID-led outsiders of eyeing bringing down Serbia by colored revolution](https://www.youtube.com/watch?v=uFwRv0jExPU)
+* [`Shanghai Eye` Zelensky refuses to sign Trump-led deal for half Ukraine's rare mineral - 'it don't protect us'](https://www.youtube.com/watch?v=fqnemsA7xT8)
+* [`Channel News Asia` Ukraine war casts shadow over Munich Security Conference](https://www.youtube.com/watch?v=a6GXDuZh9Gc)
+* [`Channel News Asia` US vice president criticises Europe in speech at Munich Security Conference](https://www.youtube.com/watch?v=PL066yeieSU)
+* [`Al Jazeera` As Germany braces for election, opinion polls suggest a shift to the right](https://www.youtube.com/watch?v=vkY760h3t6k)
+
+### Africa
+
+* [`Think BRICS` Trump’s WAR on South Africa – A Desperate Move to CRUSH BRICS?!](https://www.youtube.com/watch?v=peD0I0Owbjo)
+* [`Think BRICS` The Year Ahead for China-Africa Investments](https://thinkbrics.substack.com/p/the-year-ahead-for-china-africa-investments)
+* [`Africa Stream` West Allows Kagame Impunity In Congo](https://africanstream.media/west-allows-kagame-impunity-in-congo/)
+* [`Africa Stream` No Soldiers In DRC? Rwandan Military Cemeteries Fill Up](https://africanstream.media/no-soldiers-in-drc-rwandan-military-cemeteries-fill-up/)
+* [`Africa Stream` Paypal Mafia’s Links To Apartheid South Africa](https://africanstream.media/paypal-mafias-links-to-apartheid-south-africa/)
+* [`Africa Stream` Socialism Is Justice For The Masses – Nyerere](https://africanstream.media/socialism-is-justice-for-the-masses-nyerere/)
+* [`Africa Stream` Niger President: ‘The Enemy Is France’](https://africanstream.media/niger-president-the-enemy-is-france/)
+* [`Africa Stream` Nigeria’s Dangote Scores Jet-fuel Export Deal With Saudi Giant](https://africanstream.media/nigerias-dangote-scores-jet-fuel-export-deal-with-saudi-giant/)
+* [`Africa Stream` Construction Vehicles Pour Into Burkina Faso?](https://africanstream.media/construction-vehicles-pour-into-burkina-faso/)
+* [`New China TV` GLOBALink   U. S. tariff hikes will only hurt American people: Zambian expert](https://www.youtube.com/watch?v=UEwoSYnlLYQ)
+* [`Al Jazeera` African Union summit concludes with calls for M23 to disarm and withdraw from DRC](https://www.youtube.com/watch?v=n-Wq_yBIwAM)
+* [`Al Jazeera` DR Congo’s M23 rebels enter centre of strategic city of Bukavu](https://www.youtube.com/watch?v=tHabh7y7WYE)
+* [`Al Jazeera` Diamond mining in Sierra Leone: Destructive impact on the environment and livelihoods](https://www.youtube.com/watch?v=jabUwWKRcsY)
+
+### North America
+
+* [`Breakthrough News` Truth About USAID Cuts: Trump Will Keep Regime Change Ops Going in Other Agencies](https://www.youtube.com/watch?v=8KVfZ0Fn82o)
+* [`Breakthrough News` Trump’s Threats to Deport Student Activists for Gaza Show the Israel Lobby is ‘Terrified’](https://www.youtube.com/watch?v=PlHvaX3Z-BM)
+* [`Breakthrough News` Don’t Call It Populism: How Trump Protects the System He Pretends to Fight, w/ Vijay Prashad](https://www.youtube.com/watch?v=UjCFI0LHlEM)
+* [`Richard D Wolff` Wolff Responds: "The Hoax Of The Tariff " Dated February 12, 2025](https://www.youtube.com/watch?v=8vJciu00Sis)
+* [`Richard D Wolff` Wolff Responds: "The Folly of Deregulation" Dated February 14, 2025 (BONUS)](https://www.youtube.com/watch?v=KIBSl68nGrk)
+* [`Glenn Diesen` Hegseth Replaces Deception with Reality](https://glenndiesen.substack.com/p/hegseth-replaces-deception-with-reality)
+* [`Glenn Diesen` Colonel Douglas Macgregor: End of the American Empire?](https://glenndiesen.substack.com/p/colonel-douglas-macgregor-end-of)
+* [`Glenn Diesen` Trump's Economic Recovery - A Dead End?](https://glenndiesen.substack.com/p/trumps-economic-recovery-a-dead-end)
+* [`First Thought` Elon Musk Will Personally Profit from Gutting Consumer Financial Protection Bureau: Ex-CFPB Official](https://www.youtube.com/watch?v=945iuflDqwo)
+* [`Democracy at Work` Economic Update: The View from Prison](https://www.youtube.com/watch?v=pe2BmTMwZYo)
+* [`Democracy at Work` Dialectic At Work: Capitalism hits the fan 2.0?](https://www.youtube.com/watch?v=QMd_4-fA6e8)
+* [`Thinkers Forum` Game Changer Trump: No More Good vs. Evil Dichotmy  Dr. Pascal Lottaz](https://www.youtube.com/watch?v=mZ37yOYUaso)
+* [`Neutrality Studies` How The USA Is Destroying Itself From Within   Cameron Macgregor](https://www.youtube.com/watch?v=ek5iQMLYjmw)
+* [`India & Global Left` Will TRUMP TARIFFS Destroy Global Economy?](https://www.youtube.com/watch?v=-uaZWi-Cde4)
+* [`India & Global Left` DEBATE WITH RICHARD WOLFF   THE DECLINE OF AMERICAN EMPIRE](https://www.youtube.com/watch?v=WGFv8xdRDMs)
+* [`India & Global Left` How Guantanamo Bay plays a central role in US IMPERIALISM?](https://www.youtube.com/watch?v=xlMmcqb3QOM)
+* [`Double Down News` REVEALED: Trump & Elon Musk's BRUTAL Secret](https://www.youtube.com/watch?v=IEfJdtdtEoc)
+* [`Al Mayadeen English` 'Trump trade' backfires: US dollar at risk?](https://www.youtube.com/watch?v=qCryQQWn16k)
+* [`Robinson Erhardt` Richard Wolff: Donald J. Trump and the End of America](https://www.youtube.com/watch?v=cgQfWAuyTtk)
+* [`Planet: Critical` The Bullshit Stinking Up Silicon Valley   Ed Zitron](https://www.youtube.com/watch?v=6ubQhZdkmTE)
+
+### Latin America and The Caribbean
+
+* [`Progressive International` “All eyes on Ecuador.”](https://progressive.international/observatory/2025-02-13-all-eyes-on-ecuador-/en)
+* [`Telesur English` Mexico, earthquake of magnitude 5.1 shakes Oaxaca](https://www.youtube.com/watch?v=L6u1XdXIUoA)
+* [`Telesur English` Argentine lawyers accuse Javier Milei of fraud over cryptocurrency promotion](https://www.youtube.com/watch?v=Besc7LWlptE)
+* [`Telesur English` Colombia   Petro condemns the U. S. and U. K.rejection of regulations on AI](https://www.youtube.com/watch?v=4_4c9Sj0wKE)
+* [`Telesur English` Haiti   Criminal groups set fire to Port-au-Prince’s main public hospital](https://www.youtube.com/watch?v=lpa4ALpVRYQ)
+* [`Telesur English` Brazil   Religious hate crimes are on a rise](https://www.youtube.com/watch?v=7DbcrJfVcPM)
+* [`Telesur English` Venezuela   Government dismantles network of internal coyotes](https://www.youtube.com/watch?v=MpX_9ErbiiA)
+* [`Telesur English` Cuban President denounces USAID funding for subversive actions against Cuba](https://www.youtube.com/watch?v=1y_Vzpkhmt0)
+* [`Telesur English` President Sheinbaum calls on U. S. action against drug trafficking](https://www.youtube.com/watch?v=lHOE2qVVgxs)
+* [`Telesur English` President Lula criticizes Trump's stance against environmental issues](https://www.youtube.com/watch?v=g9btXbf8fNo)
+* [`Al Jazeera` Brazil's Christ the Redeemer at centre of church-state battle over ownership in Rio de Janeiro](https://www.youtube.com/watch?v=zzJgdwlMtaE)
+* [`Al Jazeera` Brazil faces unprecedented heatwave, poor neighborhoods suffer the most](https://www.youtube.com/watch?v=w2q9Dl9D_Rg)
+
+### Oceania
+
+* [`Neutrality Studies` New Zealand vs. China? The Pacific Showdown Nobody Saw Coming   Eugene Doyle](https://www.youtube.com/watch?v=zQqICS-m9HY)
+
+### Miscellaneous
+
+* [`The Deprogram` The first three weeks of Trump have been... embarrassing](https://www.youtube.com/watch?v=pxRwZhVyuzE)
+* [`The Deprogram` First Three Weeks - Deprogram Episode 169](https://www.youtube.com/watch?v=ZZIhboymWrk)
