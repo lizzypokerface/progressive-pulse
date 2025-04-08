@@ -6,7 +6,8 @@ categories: weekly news
 ---
 In this week's Progressive Pulse... Trump's tariff policies dominate global economic discussions, sparking trade wars and threatening economic instability. The Global South faces disproportionate impacts, with Africa and Latin America particularly vulnerable. Meanwhile, the ongoing crisis in Gaza highlights the urgent need for international accountability and an end to the violence. The working class faces increasing pressure from economic policies favoring the wealthy, requiring solidarity and resistance to build a more just and equitable world.
 
- ### Trump's Tariff Tsunami: A Class War Unleashed
+### Trump's Tariff Tsunami: A Class War Unleashed
+
 Trump's sweeping tariffs have ignited a global firestorm, threatening to destabilize the world economy and further immiserate the working class. The immediate reaction has been widespread condemnation, with over 1, 000 anti-Trump protests erupting worldwide and stock markets plunging.
 
 The working class in both the US and abroad will bear the brunt of these tariffs through higher prices and job losses. Poorer countries reliant on trade with the US, like Lesotho, face devastation of key industries. Meanwhile, corporations and billionaires like Elon Musk stand to benefit from the chaos through market manipulation and privatization schemes.
