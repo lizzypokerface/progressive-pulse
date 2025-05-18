@@ -5,7 +5,11 @@ date:   2025-05-13 11:00:00 +0800
 categories: weekly news
 ---
 
+In this week's Progressive Pulse... The world grapples with the consequences of Trump's trade wars, as nations seek alternatives and alliances shift. The Israeli genocide in Gaza continues, sparking international outrage and calls for accountability. Tensions in South Asia threaten regional stability, while China expands its influence in Africa and Latin America. The struggle for a multipolar world order intensifies, challenging the dominance of the US and its allies. The working class faces ongoing economic challenges, demanding solidarity and resistance against capitalist exploitation and imperialist aggression.
+
 ### International
+
+Trump's trade policies are accelerating de-dollarization as nations seek alternatives, with BRICS exploring a new internet and challenging the US-led order. China and other Asian nations are uniting against Trump's trade war. Concerns rise over fascism and the weaponization of human rights.
 
 * [`Tricontinental` Israel’s Crimes in the West Bank: The Nineteenth Newsletter (2025)](https://thetricontinental.org/newsletterissue/israel-crimes-west-bank/)
 * [`Fadhel Kaboub` A Wake for a Dying System](https://globalsouthperspectives.substack.com/p/a-wake-for-a-dying-system)
@@ -46,6 +50,8 @@ categories: weekly news
 
 ### China
 
+China navigates Trump's trade war, emphasizing ties with Russia and Africa. Discussions focus on tech development, ecological civilization, and financial packages to boost the economy. China and the US reach a deal to ease trade tensions.
+
 * [`Transnational Foundation` On the Road again](https://jerrygrey2002.substack.com/cp/163038283)
 * [`Breakthrough News` China Reacts to Trump’s Trade War: We Can Survive Without US Imports w/ Prof. Richard Wolff](https://www.youtube.com/watch?v=lLCsYnyGdqg)
 * [`Breakthrough News` Xi Goes to Moscow as BRICS Countries Unite Against Trump Trade War](https://www.youtube.com/watch?v=EIZ5kr7SJo4)
@@ -66,6 +72,8 @@ categories: weekly news
 
 ### South Asia
 
+Tensions escalate between India and Pakistan, sparking fears of war, particularly over Kashmir. Discussions involve ceasefires, the Indus Water Treaty, and potential BRICS intervention. Women in Sri Lanka's North face hardship.
+
 * [`Progressive International` Women in Sri Lanka’s North bear the heat](https://progressive.international/wire/2025-05-06-women-in-sri-lankas-north-bear-the-heat/en)
 * [`People's Dispatch` Vijay Prashad on the escalation of tensions in South Asia](https://www.youtube.com/watch?v=skJiNx8Ivqo)
 
@@ -80,6 +88,8 @@ categories: weekly news
 
 ### Southeast Asia
 
+ASEAN navigates the US-China power struggle, with China strengthening its influence. Singapore launches new CDC vouchers. The Philippines holds midterm elections. Indonesia's plan to cut Singapore fuel imports has limited impact.
+
 * [`Thinkers Forum` Between Giants: How ASEAN Navigates a US-China Power Struggle](https://www.youtube.com/watch?v=xhg_vBQts2Q)
 * [`Diplomatify` Is China Taking Over Southeast Asia?](https://www.youtube.com/watch?v=2WBqBm5TSVc)
 * [`Rise of Asia` How China is Winning Over ASEAN](https://www.youtube.com/watch?v=_fgTN_WPTcA)
@@ -89,9 +99,13 @@ categories: weekly news
 
 ### East Asia
 
+Mass protests occur in Taipei, Taiwan, with opposition figures imprisoned amidst war preparations, with mainstream media remaining silent.
+
 * [`Neutrality Studies` Mass Protests in Taipei, Opposition Imprisoned, MSM Silent, War Preparations   Dr. Joanna Lei](https://www.youtube.com/watch?v=oE0oRLPeJCg)
 
 ### West Asia (Middle East)
+
+ Israel faces condemnation for attacks on Gaza and aid ships. Calls intensify for an end to the Israeli genocide. The US meets with Saudi Arabia. Discussions involve Iran-US talks and the Yemen war.
 
 * [`Progressive International` n defense of press freedom, we demand an end to Israel’s genocide](https://progressive.international/wire/2025-05-05-in-defense-of-press-freedom-we-demand-an-end-to-israels-genocide/en)
 * [`Progressive International` Israel Is Attacking Aid Ships to Gaza — Again](https://progressive.international/wire/2025-05-07-israel-is-attacking-aid-ships-to-gaza--again/en)
@@ -104,15 +118,14 @@ categories: weekly news
 * [`Novara Media` Israel Destroys Yemen’s Main Airport   #NovaraLIVE](https://www.youtube.com/watch?v=TAPvaQ2l9tE)
 * [`India & Global Left` Mohammad Marandi on Iran–US Talks, India–Pakistan War & Yemen War: Is Asia’s Balance Shifting?](https://www.youtube.com/watch?v=EFtyxSqSW3w)
 * [`Empire Watch` Journalists Under Attack: The Battle for Truth in Gaza with Asa Winstanley](https://www.youtube.com/watch?v=pjm03OJkEHk)
-
-## Electronic Intifada
-
 * [`Electronic Intifada` "Shelves are empty" as children starve in Gaza, with Donya Abu Sitta](https://www.youtube.com/watch?v=kboBoUy82XY)
 * [`Electronic Intifada` Why is Syria warming up to Israel? with Ali Abunimah](https://www.youtube.com/watch?v=fXbcFo_hIU0)
 * [`Al Mayadeen English` Gaza expresses gratitude to Yemen](https://www.youtube.com/watch?v=0A09hKBCU3E)
 * [`Al Jazeera` US President Donald Trump arrives in Saudi Arabia, meets MBS](https://www.youtube.com/watch?v=hLG0tvZ7hi0)
 
 ### Russia
+
+Russia commemorates Victory Day and strengthens ties with China, particularly in subway construction and literature. Discussions involve the carving up of Ukraine between Russia and the US.
 
 * [`Al Mayadeen English` Victory Day: A Soviet veteran’s journey through the Great Patriotic War](https://www.youtube.com/watch?v=tZaaSS7imzo)
 
@@ -123,6 +136,8 @@ categories: weekly news
 * [`Al Mayadeen English` Jackson Hinkle on how Victory Day inspires Resistance movements today](https://www.youtube.com/watch?v=hJuV0czqF9E)
 
 ### Europe
+
+Discussions focus on the EU's relationship with China, the war in Ukraine, and Germany's weaponization of World War II memory against Russia. The UK government's secret deal with Israel is revealed.
 
 * [`Transnational Foundation` The Lies That Killed Ukraine](https://pascallottaz.substack.com/cp/163429247)
 * [`Transnational Foundation` The EU and China at 50: Golden Jubilee, Complex Relationship](https://biljanavankovska.substack.com/cp/162955473)
@@ -136,11 +151,15 @@ categories: weekly news
 
 ### Africa
 
+Burkina Faso's president visits Russia, highlighting Africa's "breakout moment." BRICS explores investment opportunities in Africa, with a focus on China's economic footprint and transformative investments.
+
 * [`Breakthrough News` Burkina Faso President in Russia: ‘Africa’s Breakout Moment’](https://www.youtube.com/watch?v=OYKhQqfkS94)
 * [`Think BRICS` BRICS & Beyond: Why Africa is the Next Big Investment Frontier](https://www.youtube.com/watch?v=6Q6hAHyk6ic)
 * [`Think BRICS` China's Economic Footprint in Africa: Transformative Investments and Future Prospects](https://thinkbrics.substack.com/p/chinas-economic-footprint-in-africa)
 
 ### North America
+
+Trump's policies, including tariffs on foreign-made movies, face scrutiny. Discussions involve worker movements, housing crises, and the reasons for US wars. Seymour Hersh criticizes Trump's cabinet.
 
 * [`Seymour Hersh` A CABINET OF SYCOPHANTS](https://seymourhersh.substack.com/p/a-cabinet-of-sycophants)
 * [`Wave Media` Hidden Damage of Trump's Pope 'Joke'](https://www.youtube.com/watch?v=Xx59ynpUTeE)
@@ -156,10 +175,14 @@ categories: weekly news
 
 ### Latin America and The Caribbean
 
+China seeks to strengthen trade ties with Latin America amidst the trade war with the US, aiming to build a shared future.
+
 * [`Al Jazeera` China seeks to strengthen trade ties with Latin America amid trade war](https://www.youtube.com/watch?v=K4PmEvud2js)
 * [`China Up Close` Partners in progress: China and Latin America in building a shared future](https://www.youtube.com/watch?v=IZ3_W3dIIbohttps://lijingjing.substack.com/p/china-us-announce-measures-to-ease)
 
 ### Oceania
+
+Australia is described as being "stuck in the middle" of global geopolitical tensions.
 
 * [`Michael Robets Blog` Australia: stuck in the middle](https://thenextrecession.wordpress.com/2025/05/02/australia-stuck-in-the-middle/)
 
