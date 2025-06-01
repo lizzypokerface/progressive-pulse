@@ -4,13 +4,11 @@ title:  "✊ Progressive News | 01 June 2025"
 date:   2025-06-01 11:00:00 +0800
 categories: weekly news
 ---
-
-In this week’s Progressive Pulse…
-U. S. imperialism intensifies trade and currency battles, targeting China’s high-tech growth and sanctioning Global-South countries to retain dollar hegemony. Meanwhile, the Middle East endures an Israeli blockade and threatened Iranian negotiations. Africa and Latin America seek multipolar finance and sovereignty, pivoting away from IMF austerity. Europe’s militarization deepens, fueling the Ukraine proxy conflict. Russia weathers sanctions through alternative revenue, and Asia’s realignments highlight state-led industrial strategies over neoliberal dogma. Everywhere, working classes resist exploitation and forced displacement, forging alliances that transcend Atlantic consensus and embolden multipolar development paths.
+In this week’s Progressive Pulse… The world is witnessing a complex interplay of forces. The US continues its economic and political pressure on China, even targeting students, while trade wars and tariffs disrupt global markets. Meanwhile, the humanitarian crisis in Gaza deepens, with accusations of genocide and blocked aid. Across the globe, countries are grappling with the rise of AI, economic inequality, and the ongoing impacts of conflict. BRICS nations are exploring alternative economic systems, signaling a potential shift in the global order as some countries in Africa revolt against imperialism.
 
 ### International
 
-Trump intensifies trade wars, sanctions, and threats to keep U. S. hegemony afloat. Hunger crises reveal lethal inequalities. Marxist analyses highlight how currency dominance and financial warfare hamper Global-South development. Calls for multipolar cooperation grow, with emergent alliances challenging IMF dictates, ensuring sovereignty beyond Washington-led rules.
+Hundreds of millions face hunger globally, driven by inequality. Trump's trade war and tariffs continue to disrupt global markets, while the US pursues a strategy of containing China. BRICS nations explore alternatives to the dollar. AI's rapid development raises concerns about job displacement and potential misuse.
 
 * [`Tricontinental` Hundreds of Millions Are Dying of Hunger: The Twenty-Second Newsletter (2025)](https://thetricontinental.org/newsletterissue/hunger-poverty-inequality/)
 * [`India & Global Left` What It Means to Be a Marxist Today   Vijay Prashad on Communism, Lenin, Stalin, Che & Fidel](https://www.youtube.com/watch?v=6Pv6OTDw2iA)
@@ -55,7 +53,7 @@ Trump intensifies trade wars, sanctions, and threats to keep U. S. hegemony aflo
 
 ### China
 
-Beijing denounces U. S. militarism, invests heavily in AI healthcare, Belt and Road infrastructure, and advanced carriers. Despite sanctions, Chinese state-led industrial strategy widens global influence, forging new mediation pacts with over 30 nations. Tensions over fishing disputes and trade curbs underscore rival geoeconomic claims in East Asia.
+China faces increasing US pressure, including potential restrictions on Chinese students. Despite this, China is investing heavily in AI, including AI-powered hospitals, and continues to advance its military technology. China and 30+ nations create international mediation body in Hong Kong. Stimulus drives industrial profit growth.
 
 * [`Thinkers Forum` How China Unites 1.4 Billion People: Q&A with Zhang Weiwei](https://www.youtube.com/watch?v=GMDvFZadcJs)
 * [`First Thought` The Truth About China's Belt and Road](https://www.youtube.com/watch?v=fnsE7Ufm_tg)
@@ -82,7 +80,7 @@ Beijing denounces U. S. militarism, invests heavily in AI healthcare, Belt and R
 
 ### South Asia
 
-India’s government fails its own bonded-laborer rehabilitation goals, revealing deep class exploitation. Infrastructure ties in Pakistan expand via Chinese dam projects, fueling Belt-and-Road connectivity. India-Pakistan tensions persist, with U. S. arms overshadowed by cheaper Chinese weapons, highlighting shifts in global arms race and multipolar competition.
+The Modi government in India has failed to adequately rehabilitate bonded laborers. China is speeding up work on its dam in Pakistan. Tensions between India and Pakistan continue, with China playing a role as a weapons supplier.
 
 * [`Progressive International` Modi Govt Rehabilitated Only 468 Bonded Labourers in 2023-24 Against Annual Target of 13 Lakh](https://progressive.international/wire/2025-05-30-modi-govt-rehabilitated-only-468-bonded-labourers-in-2023-24-against-annual-target-of-13-lakh/en)
 * [`Empire Watch` Carl Zha   India-Pakistan Conflict & Chinese Weapons: The End of US Military Superiority?](https://www.youtube.com/watch?v=NEB9izwGDcY)
@@ -90,7 +88,7 @@ India’s government fails its own bonded-laborer rehabilitation goals, revealin
 
 ### Southeast Asia
 
-ASEAN positions itself amid U. S.-China tariff battles, forging deeper ties with GCC for trade diversification. Malaysia’s “active non-alignment” moves highlight rejection of imperial dictates. Singapore’s Shangri-La Dialogue reveals attempts to contain China, yet regional states seek infrastructure funds, balanced investments, and strategic autonomy beyond Western dictates.
+ ASEAN nations navigate the complexities of US-China rivalry, with Malaysia emphasizing cooperation over coercion. The first-ever ASEAN-Gulf-China Summit signals a shifting global economic landscape. Trump's tariffs create legal uncertainty for trade in the region.
 
 * [`Think BRICS` A New Axis: ASEAN-GCC-China Cooperation Signals Shifting Global Economic Landscape](https://thinkbrics.substack.com/p/a-new-axis-asean-gcc-china-cooperation)
 * [`Taihe Institute` Malaysia Melee (Bunn Nagara) - TIO Talks 7](https://www.youtube.com/watch?v=n4DtMosYbVQ)
@@ -122,13 +120,13 @@ Singapore
 
 ### East Asia
 
-South Korea’s new voters show sharp gender divides, reflecting broader economic anxieties. Rising militarism across the peninsula ties into Washington’s push for arms deals. Regional stability remains precarious as U. S. containment strategies intensify, risking further escalation and entrenching dependency on dollar-driven alliances.
+First time voters in South Korea are divided among gender lines.
 
 * [`South China Morning Post` 1st time voters divided among gender lines in South Korea](https://www.youtube.com/watch?v=9-rRw3sV72A)
 
 ### West Asia (Middle East)
 
-Israel intensifies a starvation blockade on Gaza, faced with global condemnation but limited Western pushback. U. S.-Iran nuclear talks stall under Israeli sabotage threats. Washington’s complicity in siege underscores finance-driven imperial interests. Palestinian resistance broadens, highlighting a potential shift against settler-colonial impunity and for anti-imperialist solidarity.
+The Israeli military continues attacks on Gaza, destroying hospitals and causing mass casualties. Aid delivery is being blocked. There are ongoing discussions regarding a US-Iran nuclear deal, with Israel expressing concerns.
 
 * [`Glenn Diesen` Is an Israeli Attack on Iran Imminent?](https://glenndiesen.substack.com/p/is-an-israeli-attack-on-iran-imminent)
 * [`Glenn Diesen` The Right Approach to the US-Iran Nuclear Negotiations](https://glenndiesen.substack.com/p/the-right-approach-to-the-us-iran)
@@ -157,7 +155,7 @@ Israel intensifies a starvation blockade on Gaza, faced with global condemnation
 
 ### Russia
 
-Kremlin balances war costs and domestic stability as sanctions fail to cripple its economy. Analysts debate whether Russia has effectively ‘won’ in Ukraine. Diplomatic solutions stall, with Washington’s proxy approach intensifying. Despite internal critique, Moscow leverages energy revenue and emerging alliances to resist NATO’s encirclement.
+Russia's war in Ukraine continues, with Russia reportedly liberating a strategic town. Sanctions against Russia have largely failed. Discussions continue regarding potential concessions Russia might make in negotiations with the US.
 
 * [`Seymour Hersh` HOW MUCH MORE WAR CAN RUSSIA AFFORD?](https://seymourhersh.substack.com/p/how-much-more-war-can-russia-afford)
 * [`Glenn Diesen` What Russia Could Be Willing to Concede in Negotiations with the US?](https://glenndiesen.substack.com/p/what-russia-could-be-willing-to-concede)
@@ -170,7 +168,7 @@ Kremlin balances war costs and domestic stability as sanctions fail to cripple i
 
 ### Europe
 
-E. U. militarization deepens, overshadowing calls for diplomacy in Ukraine. IMF austerity stokes tension in Balkan states, echoing Yugoslavia’s collapse under structural adjustment. Anti-war voices face censorship as Atlantic blocs push further arms spending. Ireland’s genocide declaration on Gaza signals cracks in Western alignment.
+Germany is seemingly preparing for war. The EU is accused of human rights violations. Ireland declares Gaza a genocide. Despite repression, Zionism is collapsing.
 
 * [`Transnational Foundation` How will the Ukraine War end?](https://olatunander.substack.com/cp/164588957)
 * [`Tarik Cyril Amar` The Madness of King Merz, Part Two](https://www.tarikcyrilamar.com/p/the-madness-of-king-merz-part-two)
@@ -194,7 +192,7 @@ E. U. militarization deepens, overshadowing calls for diplomacy in Ukraine. IMF 
 
 ### Africa
 
-Imperialist pressure persists as Washington targets Eritrea, Nigeria faces climate-driven disasters, and IMF debt demands overshadow essential services. African nations push back through multipolar ties, especially with China, prioritizing AI training, food security, and industrial self-sufficiency. Regional blocs seek ceasefire solutions in hotspots like Libya and DRC.
+Nigeria is experiencing deadly flooding. Aid cuts threaten nutrition support for children in Somalia. There is a push to revive Nigeria's livestock sector, and Nigeria boosts AI training as digital investment soars. Namibia seeks reparations for the German genocide.
 
 * [`Breakthrough News` Why the U. S. Still Has Eritrea in Its Crosshairs](https://www.youtube.com/watch?v=bpav8mRVLfQ)
 * [`India & Global Left` Larry Johnson: Trump Tries to Corner South Africa — Ramaphosa Flips the Script](https://www.youtube.com/watch?v=MXK6QfO6rG4&pp=0gcJCbAJAYcqIYzv)
@@ -218,7 +216,7 @@ Imperialist pressure persists as Washington targets Eritrea, Nigeria faces clima
 
 ### North America
 
-Trump wages economic and cultural offensives—tariffs upheld by appeals courts, moves against Harvard’s Chinese students, and clampdowns on dissent. Right-wing forces push anti-labor, anti-welfare agendas, fueling domestic inequality. Grassroots challenges mount, from campus divestment drives to calls for a general strike, revealing fissures in U. S. hegemony.
+Trump escalates attacks on Harvard and international students, revoking visas and targeting academic freedom. A US trade court initially blocked Trump's tariffs, but an appeals court overturned it. Trump's tax bill is criticized. Students achieve Israeli divestment victories on US college campuses.
 
 * [`Richard D Wolff` Wolff Responds: "Trying to control Harvard" Dated May 28, 2025](https://www.youtube.com/watch?v=m_J_pYEz3aU)
 * [`Democracy at Work` Unredacted Tonight: Hidden Truth About The Oklahoma Bombing + How The UK Helps Israel](https://www.youtube.com/watch?v=jOkXdWMVEWE)
@@ -251,7 +249,7 @@ Trump wages economic and cultural offensives—tariffs upheld by appeals courts,
 
 ### Latin America and The Caribbean
 
-Brazil prepares a bold BRICS agenda to challenge dollar dominance. Venezuela’s pro-government rallies showcase resistance to foreign meddling, while Mexico’s judicial reforms stall under external market pressures. Indigenous mobilizations underscore class and ethnic struggles. Public health and infrastructure remain priorities as nations reassert sovereignty beyond IMF constraints.
+Indigenous groups in Colombia reached agreements with the government. Brazil prepares to host the BRICS summit. El Salvador's emergency regime faces scrutiny over deaths in prison. Mexico is undergoing judicial reforms.
 
 * [`Progressive International` National Indigenous Minga reached important agreements with the government](https://progressive.international/wire/2025-05-27-minga-indgena-nacional-lleg-a-importantes-acuerdos-con-el-gobierno/en)
 * [`Think BRICS` Brazil's BRICS Summit: The Plan That Could Reshape Global Power](https://www.youtube.com/watch?v=vkALolMhCGA)
