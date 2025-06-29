@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "✊ Progressive News | 30 June 2025"
-date:   2025-06-30 11:00:00 +0800
+title:  "✊ Progressive News | 29 June 2025"
+date:   2025-06-29 11:00:00 +0800
 categories: weekly news
 ---
 
