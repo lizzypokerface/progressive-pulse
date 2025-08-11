@@ -47,7 +47,7 @@ Trump is intensifying trade wars, particularly against BRICS nations, leading to
 
 # Asia  
 
-## China  
+### China  
 
 China is focused on internal development, opening new schools for Marxism and integrating AI into agriculture. Flooding has caused casualties and damage. China is also expanding its digital influence in the Global South. The U. S. is expanding its military presence near China, raising concerns.
 
@@ -79,7 +79,7 @@ China is focused on internal development, opening new schools for Marxism and in
 * [`New China TV` World Games kicks off in Chengdu with stunning opening ceremony](https://www.youtube.com/watch?v=DAKEP22BCXQ)
 * [`CGTN Africa` Major robotics exhibition underway in Beijing](https://www.youtube.com/watch?v=8_UawsdZcSc)
 
-## East Asia  
+### East Asia  
 
 The anniversaries of Hiroshima and Nagasaki are prompting reflection on the horrors of atomic bombing and U. S. accountability. Tensions remain over Taiwan, with China warning the Philippines against "playing with fire".
 
@@ -95,7 +95,7 @@ The anniversaries of Hiroshima and Nagasaki are prompting reflection on the horr
 * [`New China TV` 80 years on, Japan's reckoning with war remains unfinished](https://www.youtube.com/watch?v=TEBo0sa1qRM)
 * [`Channel News Asia` China says Philippines 'playing with fire' after Marcos remark on Taiwan   East Asia Tonight (Aug 8)](https://www.youtube.com/watch?v=vmEqKWPWB3Y)
 
-## Singapore  
+### Singapore  
 
 Singapore is marking 60 years of independence and focusing on economic strategies. The Singapore Exchange (SGX) is experiencing high revenue and anticipates more IPOs.
 
@@ -104,7 +104,7 @@ Singapore is marking 60 years of independence and focusing on economic strategie
 * [`Channel News Asia` NDP 2025: Singapore marks 60 years of independence](https://www.youtube.com/watch?v=21sNWBiIuJA)
 * [`Channel News Asia` SGX says over 30 companies in IPO pipeline as bourse posts highest revenue since 2000](https://www.youtube.com/watch?v=ghBptHpRumM)
 
-## Southeast Asia  
+### Southeast Asia  
 
 A Thai-Cambodia border conflict ended with a ceasefire. Singapore's Prime Minister Lawrence Wong delivered his National Day Message. Malaysia is protesting Israel's actions in Gaza.
 
@@ -117,7 +117,7 @@ A Thai-Cambodia border conflict ended with a ceasefire. Singapore's Prime Minist
 * [`Al Jazeera` Malaysia protests over Israel’s genocide in Gaza](https://www.youtube.com/watch?v=pfYArbm21IE)
 * [`Al Jazeera` Rohingya mass graves found in Myanmar’s Rakhine state, survivors demand justice](https://www.youtube.com/watch?v=W7487zCY8uE)
 
-## South Asia  
+### South Asia  
 
 Trump's tariffs are impacting India, but India is proceeding with closer ties with China. Pakistan is grappling with the costs of development, particularly concerning IMF versus Belt and Road Initiative (BRI).
 
@@ -130,7 +130,7 @@ Trump's tariffs are impacting India, but India is proceeding with closer ties wi
 * [`Straits Times` Trump order imposes additional 25% tariff on goods from India](https://www.youtube.com/watch?v=kzemQve-ST8)
 * [`South China Morning Post` India, Philippines to elevate ties as Marcos visits India](https://www.youtube.com/watch?v=VfPBigWMIis&pp=0gcJCa0JAYcqIYzv)
 
-## Central Asia  
+### Central Asia  
 
 Turkey is strategically reimagining its role in the Middle East. Wildfires are causing disruptions in Türkiye.
 
@@ -138,7 +138,7 @@ Turkey is strategically reimagining its role in the Middle East. Wildfires are c
 * [`New China TV` Wildfires force evacuations, disrupt transport in NW Türkiye](https://www.youtube.com/watch?v=h8fW7pde2RI)
 * [`Al Jazeera` Thousands in Istanbul rally for Gaza, demand urgent aid and end to Israeli blockade](https://www.youtube.com/watch?v=QO4SCxL3Pwc)
 
-## Russia  
+### Russia  
 
 Speculation surrounds a potential Trump-Putin meeting to discuss the war in Ukraine. Russia is adjusting its military strategy, ending limits on intermediate-range missiles.
 
