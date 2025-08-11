@@ -44,6 +44,7 @@ Trump is intensifying trade wars, particularly against BRICS nations, leading to
 * [`Channel News Asia` Trump's deadline for Russia to end its war in Ukraine expires](https://www.youtube.com/watch?v=hmgCQ1g2A84)
 * [`CGTN Europe` Fighting Floods, Heatwaves & Drought: Global Solutions to Extreme Weather](https://www.youtube.com/watch?v=sBvK-J2ozMM&pp=0gcJCa0JAYcqIYzv)
 * [`CGTN` UN@80: Saudi journalist on reducing, offsetting carbon emissions](https://www.youtube.com/watch?v=Vou9cgjb2NY)
+
 # Asia  
 
 ## China  
@@ -153,11 +154,13 @@ Speculation surrounds a potential Trump-Putin meeting to discuss the war in Ukra
 * [`Democracy Now!` Putin Won't Make Peace with Ukraine Because It Risks His Own Survival](https://www.youtube.com/watch?v=wzNUFqKhimU)
 * [`CCTV Video News Agency` Chinese, Russian Navies Complete "Joint Sea-2025" Military Exercise on Schedule](https://www.youtube.com/watch?v=1Lho4CJ7uEw)
 * [`Al Jazeera` Ukrainian drone attack kills one and damages facility in Russia’s Saratov region](https://www.youtube.com/watch?v=vBpACkO-5Jw)
+
 # Oceania  
 
 Hawaii's Kilauea volcano has erupted.
 
 * [`New China TV` Hawaii's Kilauea volcano erupts](https://www.youtube.com/watch?v=TrGLwfxVc9Y)
+
 # Middle East (West Asia)  
 
 Israel's plans to take control of Gaza are sparking widespread condemnation and protests. Palestinians face starvation and a collapsing healthcare system in Gaza. Some reports indicate the UK is conducting surveillance flights for Israel over Gaza.
@@ -211,6 +214,7 @@ Israel's plans to take control of Gaza are sparking widespread condemnation and 
 * [`Al Jazeera` UN Security Council to meet over Israel’s plan to take control of Gaza City](https://www.youtube.com/watch?v=s5iPDL7yV3w)
 * [`Al Jazeera` Brief: Israeli plans for Gaza City, Lebanon to disarm Hezbollah   The Take](https://www.youtube.com/watch?v=73tGsT_DXvY)
 * [`Al Jazeera` Syria's Bedouin communities adapt as traditional way of life faces challenges](https://www.youtube.com/watch?v=aMKTyluBlpw)
+
 # Africa  
 
 Africa faces risks to its health programs due to aid cuts from the UK and U. S.. Sudan is experiencing a collapsing relationship with the UAE and a worsening hunger crisis. Trump's tariffs are also taking effect across the continent.
@@ -226,6 +230,7 @@ Africa faces risks to its health programs due to aid cuts from the UK and U. S..
 * [`CGTN Africa` Cape Town summit tackles Africa’s AI future in innovation & safety](https://www.youtube.com/watch?v=R9yPMfihwps)
 * [`CGTN Africa` Families of DR Congo soldiers struggle after M23 takeover](https://www.youtube.com/watch?v=RnH0L0tIyiE&pp=0gcJCa0JAYcqIYzv)
 * [`CGTN Africa` Sudan’s coffee rituals at risk amid conflict](https://www.youtube.com/watch?v=pu1fBy8dtaY&pp=0gcJCa0JAYcqIYzv)
+
 # Europe  
 
 The EU's approach to the Balkans is criticized as sowing chaos. Discussions revolve around whether NATO and the EU have become outdated. Pro-Palestinian protests have resulted in numerous arrests in the UK and France.
@@ -253,6 +258,7 @@ The EU's approach to the Balkans is criticized as sowing chaos. Discussions revo
 * [`Al Jazeera` Metropolitan Police make at least 200 arrests at protest in support of Palestine Action](https://www.youtube.com/watch?v=MCqu9teyMUA)
 * [`Al Jazeera` UK police arrest at least 365 people at Palestine Action protest in London](https://www.youtube.com/watch?v=m6XbKyXinzk)
 * [`Al Jazeera` Anti-immigration & anti-racism protesters face off outside UK hotels housing asylum seekers](https://www.youtube.com/watch?v=67JwScJWDKA)
+
 # Latin America & Caribbean  
 
 Venezuela is gaining UN recognition against coercive measures. Trump's tariffs on Brazilian coffee are reportedly backfiring, with China offering assistance.
@@ -268,6 +274,7 @@ Venezuela is gaining UN recognition against coercive measures. Trump's tariffs o
 * [`Telesur English` Mexico   Pres. Sheinbaum rules out U. S. military incursion in national territory](https://www.youtube.com/watch?v=iKZ0koz_Tzk)
 * [`Telesur English` Venezuela   Government denounces new terrorist plans against the northeastern city of Maturin](https://www.youtube.com/watch?v=Ere5TxnaBQc&pp=0gcJCa0JAYcqIYzv)
 * [`Al Jazeera` Protesters in Chile and Argentina demand end to Israel’s war on Gaza](https://www.youtube.com/watch?v=PBMNrUfJopc)
+
 # North America  
 
 Rising inequality in the U. S. is being highlighted. The influence of the military-industrial complex on U. S. democracy is also under scrutiny.
@@ -283,6 +290,7 @@ Rising inequality in the U. S. is being highlighted. The influence of the milita
 * [`Al Mayadeen English` The curious case of Donald Trump](https://www.youtube.com/watch?v=3AjjaEbJbq0&pp=0gcJCa0JAYcqIYzv)
 * [`Al Jazeera` How the military-industrial complex captured US democracy   Business of War](https://www.youtube.com/watch?v=cVYTb85_dZw)
 * [`Al Jazeera` A Tiny Island's Big Secret   True Crime Reports](https://www.youtube.com/watch?v=aRhkxaF7cO0)
+
 # In-Depth Analysis  
 
 Analyses cover topics such as the impact of tariffs on the U. S. economy, historical materialism, and the role of economists.
@@ -300,6 +308,7 @@ Analyses cover topics such as the impact of tariffs on the U. S. economy, histor
 * [`Novara Media` The REAL Reason Millennials Are Screwed   Ash Sarkar Meets Dr Eliza Filby](https://www.youtube.com/watch?v=D3APpd9d3iY)
 * [`India & Global Left` Gerald Horne: The Left’s Identity Politics Blind Spot — Race vs Class](https://www.youtube.com/watch?v=T2WzesF2vzY&pp=0gcJCa0JAYcqIYzv)
 * [`Planet: Critical` Why Complex Societies Collapse   Joseph Tainter](https://www.youtube.com/watch?v=kzHrqzHAxwc)
+
 # Special Features  
 
 Features include discussions on climate change and the future impact of technology.
