@@ -21,59 +21,36 @@ date:   {} 11:00:00 +0800
 categories: weekly news
 ---
 
-### International
+# Global  
 
-* [Article](https://website.com/)
+# China  
 
-### China
+# East Asia  
 
-* [Article](https://website.com/)
+# Singapore  
 
-### South Asia
+# Southeast Asia  
 
-* [Article](https://website.com/)
+# South Asia  
 
-### Southeast Asia
+# Central Asia  
 
-* [Article](https://website.com/)
+# Russia  
 
-### East Asia
+# Oceania  
 
-* [Article](https://website.com/)
+# Middle East (West Asia)  
 
-### Central Asia
+# Africa  
 
-* [Article](https://website.com/)
+# Europe  
 
-### West Asia (Middle East)
+# Latin America & Caribbean  
 
-* [Article](https://website.com/)
+# North America  
 
-### Russia
+# In-Depth Analysis  
 
-* [Article](https://website.com/)
+# Special Features  
 
-### Europe
-
-* [Article](https://website.com/)
-
-### Africa
-
-* [Article](https://website.com/)
-
-### North America
-
-* [Article](https://website.com/)
-
-### Latin America and The Caribbean
-
-* [Article](https://website.com/)
-
-### Oceania
-
-* [Article](https://website.com/)
-
-### Miscellaneous
-
-* [Article](https://website.com/)
 """
