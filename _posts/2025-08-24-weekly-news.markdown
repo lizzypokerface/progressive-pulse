@@ -5,7 +5,11 @@ date:   2025-08-24 11:00:00 +0800
 categories: weekly news
 ---
 
+In this week's Progressive Pulse… The world is grappling with interconnected crises, from the ongoing conflict in Palestine and the proxy war in Ukraine to economic shifts and political tensions. The Trump-Putin summit in Alaska signals a potential realignment of global power, even as concerns rise about the erosion of democracy and human rights in various regions. China's economic and technological advancements continue to reshape the global landscape, prompting both opportunities and anxieties. Meanwhile, grassroots movements and progressive voices are advocating for alternative solutions, emphasizing peace, social justice, and a shift towards prioritizing human needs over profit. The week's events underscore the urgent need for creative diplomacy and international cooperation to address these complex challenges.
+
 # Global  
+
+The Trump-Putin summit in Alaska dominated global discussions, with some seeing it as a chance to end the Ukraine proxy war [i]. Discussions also revolved around fascism, democracy, and reorganizing production to prioritize life over profit [i]. The US's relationship with China, particularly concerning monopolies and a new cold war, remains a key geopolitical issue [i].
 
 * [`Tricontinental - Newsletters` They Shall Not Pass: Our Call against Fascism: The Thirty-Fourth Newsletter (2025)](https://thetricontinental.org/newsletterissue/fascism-santiago-appeal/)
 * [`Geopolitical Economy Report` What drives US politics and the new cold war on China? Monopolies](https://www.youtube.com/watch?v=9EVwFJ7sM6c)
@@ -37,6 +41,8 @@ categories: weekly news
 
 # China  
 
+China focused on internal development, including technological advancements like robot soccer and medical breakthroughs such as saving a patient with a severed head [i]. Foreign relations included meetings with Mekong Foreign Ministers and discussions on trade with the EU [i]. The country also defended its human rights record and promoted cross-border cooperation through initiatives like the Lianyungang Port [i].
+
 * [`Geopolitical Economy Report` How does China's system really work? This famous Chinese professor explains](https://www.youtube.com/watch?v=rkVyYvWezI0)
 * [`Thinkers Forum` Why Trump Can't Stop China Becoming the World’s Superpower](https://www.youtube.com/watch?v=0N2qMnaIxpU)
 * [`Friends of Socialist China` Mekong Foreign Ministers meet in China’s city of peace and harmony](https://socialistchina.org/2025/08/18/mekong-foreign-ministers-meet-in-chinas-city-of-peace-and-harmony/)
@@ -65,6 +71,8 @@ categories: weekly news
 
 # East Asia  
 
+Concerns remain about Japanese militarism 80 years after WWII [i]. Taiwan increased its defense spending by nearly 23% [i]. The US military presence in Korea was questioned [i].
+
 * [`Friends of Socialist China` 80 years since the end of World War II – Japanese militarism has not changed its spots](https://socialistchina.org/2025/08/22/80-years-since-the-end-of-world-war-ii-japanese-militarism-has-not-changed-its-spots/)
 * [`Empire Watch` UNLOCKED (Full Ep) Reunify & Resist: Why the US Military Has No Place in Korea with Ju-Hyun Park](https://www.youtube.com/watch?v=_hUFxdMgaIo)
 * [`Diplomatify` Inside the East Asia Summit: The Untold Story of Power and Rivalry](https://www.youtube.com/watch?v=YKnhKsOLecM)
@@ -73,6 +81,8 @@ categories: weekly news
 
 # Singapore  
 
+Singapore focused on technological advancements, such as automated systems for deploying cyborg insects for rescue missions, and sustainability initiatives, like using renewable diesel at Changi Airport [i]. The nation also highlighted efforts to upgrade workers' skills and provide locally produced food options [i].
+
 * [`Channel News Asia` NTU develops world's first automated system to deploy cyborg insects for rescue missions](https://www.youtube.com/watch?v=AXA7plI6-6M)
 * [`Channel News Asia` Changi Airport using renewable diesel made from used cooking oil](https://www.youtube.com/watch?v=yq2JMReDVcI)
 * [`Channel News Asia` Supermarket customers can buy live locally produced shrimp and fish at selected outlets](https://www.youtube.com/watch?v=ZIGHuuT3fUk)
@@ -80,6 +90,8 @@ categories: weekly news
 * [`Channel News Asia` Key announcements from National Day Rally 2025](https://www.youtube.com/watch?v=yT_y_BxtNdI)
 
 # Southeast Asia  
+
+Myanmar discussed peace and reconciliation [i], while its military government set a date for phased voting [i]. Tensions between Thailand and Cambodia were monitored [i]. Malaysia aims to be a key player in the rare earth supply chain [i]. The presence of US missiles in the Philippines raised concerns [i].
 
 * [`Friends of Socialist China` Myanmar peace and reconciliation discussed in four-party talks](https://socialistchina.org/2025/08/20/myanmar-peace-and-reconciliation-discussed-in-four-party-talks/)
 * [`Al Mayadeen English` US Missiles in the Philippines: A new Cuban Missile Crisis in Asia?](https://www.youtube.com/watch?v=2PFd8qrPcsM)
@@ -92,6 +104,8 @@ categories: weekly news
 
 # South Asia  
 
+India navigated its relationship with both China and the U.S. [i]. New Delhi reaffirmed ties with Moscow despite US tariffs on Russian oil [i]. China is working to strengthen ties with Pakistan [i]. Aid cuts have negatively impacted Rohingya refugees, forcing children into labor and marriage [i].
+
 * [`Thinkers Forum` Between China and the U.S., India Can't Tell Friend from Foe｜Victor Gao](https://www.youtube.com/watch?v=OjLt1at2QuI)
 * [`Neutrality Studies` How Colonialism Fuels Civil War: Sri Lanka & A Man's Struggle for Peace   Pitasanna Shanmugathas](https://www.youtube.com/watch?v=nbyZgnthK2g)
 * [`Friends of Socialist China` Wang Yi’s visit turns the corner on relations with India](https://socialistchina.org/2025/08/22/wang-yis-visit-turns-the-corner-on-relations-with-india/)
@@ -101,15 +115,21 @@ categories: weekly news
 
 # Russia  
 
+Russia's annual tourism numbers exceeded three million foreign visitors [i]. The Trump-Putin summit in Alaska was seen as a strategic triumph for Russia [i]. Some reports suggest a secret deal between Washington and Moscow to pursue peace [i].
+
 * [`Neutrality Studies` Russia Just DESTROYED the Neocons: The Secrete Deal Of Washington & Moscow To Pursue Peace.](https://www.youtube.com/watch?v=BvbhvZMt4KA)
 * [`Al Jazeera English` Russia's annual tourism: More than three million foreign visitors recorded](https://www.youtube.com/watch?v=QL41I1xmr8U)
 
 # Oceania  
 
+New Zealand is becoming further involved in anti-China war plans through an FBI upgrade [i]. Thousands of Australians protested in solidarity with Palestinians in Gaza [i].
+
 * [`Friends of Socialist China` FBI upgrade enmeshes New Zealand in anti-China war plans](https://socialistchina.org/2025/08/18/fbi-upgrade-enmeshes-new-zealand-in-anti-china-war-plans/)
 * [`Al Jazeera English` Thousands of Australians join nationwide protests in solidarity with Palestinians in Gaza](https://www.youtube.com/watch?v=vwNxWOvIHd8&pp=0gcJCa0JAYcqIYzv)
 
 # Middle East (West Asia)  
+
+The Israeli-Palestinian conflict continues to be a major focus, with reports of deliberate killings, destruction of Palestinian agriculture, and a dire humanitarian crisis in Gaza [i]. Some scholars are using the term "healthocide" to describe the situation in Gaza, and some accuse Israel of genocide [i]. There are reports of Israeli propaganda and aid blockades [i].
 
 * [`Progressive International` Palestinian testimonies of deliberate Israeli killings at U.S.-run ‘aid’ sites were ignored until the perpetrators admitted to it](https://progressive.international/wire/2025-08-14-palestinian-testimonies-of-deliberate-israeli-killings-at-u-s-run-aid-sites-were-ignored-until-the-perpetrators-admitted-to-it/en)
 * [`Double Down News` The One Video Israel Doesn't Want You To See](https://www.youtube.com/watch?v=HcCgV0dSoAM)
@@ -156,6 +176,8 @@ categories: weekly news
 
 # Africa  
 
+Trump's administration is reportedly deporting people to Eswatini, Africa's last absolute monarchy [i]. Discussions continue around China's Global Security Initiative and its implications for Africa [i]. The shift in Africa's EV revolution is being debated [i]. Civil war in Sudan is causing refugees to return home [i].
+
 * [`Progressive International` Trump’s Secret Deportations to Africa’s Last Absolute Monarchy](https://progressive.international/wire/2025-08-21-trumps-secret-deportations-to-africas-last-absolute-monarchy/en)
 * [`The China-Global South Project` China’s Global Security Initiative: What It Means for Africa](https://www.youtube.com/watch?v=DW3qTtmbxTM)
 * [`The China-Global South Project` Why China's Message or Narrative Bears More Weight in Africa](https://www.youtube.com/watch?v=i9DfKEotVss)
@@ -168,6 +190,8 @@ categories: weekly news
 * [`Al Jazeera English` Guinea: Opposition Suspension Raises Fears for Democracy Ahead of Referendum](https://www.youtube.com/watch?v=f5Ht_uozKNw)
 
 # Europe  
+
+Europe's response to the Trump-Putin meeting and the ongoing war in Ukraine is a key theme, with some analysts suggesting the US-Russia relationship is decoupling from Europe [i]. Concerns were raised about Russophobia and militarism destroying Europe [i]. The impact of Trump's tariffs on pushing the world towards China was also discussed [i].
 
 * [`Breakthrough News` NATO Lost in Ukraine and the West Is In Denial, w/ Vijay Prashad](https://www.youtube.com/watch?v=oJP4qgCrcqQ)
 * [`The Socialist Program` Ukraine: Background to a Proxy War with No End in Sight  FULL ](https://www.patreon.com/posts/ukraine-to-proxy-137139215?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=web_share)
@@ -190,6 +214,8 @@ categories: weekly news
 
 # Latin America & Caribbean  
 
+AMLO's policies in Mexico have lifted millions out of poverty [i]. Venezuela is enlisting people into Bolivarian militias [i]. Venezuela, Russia, China, Iran, and ALBA-TCP condemned U.S. threats [i]. Bolivia experienced a right turn, potentially impacting the BRICS coalition [i].
+
 * [`Breakthrough News` How President AMLO’s Policies Lifted 13.4 Million Mexicans Out of Poverty](https://www.youtube.com/watch?v=ulvxk3tWhuM&pp=0gcJCa0JAYcqIYzv)
 * [`Progressive International` "Stop Amazon": How Sarthe Resists the Logistics Empire](https://progressive.international/wire/2025-08-19--stop-amazon--comment-la-sarthe-rsiste--lempire-logistique/en)
 * [`Think BRICS - YouTube` Bolivia Election Shockwaves: BRICS at a Crossroads in Latin America](https://www.youtube.com/watch?v=W08yyhKc9WM)
@@ -209,6 +235,8 @@ categories: weekly news
 
 # North America  
 
+Trump's actions in D.C. are raising concerns about a potential police state and martial law [i]. Discussions continue about Trump's control over intelligence [i]. There are mass marches in support of Palestine [i].
+
 * [`Breakthrough News - Live` Mass March for Humanity: Stop Starving Gaza](https://www.youtube.com/watch?v=5-7_TTSD39A)
 * [`Breakthrough News - Live` Trump’s DC Plot: the Police State Coming to a City Near You](https://www.youtube.com/watch?v=mq4uaJIDBcQ)
 * [`Breakthrough News` Trump’s Police Takeover in D.C. Isn’t Random. It’s a Blueprint for Martial Law w/ Prof. Wolff](https://www.youtube.com/watch?v=h3gsxDD_Oyc)
@@ -227,6 +255,8 @@ categories: weekly news
 
 # In-Depth Analysis  
 
+Analysis focused on the declining dollar, failures of mainstream economics, and the concept of "Apartheid Version 2" [i]. A Hudson Institute report envisions a U.S. strategy for a post-CCP China [i].
+
 * [`Michael Robets Blog` Dollar decline; the failures of mainstream economics and epochal crisis – reviews](https://thenextrecession.wordpress.com/2025/08/18/dollar-decline-the-failures-of-mainstream-economics-and-epochal-crisis-reviews/)
 * [`Second Thought` "Apartheid Version 2"](https://www.youtube.com/watch?v=632JlJJlgGg)
 * [`Think BRICS - Substack` Hudson Institute Report Envisions U.S. Strategy for a Post-CCP China](https://thinkbrics.substack.com/p/hudson-institute-report-envisions)
@@ -236,5 +266,7 @@ categories: weekly news
 
 
 # Special Features  
+
+The film "Dongji Rescue" was highlighted as an inspiring blockbuster about courage, resistance, and shared humanity [i].
 
 * [`Friends of Socialist China` Dongji Rescue: An inspiring blockbuster of courage, resistance and shared humanity](https://socialistchina.org/2025/08/22/dongji-rescue-an-inspiring-blockbuster-of-courage-resistance-and-shared-humanity/)
